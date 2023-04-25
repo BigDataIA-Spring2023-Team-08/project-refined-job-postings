@@ -8,8 +8,11 @@ class User(BaseModel):  #class to create or access user
     name: str
     username : str
     password: str
-    # plan : str  #added plan assignment 3
-    # user_type : str
+    resume_filename: Optional[str] = None
+
+    class Config():
+        orm_mode = True
+
 
 class UpdateUserPassword(BaseModel):
     password : str
@@ -34,7 +37,4 @@ class Token(BaseModel): #token class with access token and token type
 class TokenData(BaseModel):
     username: Optional[str] = None
 
-# class Plan(str, Enum):   #class to show plans as options in CLI
-#     free = 'free'
-#     gold = 'gold'
-#     platinum = 'platinum'
+
