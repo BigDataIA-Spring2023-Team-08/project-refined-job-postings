@@ -1,0 +1,622 @@
+Job ID,Title,CleanedDescription
+3583434580,Data Engineer,"title: data engineer
+location: 100% remote
+duration: 12+ months contract
+note
+only w2.
+any independent visa is fine.(except cpt and opt candidates)
+experience preferred on the following tools and technology
+ms sql
+python
+sharepoint
+advanced excel skill (formulas, vba, power pivot, pivot table)
+responsibilities
+designing and implementing data transformation, ingestion and curation functions on gcp cloud using gcp native or custom programming designing and building production data pipelines from ingestion to consumption within a hybrid big data architecture, using java, python etc. performing detail assessments of current state data platforms and creating an appropriate transition path to gcp cloud analysing, re-architecting and re-platforming on-premise data warehouses to data platforms on gcp cloud using gcp/3rd party services optimizing data pipelines for performance and cost for large scale data lakes gcp stack- big query, cloud functions, pub sub, ci/cd automation github terraform for infrastructure development and deployment data modelling experience python
+education
+degree in computer science
+"
+3583084399,Data Engineer,"job description
+as a data engineer in the analytics and behavior change group, you will be working on the deployment and experimentation platform to deliver personalized nudges to improve member health and encourage healthy actions. you will lead and participate in the design, build and management of large-scale data structures, pipelines, and efficient extract/load/transform (etl) workflows.
+your main responsibilities will include:
+developing large scale data structures and pipelines to organize, collect and standardize data that helps generate insights and addresses reporting needs.
+writing etl (extract / transform / load) processes, designs database systems and develops tools for real-time and offline analytic processing.
+collaborating with the data science team to transform data and integrate algorithms and models into automated processes.
+using knowledge in hadoop architecture, hdfs commands and experience designing & optimizing queries to build data pipelines.
+using strong programming skills in python, java or any of the major languages to build robust data pipelines and dynamic systems.
+building data marts and data models to support data science and other internal customers.
+integrates data from a variety of sources, assuring that they adhere to data quality and accessibility standards.
+analyzing current information technology environments to identify and assess critical capabilities and recommend solutions.
+pay range
+the typical pay range for this role is:
+minimum: $ 70,000
+maximum: $ 140,000
+please keep in mind that this range represents the pay range for all positions in the job grade within which this position falls. the actual salary offer will take into account a wide range of factors, including location.
+required qualifications
+2 + years of relevant data engineering experience.
+1 + years of professional experience with java, python and other related programming languages.
+1 + years of experience with distributed data/computing tools (mapreduce, hadoop, hive, kafka, spark, or mysql).
+preferred qualifications
+experience with cloud computing (aws, microsoft azure, google cloud).
+experience with api’s.
+experience with test-driven development and automated testing frameworks.
+strong knowledge on building a continuous integration and deployment pipeline.
+education
+bachelor's degree or equivalent work experience in computer science, engineering, machine learning, or related discipline
+business overview
+"
+3588895259,Data Engineer,"become a member of the biontech family!
+based in cambridge, ma and gaithersburg, md. we are committed to improving the health of people worldwide with our fundamental research and our work in the area of development of immunotherapies utilizing the full potential of the immune system to fight cancer, infectious diseases and other serious diseases. we believe in scientific rigor, innovation and passion as driving forces. biontech was founded by scientists and physicians to translate science into survival by combining fundamental research and operational excellence.
+with decades of deep immunology expertise and experience in developing and optimizing mrna as part of its broad suite of novel technologies, the company is working with the global community to defeat life-threatening and serious diseases such as cancer, covid-19, malaria and tuberculosis. the first ever approved mrna vaccine was created in the labs of biontech in mainz, germany. a fully integrated immunotherapy powerhouse. we remain focused on bringing our broad pipeline of next-generation immunotherapies and vaccines to people around the world to address cancer, infectious diseases, as well as a growing list of other medical conditions. to accomplish this, we continue to be deeply rooted in science and academic research while also having built a fully integrated, global immunotherapy company with cgmp and gmp manufacturing facilities anchored around deep expertise in immunology and complemented by an expanding set of capabilities.
+job title: data engineers job location: 70 sidney street, cambridge, ma 02139 job responsibilities: 1. work closely in partnership with scientists to understand scientific challenges, data needs, business needs, technology and software requirements; 2. design and develop quality r shiny applications for visualization purposes to address the needs of scientists; 3. assist in the design and development of optimized and normalized database schemas as needed for the database layer of both data and software projects; 4. develop and establish devops best-practices including code-reviews, version control, continuous integration, continuous delivery and unit testing; 5. utilize domain knowledge of bioinformatics algorithms functional group worksflows to propose and implement automated software solutions to assist in laboratory ease and automation; 6. construct automated pipelines using new and existing python scripts with apache airflow as needed, to support a variety of data integration projects; 7. work with comp bio and other data-focused groups to identify public datasets of future interest and build pipelines importing them into the biontech data commons; 8. be comfortable working the aws cloud and implementing cloud-based software solutions; and 9. make scientific and engineering presentations to various groups and meetings in the company. job requirements: employer requires a master's degree in bioinformatics plus one (1) year of experience as a bioinformatics engineer. in addition, the employer requires the following: 1. experience with immune biology processes gained through one (1) year of work experience; 2. experience developing automated pipelines using python gained through one (1) year of work experience; 3. experience with sql database technologies gained through one (1) year of work experience or certification; 4. experience with cloud computing gained through one (1) year of work experience or certification; and 5. experience developing applications using r shiny gained through one (1) year of work experience. all years of experience may be gained concurrently. telecommuting is available from within the boston metro area. must be able to come to the office as needed. this position is eligible for biontech us ’s employee referral program. scott smith – associate director, talent acquisition by email  mail to biontech us inc., 40 erie street, suite 110, cambridge ma 02139 (attn: req#er04713)
+benefits for you.
+biontech us is committed to the well being of our team members and offers a variety of benefits supporting our diverse employee base. salaried/position-targeted hourly employees working 30+ hours per week are eligible for our comprehensive benefits package. benefits include but are not limited to:
+life, ad&d, std and ltd insurance
+hsa & fsa spending accounts
+health & wellness, including free onsite gym access
+adoption & surrogacy assistance
+vacation and unlimited sick time
+holidays and floating holidays, including discretionary winter shutdown
+401(k) plan with significant company match
+tuition reimbursement and professional development
+commuting assistance and subsidized parking
+discounted home and auto insurance
+pet insurance
+have we kindled your pioneering spirit?
+then apply now for our location cambridge (boston) and simply send us your application documents using our online form.
+biontech does not differentiate on the basis of gender, political opinion, religion or belief, nationality, ethnic or social origin, age, sexual orientation, marital status, disability, physical appearance, health status or any other aspect of personal status. we are committed to creating a diverse and inclusive environment and are proud to be an equal opportunity employer. most important – it’s a match!
+biontech - as unique as you
+"
+3584653457,Data Engineer,"about us:
+live experiences help people cross today’s digital divide and focus on what truly connects us – the here, the new, this once-in-a-lifetime moment that’s bringing us together. to fulfill gametime’s mission of uniting the world through shared experiences, we make it easy for people to discover and access the live experiences that matter most.
+we are looking for an organized, data-driven, and curious team player to work cross-functionally across the data, product, marketing, finance, and operations teams. as a data engineer, you will support and inform various functions throughout the company to solve business-critical issues, specifically related to our product, features, etc. you will develop new etl processes and deploy new technologies into the ecosystem. the ideal candidate will be able to thrive in a fast-paced environment and able to adapt to changes within the business and the industry.
+what you'll be doing:
+develop data pipelines and infrastructure that is fast, reliable, and accurate
+create ingest processes for new data sources
+maintain and develop data alerting infrastructure to quickly respond to and fix production issues
+influence and build relationships with people across all levels of the organization, internally and externally
+what our ideal candidate has:
+1+ years of data engineer experience, ideally at a technology company
+proficient in sql
+experience with a programming language (python a plus)
+ability to identify, analyze, and provide recommendations to complex business decisions
+solid understanding of database concepts and architecture
+ability to work across disparate data sources to obtain sensible results
+strong collaboration and communication skills
+experience analyzing user-centric products, preferably in the gaming or marketplace industries
+strong problem-solving skills
+some experience with python or r
+experience with a data visualization software
+what we can offer:
+equity
+medical, dental, & vision insurance
+life insurance and disability benefits
+401k, hsa, pre-tax savings programs
+new equipment setup provided
+diverse family-forming benefits through carrot fertility
+wellness programs
+tenure recognition
+$130,000 - $175,000 a year
+at gametime pay ranges are subject to change and assigned to a job based on specific market median of similar jobs according to 3rd party salary benchmark surveys. individual pay within that range can vary for several reasons including skills/capabilities, experience, and available budget.
+gametime is committed to bringing together individuals from different backgrounds and perspectives. we strive to create an inclusive environment where everyone can thrive, feel a sense of belonging, and do great work together. as an equal opportunity employer, we prohibit any unlawful discrimination against a job applicant on the basis of their race, color, religion, veteran status, sex, parental status, gender identity or expression, transgender status, sexual orientation, national origin, age, disability or genetic information. we respect the laws enforced by the eeoc and are dedicated to going above and beyond in fostering diversity across our company.
+"
+3583434137,ETL Data Engineer,"all roles are hybrid in the office (2-3 days/week) unless remote is noted
+w2 rate range
+location details -noted below
+only taking usc, gc or h4 ead, l2 visa or tn visa - they will not take opt ead or cpt
+data analytics engineer etl informatica
+charlotte nc or summit nj- 2 days in office/3 days remote local candidates only
+12+ months
+seeking a data engineer who can assist with transitioning and building new process/enhancements of current state as well as development.
+will be responsible for the following on a daily basis
+60% of this role is initially assisting in the identification of process changes/enhancements and the documentation/requirement definition within the data engineering team.
+must have a strong background in data analytics delivery and data warehousing
+must be strong in sql queries, stored procedures, query optimization and performance tuning
+data engineering background to include: analyzing current state, document the use of tools, primarily ssis, adopt any etl tool, create documentation, process and test.
+assessing current state/process and documenting current issues and willing to learn/adapt to other etl tools outside of ssis
+documentation and building of new technical documents based on review of trouble tickets
+must be able to help understand and define current state and ensure new enhancements as well as assist in implementing changes
+required experience
+8+ years of data engineering experience within etl/informatica, sql and ssis
+strong background working within agile
+8+ years of data management experience including data modeling, data integrity and data quality
+6+ years rdbms such as sql server, oracle or mysql
+6+ years of experience writing relational database queries (sql) for stored procedures, query optimization and performance tuning
+6+ years of experience with etl tools (ssis)
+6+ years of experience with large data and analytic environments
+2+ years of experience with agile practices
+experience with autosys or other automation/scheduling tools
+"
+3584787956,Data Engineer,"radancy data engineering is seeking a data engineer to support building new data products and services.
+about
+radancy data engineering works on data services across product organizations within radancy, and supports building a customer facing data visualization product. the data engineering team supports an enterprise grade recruitment platform focusing on talent acquisition and job opportunity exploration.
+the team has extensive experience in etl development, works with large scale data in real time, and cross collaborates with other engineering teams across the organization.
+build and maintain etl pipelines utilizing python that connect 1st and 3rd party data
+work with cloud computing platforms (gcp/aws), luigi, kafka and other open-source technologies
+conduct data modeling, schema design, and sql development
+ingest and aggregate data from both internal and external data sources to build our world class datasets
+develop and lead the testing and fixing of new or enhanced solutions for data products and reports, including automating etl testing
+collaborate with product owner and domain experts to recognize and help adopt best practices in reporting and analysis: data integrity, test design, analysis, validation, and documentation
+assist with the development and review of technical and end user documentation including etl workflows, research, and data analysis
+work with product team to define data collection and engineering frameworks
+build monitoring dashboards and automate data quality testing
+responsible for daily integrity checks, performing deployments and releases 
+own meaningful parts of our service, have an impact, grow with the company
+3+ years of python, sql, and etl development 
+bachelors or masters degree in computer science or other related field
+product / reporting suite experience
+familiarity with c#, .net, kafka, docker
+exposure to front end development: html, javascript, jquery, angular or similar libraries
+exposure / familiarity with google cloud platform / bigquery / amazon redshift
+adtech experience preferred
+enthusiastic about working with and exploring new data sets 
+detail oriented and strong communicator
+join the global leader in talent acquisition technologies that’s committed to finding new ways to leverage software, strategy and creative to enhance our clients’ employer brands – across every connection point. we’re looking for unconventional thinkers. relentless collaborators. and ferocious innovators. talented individuals who are ready to work towards solutions that transform the way employers and job seekers connect.
+salary range: $120,000.00-$135,000.00*
+the above range is based on a wide array of factors unique to each candidate, including but not limited to skill set, years and depth of experience, certifications, and specific office location.
+radancy is an equal opportunity employer and welcomes all qualified applicants regardless of race, ethnicity, religion, gender, gender identity, sexual orientation, disability status, protected veteran status, or any other characteristic protected by law. we actively work to create an inclusive environment where all of our employees can thrive.
+"
+3589480973,Data Engineer,"
+"
+3583075069,Data engineer,"job title :: data engineer location :: remote skill python sql informatica idq
+cloud bc labs inc is a digital transformation organization aimed at creating seamless solutions for clients to effectively manage their business operations. the company specializes in business and management consulting, ai/ml, data analytics & visualization, cloud data warehouse migration, snowflake implementation, informatica implementation & upgrade, staffing services and data management solutions
+"
+3583544713,Data Engineer,"role: data engineer
+job location: charlotte/ rhodeisland
+experience: min 9years
+work mode: full time
+skills required:
+java spark, scala and aws are mandatory.
+mandatory cloud migration skills and lead level skills
+experience with big data tools: hadoop, spark, kafka, etc.
+experience with relational sql and nosql databases, including postgres and cassandra.
+experience with data pipeline and workflow management tools: azkaban, luigi, airflow, etc.
+experience with aws cloud services: ec2, emr, rds, redshift
+experience with stream-processing systems: storm, spark-streaming, etc.
+experience with object-oriented/object function scripting languages: python, java, c++, scala, etc.
+best wishes,
+lokesh potnuri
+recruiter 
+614-356-8153
+"
+3589489836,Analytics Engineer,"it's fun to work in a company where people truly believe in what they are doing!
+we're committed to bringing passion and customer focus to the business.
+fractal is a strategic ai partner to fortune 500 companies with a vision to power every human decision in the enterprise. fractal is building a world where individual choices, freedom, and diversity are the greatest assets. an ecosystem where human imagination is at the heart of every decision. where no possibility is written off, only challenged to get better. we believe that a true fractalite is the one who empowers imagination with intelligence. fractal has been featured as a great place to work by the economic times in partnership with the great place to work® institute and recognized as a ‘cool vendor’ and a ‘vendor to watch’ by gartner.
+position overview
+fractal is looking for a proactive and driven engineer to join our data engineering and analytics team in new york, new jersey, remote area. in this role, you will play a vital role as the client and team lead with hands-on involvement in project management, business interpretation and application of solutions, client communication, insights/results delivery. 
+this is a perfect opportunity for someone, who is looking to combine best-in-class analytics skills with strong problem-solving and communication abilities to perform analytical work to help clients solve strategic, tactical, and operational business problems.
+the perfect candidate will have experience in both data engineering and data science.
+data engineer- data management & platforms
+primary responsibilities
+play a key role in the success and growth of the data engineering team by mentoring and playing a leadership role within the team
+drive innovation within data engineering by playing a lead role in technology decisions for the future of our data science, analysis, and reporting needs
+work with business partners and software engineers to gather, understand, and bridge definitions and requirements
+lead the design and development for highly complex and critical data projects with strict timelines
+improvements to team efficiency and effectiveness through implementation of data tools (self-service, data quality, etc.)
+design, develop and maintain data pipelines to extract data from a variety of sources and populate data lake and data warehouse
+develop the various data transformation rules and data modeling capabilities
+collaborate with data analyst, data scientists, machine learning engineers to identify and transform data for ingestion, exploration, and modeling
+work with data governance team and implement data quality checks and maintain data catalogs
+use orchestration, logging, and monitoring tools to build resilient pipelines
+use test driven development methodology when building elt/etl pipelines
+understand and apply concepts like data lake, data warehouse, lake-house, data mesh and data-fabric where relevant
+develop data models for cloud data warehouses like redshift and snowflake
+develop pipelines to ingest data into cloud data warehouses
+understand and be able to use different databases like relational, document, graph and key/value
+analyze data using sql
+use serverless aws services like glue, lambda, stepfunctions
+use terraform code to deploy on aws
+containerize python code using docker
+use git for version control and understand various branching strategies
+build pipelines to work with large datasets using pyspark
+develop proof of concepts using jupyter notebooks
+work as part of an agile team
+create technical documentation as needed
+education
+bachelor’s degree or equivalent experience in a relevant field such as mathematics, computer science, engineering, artificial intelligence, etc.
+required experience and skills
+7+ years of relevant experience
+good experience with aws services like s3, ecs, fargate, glue, stepfunctions, cloudwatch, lambda, emr
+sql
+proficient in python, pyspark
+good with git, docker, terraform
+ability to work in cross functional teams
+preferred experience and skills
+any aws developer or architect certification
+agile development methodology
+pay
+the wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. the disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. at fractal, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. a reasonable estimate of the current range is: $100-$120k in addition, for the current performance period, you may be eligible for a discretionary bonus.
+benefits
+fractal provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+if you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!
+not the right fit? let us know you're interested in a future opportunity by clicking introduce yourself in the top-right corner of the page or create an account to set up email alerts as new job postings become available that meet your interest!
+"
+3582119741,Data Engineer - ETL/BI Developer,"designs, builds and oversees the deployment and operation of technology architecture, solutions and software to capture, manage, store and utilize structured and unstructured data from internal and external sources. establishes and builds processes and structures based on business and technical requirements to channel data from multiple inputs, route appropriately and store using any combination of distributed (cloud) structures, local databases, and other applicable storage forms as required.
+ 
+designs, builds and oversees the deployment and operation of technology architecture, solutions and software to capture, manage, store and utilize structured and unstructured data from internal and external sources. establishes and builds processes and structures based on business and technical requirements to channel data from multiple inputs, route appropriately and store using any combination of distributed (cloud) structures, local databases, and other applicable storage forms as required. develops technical tools and programming that leverage artificial intelligence, machine learning and big-data techniques to cleanse, organize and transform data and to maintain, defend and update data structures and integrity on an automated basis. creates and establishes design standards and assurance processes for software, systems and applications development to ensure compatibility and operability of data connections, flows and storage requirements. reviews internal and external business and product requirements for data operations and activity and suggests changes and upgrades to systems and storage to accommodate ongoing needs.
+essential duties and responsibilities:
+translate business requirements into specifications that will be used to drive data store/data warehouse/data mart design & configuration.
+use etl tools to load data stores/data warehouse
+provide support as required to ensure the viability & performance of enterprise data and bi environments to both internal & external users.
+ensure proper configuration management and change controls are implemented.
+must be able to perform duties with moderate to low supervision.
+design & implement technology best practices, guidelines and repeatable processes
+maintain jira, wiki and project documentation as needed.
+ 
+5 years of relevant experience in data management, etl, data warehousing and bi reporting.
+minimum of 2 years' experience with data pipelines (etl / elt)
+demonstrated understanding of the data lifecycle
+knowledge of data modeling, data ingestion and etl design.
+advanced sql proficiency
+experience in talend data integration tool.
+experience with data visualization tools (tableau and power bi a plus)
+exposure to source control, ci / cd, and devops
+knowledge of aws technologies (ec2, s3, rds, redshift, etc.)
+working knowledge of agile frameworks and jira
+knowledge of integration with systems like salesforce, relational databases, rest api, ftp/sftp, etc.
+knowledge ssrs is a plus.
+ability to learn and use new technologies quickly & effectively.
+proven ability to communicate effectively with technical and non-technical stakeholders across multiple business units
+excellent analytical and problem-solving skills
+preferred qualifications:
+advanced sql proficiency
+functional experience with talend or dbt
+advanced experience with data visualization tools (tableau and power bi)
+experience with aws and snowflake
+pay range details
+ 
+the base pay range(s) below are provided in compliance with state speciﬁc laws. pay ranges may be
+different in other locations.
+ 
+colorado $90,200-$144,200 [annually] 
+ 
+washington $90,200-$159,500 [annually]
+ 
+california $90,200-$174,600 [annually]
+ 
+nyc $99,700-$174,600 [annually] 
+ 
+the pay range above is the general base pay range for a successful candidate in the state listed.
+ 
+the successful candidate’s actual salary/wage may be based on various factors, such as geographic
+location, candidate experience and qualiﬁcations, as well as market and business considerations.
+ 
+this role is eligible for an annual bonus based on individual and company performance, depending on
+the terms of the applicable plan and the employee’s role.
+ 
+beneﬁts
+ 
+avalara’s beneﬁts for eligible employees includes company beneﬁts such as medical, dental, and
+vision coverage, life, ad&d, and disability insurance, a 401(k) retirement plan, 17 days of
+paid time off annually, 12 paid holidays, paid parental leave, an employee assistance program, and
+subsidized transportation options for commuters.
+ 
+all beneﬁts are subject to eligibility requirements and avalara reserves the right to modify or
+change these beneﬁts programs at any time, with or without notice, unless otherwise required by law.
+"
+3588487283,Data Engineer,"who we are:
+convoso is a leading provider of omnichannel contact center software. the company was founded on innovation and continues to push boundaries in our industry.
+headquartered in los angeles, the company has employees around the globe working both hybrid and remote. the company culture fosters team integrity, positive persistence, and continuous growth. (a heads up - we were awarded as built in la’s best places to work in 2020, 2021 and 2022!)
+with convoso, the future is bright as we continue to evolve our technology.
+the company’s foundational product provides the most powerful contact center software available for outbound teams. however, we are expanding our reach by relaunching an advanced version of our conversational ai product. the enhanced capabilities of our intelligent virtual agent (iva) gives our customers a competitive edge and streamlined productivity by dramatically reducing repetitive tasks. this future forward technology will allow convoso to grow into new markets across hundreds of use cases.
+convoso is looking for people who are excited about technology and the fast growing, innovative field of iva and ai. we are a company of motivated team players driving accelerated growth in a supportive, positive culture. we celebrate a diversity of people, ideas, and backgrounds that contribute to one shared community.
+most roles at convoso function as “hybrid” with some opportunities for travel to in-person business events and company meetings. for remote positions, convoso’s . hiring is open to candidates who are residents of the following states: az, ca, co, ct, fl, ga, il, in, ma, nc, nj, nv, oh, pa, tx, ut.
+the job:
+at convoso, we’re constantly, vigilantly looking for ways to reshape the future of lead generation contact centers. our mission is to revolutionize the call center industry by empowering agents to convert leads faster. that’s where you come in.
+we are looking for … a data engineer with a strong database background to join our engineering. this individual will join a dynamic team and will be critical to tuning and managing data movement across a highly distributed environment ensuring data is sourced from the right place with the right technology. you must be comfortable working with a wide range of stakeholders and functional teams. the right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+stepping into this very challenging role will mean stepping into a dynamic environment. there’ll be a steep learning curve, but we believe the future belongs to those who build it. therefore, success for you would mean reaching your full potential in a short period of time, while doing whatever it takes to get up to speed. success would mean having a strong ability to manage multiple projects with competing deadlines.
+what you'll be doing:
+designing and maintaining an optimal data pipeline architecture.
+identifying, designing, and implementing internal process improvements, including re-designing infrastructure for greater scalability, optimizing data delivery, and automating manual processes.
+designing and delivering secured systems and services with high availability and reliability.
+maintain and support the current mysql database, including the creation of new dbs, migrations, backups, and replications.
+work on implementing new dataflow processes
+who you are:
+minimum of a bachelor’s degree in computer science, mis, or related degree and five (5) years of relevant experience, including database administration, database programming, data engineering, or a combination of education and training experience.
+strong understanding of relational databases and the sql language, including mysql.
+understanding of non-relational storage systems such as mongodb, elasticsearch, redis, and more.
+strong problem-solving skills with an emphasis on product development.
+previous experience as a data engineer or in a similar role
+excellent written and verbal communication skills for coordinating across teams.
+a drive to learn and master new technologies and techniques.
+5+ years of coding knowledge and experience with several languages:
+experience with database replication, including mysql.
+advanced working sql knowledge and experience working with relational databases, query authoring (mysql), and working familiarity with various databases.
+working knowledge of message queues, stream processing, and highly scalable ‘big data’ data stores.
+experience supporting and working with cross-functional teams in a dynamic environment.
+work perks worth the hype:
+competitive compensation package
+stock options
+100% covered premiums for employees; medical, dental, basic life insurance, long term disability
+affordable vision plan and optional fsa
+pto, paid sick time, holidays, bereavement time, parental leave
+your birthday off
+no cost employee assistance program and travel assistance
+monthly gym membership reimbursement
+monthly credits toward food & beverage
+company outings
+on and offsite team building events
+paid training for departments
+apple laptop (most roles)
+and a team of highly experienced and kind colleagues!
+hq office:
+casual office environment & dress
+daily catered lunches
+fully stocked kitchen (dietary restriction-friendly)
+happy hours
+monthly massages
+on-site car wash
+free parking
+your california privacy rights:
+as a california resident who is an applicant to be an employee of convoso, you have certain rights under california law with respect to information collected by convoso in the course and scope of its evaluation of your application. the types of information convoso collects and your rights with respect to that information are contained in convoso’s privacy policy, which you can review by going to /privacy-policy/.
+"
+3586131131,Data Engnieer,"salary: $102,500.00
+we have partnered with a human resources and consulting firm in the clearwater, fl area to provide them with a data engineer. please review the below description and let us know if you are interested.
+prioritized must have skills for the data engineer
+#1. experience using tableau, logi analytics, or power bi, relational sql and nosql database, data pipeline and workflow management tools, developing data lake, data warehouse, and data marts.
+#2. experience with object oriented/object function scripting languages: python, java, c++,
+responsibilities of the data engineer
+create and maintain optimal data pipeline architecture.
+assemble large, complex data sets to meet functional / non-functional business requirements.
+identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, and re-designing infrastructure for greater scalability.
+build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using sql and azure technologies.
+build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency, and other key business metrics.
+work with stakeholders including the executive, product, data and design teams to assist with data[1]related technical issues and support their data infrastructure needs.
+manage, monitor, and secure data across boundaries through multiple data centers and azure regions.
+build processes supporting data transformation, data structures, metadata, dependency, and workload management.
+work with data and analytics experts to strive for greater functionality in our data systems.
+develops store procedures, scripts, and assists with software configuration and testing.
+requirements of the data engineer
+. or  degree preferred, with two (2) years' experience in a microsoft azure and sql server environment.
+report development experience using tableau, logi analytics, or power bi.
+experience with relational sql and nosql database
+experience with data pipeline and workflow management tools.
+experience with developing data lake, data warehouse, and data marts. experience with object oriented/object function scripting languages: python, java, c++, etc
+other key requirements
+hybrid role (hybrid schedule differs from department to department)
+no sponsorship or visa holders. no corp-to-corp.
+benefits of the data engineer
+medical insurance
+vision insurance
+short- & long-term disability insurance
+401(k) retirement plan
+about relevante, inc. the recruiting firm representing the client for this job
+relevante is an accounting & technology direct hire recruiting and contract staffing firm. we help our clients identify and recruit the best talent in the market and help our candidates win engaging and enriching jobs. our clients are some of the best companies to work for among f1000 and emerging fast growth companies in the region. relevante has been consistently ranked as a fast growth company and one of the largest recruiting, accounting, and management consulting firms in the philadelphia region. to stay connected with our network, please follow us on linkedin /company/relevante.
+"
+3584672696,Data Engineer,"create and maintain optimal data pipeline architecture,
+assemble large, complex data sets that meet functional / non-functional business requirements.
+identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using sql and aws ‘big data’ technologies.
+build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
+work with stakeholders including the executive, product, data and design teams to assist with data-related technical issues and support their data infrastructure needs.
+keep our data separated and secure across national boundaries through multiple data centers and aws regions.
+create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.
+work with data and analytics experts to strive for greater functionality in our data systems.
+troubleshoots issues with minimal guidance, identifies bottlenecks in existing data workflows and provides solutions for a scalable, defect-free application
+works with onshore/offshore team to analyze, develop and improve pipeline run times as well as produce accurate defect free code
+complies with company policy and practices relating to the system development life cycle.
+provides tier 3 support and resolution of it issues escalated by it customer support.
+support audit and compliance reporting requests.
+support the operation of marklogic and snowflake products on a 24/7 basis as needed.
+supports production environment in the event of emergency
+participate in on-call support 24x7 weekly rotation of the operation of informatica.
+performs other job-related duties as assigned or apparent.
+required skills: snowflake, aws, s3, lambda, python
+"
+3583075080,Data Engineer,"role: data engineer the prescreen will consist of a video and games. description:
+what you'll do
+as a senior data engineer, you are part of the software development team. we develop strategies and solutions to ingest, store, and distribute our big data. our developers use big data technologies including (but not limited to) hadoop, pyspark, hive, json, and sql to develop products, tools and software features.
+minimum skills required
+bachelor's degree (typically in computer science, management information systems, mathematics, business analytics or another technically strong program), plus 2 years of experience
+proven big data technology development experience including hadoop, spark (pyspark), and hive
+understanding of agile principles (scrum)
+experience developing with python
+cloud development (azure)
+exposure to vcs (git, svn)
+position specific skill preferences
+experience developing with sql (oracle, sql server)
+exposure to nosql (mongo, cassandra)
+apache nifi
+airflow
+docker
+"
+3581100648,Recent Graduate: Software Engineer,"designs, analyzes, programs, debugs, troubleshoots, and modifies software applications for enhancements and new products. formulates and defines system scope and objectives for assigned projects combining knowledge and disciplines of all aspects of a computing system (., program stack, memory management, cpu, i/o, and networking utilization, coding, testing, debugging, and documentation) and develops and/or maintains advanced knowledge of computing system integration and makes recommendations or decisions on software and hardware configurations and developments.
+responsibilities
+learns the ropes in installing, configuring, testing and maintaining operating systems, application software, and system management tools
+supports internal and external software products
+codes and programs enhancements, updates, and changes for portions and subsystems of systems software, including operating systems, compliers, networking, utilities, databases, and internet-related tools
+executes established test plans and protocols for assigned portions of code; identifies, logs, and debugs assigned issues
+develops understanding of and relationship with internal and outsourced development partners on software systems design and development
+participates as a member of project team of other software systems engineers and internal and outsourced development partners to develop reliable, cost effective and high quality solutions for low to moderately- complex products
+knowledge & skills
+minimal technical knowledge of software systems, demonstrated desire to learn
+strong coursework in software development, systems engineering, software product management
+ability to understand and deal well with rapid development cycles and remain flexible in the face of uncertainty
+experience or understanding of software systems design tools and languages
+good analytical and problem solving skills
+understanding of design for software systems running on multiple platform types
+understanding of basic testing, coding, and debugging procedures
+good written and verbal communication skills; mastery in english and local language
+scope & impact
+supports software engineering leadership
+works closely with architects and technology leads, directly engaging with internal and external software development teams
+directly impacts delivery time and quality
+complexity
+low: limited cross-functional/cross-organizational interaction
+applies basic foundation of a function's principles, theories and concepts to assignments of limited scope. uses professional concepts and theoretical knowledge acquired through specialized training, education or previous experience.
+practical knowledge of applications within business environment. acts as team member by providing information, analysis and recommendations in support of team efforts. exercises independent judgment within defined parameters.
+education & experience
+bachelor's degree in relevant area or demonstrated competence. typically 2-4 years of related experience.
+about hp
+you’re out to reimagine and reinvent what’s possible—in your career as well as the world around you.
+so are we. we love taking on tough challenges, disrupting the status quo, and creating what’s next. we’re in search of talented people who are inspired by big challenges, driven to learn and grow, and dedicated to making a meaningful difference.
+our history: hp’s commitment to diversity, equity and inclusion – it's just who we are.
+"
+3584601298,Big Data Developer,"
+job title:- big data developer
+location:- rutherford, new jersey//tampa, florida
+duration:- full time
+job description:-6-8 yrs
+·    5-8 years of experience in big data development and l3 support
+·    unix / shell scripting
+·    hadoop / spark knowledge
+·    familiarity with itrs, autosys, other tools helping in support
+ 
+the job duties are:-
+·    monitor end to end running of hvar, es, rtpl, etc. runs
+·    perform monitoring of existing batches, seek opportunities of automation
+·    troubleshooting / debugging of slow / failed batches
+·    coordinate with upstream / downstream of data availability etc.
+"
+3588885582,Data Engineer,"overview
+at steampunk, our goal is to build and execute a data strategy for our clients to coordinate data collection and generation, to align the organization and its data assets in support of the mission, and ultimately to realize mission goals with the strongest effectiveness possible.
+for our clients, data is a strategic asset. they are looking to become a facts-based, data-driven, customer-focused organization. to help realize this goal, they are leveraging visual analytics platforms to analyze, visualize, and share information. at steampunk you will design and develop solutions to high-impact, complex data problems, working with the best and data practitioners around. our data exploitation approach is tightly integrated with human-centered design and devsecops.
+contributions
+lead and architect migration of data environments with performance and reliability.
+assess and understand the etl jobs, workflows, bi tools, and reports
+address technical inquiries concerning customization, integration, enterprise architecture and general feature / functionality of data products
+experience in crafting database / data warehouse solutions in cloud (preferably aws. alternatively azure, gcp).
+key must have skill sets – python, aws
+support an agile software development lifecycle
+you will contribute to the growth of our data exploitation practice!
+qualifications
+us citizen only
+ability to hold a position of public trust with the us government.
+8+ years industry experience coding commercial software and a passion for solving complex problems.
+8+ years direct experience in data engineering with experience in tools such as
+big data tools hadoop, spark, kafka, etc.
+relational sql and nosql databases, including postgres and cassandra
+data pipeline and workflow management tools azkaban, luigi, airflow, etc.
+aws cloud services ec2, emr, rds, redshift
+data streaming systems storm, spark-streaming, etc.
+search tools solr, lucene, elasticsearch
+object-oriented/object function scripting languages python, java, c++, scala, etc.
+amazon s3, athena, redshift spectrum, aws glue, aws glue catalog, aws functions, and amazon ec2 with sql server developer
+advanced working sql knowledge and experience working with relational databases, query authoring and optimization (sql) as well as working familiarity with a variety of databases.
+experience with message queuing, stream processing, and highly scalable ‘big data’ data stores.
+experience manipulating, processing, and extracting value from large, disconnected datasets.
+experience manipulating structured and unstructured data for analysis
+experience constructing complex queries to analyze results using databases or in a data processing development environment
+experience with data modeling tools and process
+experience architecting data systems (transactional and warehouses)
+experience aggregating results and/or compiling information for reporting from multiple datasets
+experience working in an agile environment
+experience supporting project teams of developers and data scientists who build web-based interfaces, dashboards, reports, and analytics/machine learning models
+we are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law. steampunk participates in the e-verify program.
+"
+3583072200,"Cloud Data Engineer - New York City, New York","cloud data engineer new york city, new york(remote) job description:
+we are looking to add a long-term data engineer to a team that will help our customer stakeholder create new cloud native offerings that leverage multiple internal and external cloud providers and services. this person will be working with software developers, data scientists, architects, customer support leadership, and management. this role will be part of an agile development team that will build data lakes, data focused cloud applications, and secure cloud offerings in azure. the expertise of this team will be used to de-risk decision making and rapidly build/test new applications, data pipelines, and machine learning models.
+key responsibilities
+analysis of data use cases to inform design
+data pipeline design and implementation
+software architecture and coding
+automated testing
+feature definition
+code in python and sql
+performance analysis of data pipelines
+desired skills and abilities
+individual-contributor-level experience creating applications in public cloud environments-specifically azure
+software design/development experience
+big data expertise: ingestion, storage, batch, streaming analytics, and processing
+design for cost management and reduction in public cloud environments
+azure expertise
+containerization using docker and kubernetes
+containerization principles and microservice architecture foundations
+ci/cd for cloud native software
+data modeling and warehousing using data warehouse or data lake house architectures
+bs in computer science or related degree
+"
+3584690430,Data Engineer II,"data engineer
+remote | usa
+11-month contract
+note: no c2c or visa sponsorship available for this role.
+our globally recognized ecommerce client is seeking a data engineer to join the infrastructure automation team. our client has over 70 million customers, and developers all over the world relying on their storage, compute, and virtualized services. their success depends on our world-class network and hardware infrastructure; they are handling massive scale and rapid integration of emergent technologies. the goal is to become “the infrastructure platform” for the world. the infrastructure automation team is responsible for delivering the software that powers our infrastructure.
+responsibilities
+as a data engineer you will be working in one of the world's largest and most complex data warehouse environments.
+you will be developing and supporting the analytic technologies that give our customers timely, flexible and structured access to their data.
+you will be responsible for designing and implementing a platform using third-party and in-house reporting tools, modeling metadata, building reports and dashboards in oracle bi enterprise edition (obiee).
+you will work with business customers in understanding the business requirements and implementing solutions to support analytical and reporting needs.
+required skills & experience
+7+ years of related experience.
+very strong development experience with notable bi reporting tools (oracle bi enterprise edition (obiee)).
+should have experience developing complex and a variety of reports.
+a good candidate has strong analytical skills and enjoys working with large complex data sets.
+good knowledge of sql
+a good candidate can partner with business owners directly to understand their requirements and provide data which can help them observe patterns and spot anomalies.
+preferred
+strong obiee reporting experience
+sql skills
+"
+3587711969,Software Engineer,"lockheed martin global sustainment information systems and innovation organization is searching for a creative and dedicated developer to join their development team. candidate will be responsible for development of front-end and back-end application code in support of our supply chain management application; including order and inventory management.
+these duties incorporate all phases of the software development life cycle -- requirements, design, code, test, and maintenance. to accomplish these responsibilities, a successful candidate will balance multiple projects and deadlines, interface with product leads and subject matter experts, and develop and test web application solutions.
+"
+3589567815,Data Engineer – Remote | 953284,"our goal:treat our consultants and clients the way we would like others to treat us!
+interested in joining our team? check out the opportunity below and apply today!
+a dublin, ohio client has a remote contract opportunity for a data engineer.
+job description:
+department overview:
+supply chain digital partners – supply chain digital solutions team works with inventory management, logistics and warehouse operations business teams on solving some of the business’ biggest challenges, gain efficiency and improve the customer experience by leveraging data engineering, data science and visualization, data automation and data governance & management.
+the team drives business innovation by leveraging emerging technologies and turning them into differentiating business capabilities.
+responsibilities:
+develop bq views per business requirements and best practices. perform data mapping with source systems.
+ensure on time delivery of project work solve technical issues and provide quick resolution.
+should have advanced sql programming experience with gcp bq. hands on skills with gcp, bigquery, airflow, needed.
+work closely with product owners on creating estimates/designs and realizing business value
+ensure quality by conducting code review, providing direction to other data engineers
+participate in technical platform strategy as tools, products, and business needs evolve
+define and execute database and data movement standards, design reviews, pipeline ci/cd process, and data container policies to ensure high quality data management
+define how our data analytics and ml/ai capabilities will apply to business needs and result in dependable business solutions
+partner with external consultants, solution providers, and managed services organizations to enable product/solution development as well as meeting documented standards
+interact with multiple organizations to track project progress, identify risks, communicate risks and status to leadership, and to assess potential impacts to the business.
+ensure platforms and tools meet or exceed data security standards, including internal and external audits performed
+use strong verbal and written communication skills that non-technical business and end-users can understand.
+desired qualifications:
+8+ years’ experience with data platforms including gcp, hana, teradata, my sql and sql server, airflow
+expert working knowledge of sql, python,
+demonstrated expertise of database design and modeling.
+expert knowledge of bi reporting and data discovery tools
+expert knowledge of cloud technologies
+experience with business-critical applications.
+experience on large-scale implementation programs preferred.
+experience with sap, manhattan score/warehouse management data highly desired
+excellent written and oral communication skills.
+reference: 953284
+about revel it:
+revel it (formerly known as fast switch) is one of the fastest-growing, privately held, it staffing companies in the nation. our client base includes 32% of the fortune 25. we have major offices in dublin, oh, phoenix, az, los angeles, ca, and austin, tx and are rapidly expanding into new markets from coast to coast.
+why revel it:
+5-year client retention: 99%
+no. 1 supplier with customers: 53%
+top 3 supplier with customers: 77%
+consultant retention: 94%
+revel it is an equal opportunity employer. revel it does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. all employment is decided on the basis of qualifications, merit, and business need.
+#gdr4900
+"
+3589575575,Cloud/Data Developer,"
+"
+3583463419,"Data Engineer / Huntsville, AL","this position is for a data engineer with a company in huntsville, al.
+summary: altamira is seeking a data engineer to support the missile and space intelligence center (msic) in huntsville, alabama.
+duties and responsibilities: in this position you will use your data engineering and artificial intelligence expertise to find the answers to questions that uniquely position our military to succeed in the digital age. you will design, implement, and operate data management systems for intelligence needs. you will support the entire life cycle of data systems from technology selection and design to development, integration, and operation. if this sounds exciting to you, please keep reading and we look forward to talking to you soon.
+education and experience: basic qualifications: active ts/sci security clearance. bachelor\'s degree in a computer science, engineering or related field proven work experience or training as a data engineer, machine learning engineer, or similar role expertise with databases and database design, including sql, nosql, and orms dod or ic work experience. python software development expertise apache airflow experience. experience developing for docker implementations good interpersonal skills and the desire to work as part of a high-performing team preferred qualifications: experience with version control software like git agile development familiarity expertise in software development life cycle (sdlc) experience with extract, transform, load (elt) operations experience working with software developers and algorithm developers to create data and machine learning pipelines linux os experience experience developing and updating technical documentation, presentations, flow charts, and other documentation candidate must demonstrate strong troubleshooting and problem-solving skills. ***active ts/sci clearance required*** ***must be a . citizen*** we focus on recruiting talented, self-motivated employees that find a way to get things done. join our team of experts as we engineer national security!
+altamira is an equal opportunity/affirmative action employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected veteran status.
+"
+3589501588,Data Engineer,"define and implement data science architectural framework and operating model for predictive and prescriptive analytics.
+improve existing ai/ml techniques by promoting new methodology and best practices from the industry.
+provide technical leadership in feasibility study of data science use cases to business functions and work with developers across teams to design, build and implement data science solutions and capabilities.
+leverage ai model techniques to model data, predict outcomes, and prescribe actions.
+work closely with all business functional leaders to understand their use cases and help them provide advanced analytics solutions to help them take proactive decisions.
+oversee and ensure completion of business and project cut-over activities.
+align with data engineering, data integration, data analytics, data science, and data operations work to ensure consistency across workstreams.
+qualifications
+bachelors degree in relevant field and at least 5 years relevant experience or masters degree in relevant field and at least 4 years experience.
+3+ years of experience in data management, business analysis, and developing analytical models using statistical, machine learning, and data mining methodologies to drive business impact.
+1+ years of experience with machine learning algorithms for data science, ., linear and logistics regression, decision tree, random forest, neural networks, etc.
+1+ years of experience with technologies such as python
+1+ years of experience within project management
+experience with advanced analytics platform such as dataiku.
+experience in data visualization tools such as qlik.
+familiarity with technologies like aws s3, emr, eks, snowflake.
+practical experience in architecture roles including architectural principles, helping define the reference architecture, and building technology roadmaps aligned with business strategy.
+strong problem solving and critical thinking skills that build trust and serve to positively influence partners and teammates.
+provide solutioning and support to vendors, developers, and other technical architects to enable solutions that meet business strategies.
+strong written and verbal communication, presentation, and technical writing skills, coupled with a strong interest in further developing and integrating enterprise business processes with technology skills.
+abbvie is an equal opportunity employer including disability/vets. it is abbvie’s policy to employ qualified persons of the greatest ability without discrimination against any employee or applicant for employment because of race, color, religion, national origin, age, sex (including pregnancy), physical or mental disability, medical condition, genetic information, gender identity or expression, sexual orientation, marital status, status as a disabled veteran, recently separated veteran, armed forces service medal veteran or active duty wartime or campaign badge veteran or a person’s relationship or association with a protected veteran, including spouses and other family members, or any other protected group status. we will take affirmative action to employ and advance in employment qualified minorities, women, individuals with a disability, disabled veterans, recently separated veterans, armed forces service medal veterans or active-duty wartime or campaign badge veterans. the affirmative action plan is available for viewing in the human resources office during regular business hours.
+"
