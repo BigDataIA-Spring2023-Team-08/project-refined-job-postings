@@ -7,7 +7,8 @@
 
 > ✅ Active status <br>
 > [🚀 Application link](http://34.74.232.103:8003/) <br>
-> [⏱ Airflow]() <br>
+> [⏱ Airflow](http://34.74.232.103:8082/) <br>
+> [FastAPI](http://34.74.232.103:8002/docs) <br>
 > [🎬 Codelab Slides](https://codelabs-preview.appspot.com/?file_id=1p63_TG8gJMdh3_X-U4dJAxjosIJW98NqSb7plLFZ_bI#0) <br>
 >  🐳 Docker Hub Images: [Airflow](), [Streamlit]() <br>
 > [📽️ Application Demo/Usage]()
