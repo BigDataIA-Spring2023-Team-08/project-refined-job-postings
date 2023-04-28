@@ -20,8 +20,7 @@
   - [Objective 🎯](#objective)
   - [Abstract 📝](#abstract)
   - [Architecture Diagram 🏗](#architecture-diagram)
-  - [Repository Components 🗃️](#repository-components)
-  - [Model Selection & Comparisons 🧬](#model-selection-&-comparisons)
+  - [Model Selection & Comparisons 🧬](#model-selection-and-comparisons)
   - [Project Components 💽](#project-components)
     - [Scraping Jobs](#scraping-jobs)
     - [FastAPI](#fastapi)
@@ -57,10 +56,9 @@ The task involves building a decoupled architecture for the application:
 
 
 ## Architecture Diagram
+![arch-diag](https://github.com/BigDataIA-Spring2023-Team-08/assignment05-fit-finder-app/blob/main/application-use-test-cases/ff-motion.png)
 
-## Repository Components
-
-## Model Selection & Comparisons
+## Model Selection and Comparisons
 
 In order to properly engineer our application & use case we had to explore the options available for us. We initially decided to fine-tune BERT and use it. However, we ran into multiple issues. We have also tried other models and did comparisons before selecting our final model. All necessary details (test code, findings, comments, models compared) can be found in this document which we have maintained: [Findings for ML models or Model as a Service](https://docs.google.com/document/d/1gTjyj82cb5uPjKOrgoDWziR6oFk9DpJVQcfjh2GHEJ4/edit?usp=sharing)
 
