@@ -1,0 +1,40 @@
+version: '1.3'
+# networks:
+#   my_network:
+#     external: true
+
+services:
+  fastapi:
+    platform: linux/amd64
+    image: 'mashruwalav/job-finder-api_v2:latest'
+    #build: ./fastapi-app
+    ports:
+      - 8002:8002
+    environment:
+      USER_BUCKET_NAME: 'project-jobs-scraper'
+      AWS_ACCESS_KEY: 'XXXXXXXXX'
+      AWS_SECRET_KEY: 'XXXXXXXXX'
+      AWS_LOG_ACCESS_KEY: 'XXXXXXXXX'
+      AWS_LOG_SECRET_KEY: 'XXXXXXXXX'
+      CI_FLAG: 'False'
+    # networks:
+    #   - host
+    restart: always
+  streamlit:
+    platform: linux/amd64
+    image: 'mashruwalav/job-finder-app_v2:latest'
+    #build: ./streamlit
+    ports:
+      - 8003:8003
+    environment:
+      USER_BUCKET_NAME=: 'project-jobs-scraper'
+      AWS_ACCESS_KEY: 'XXXXXXXXX'
+      AWS_SECRET_KEY: 'XXXXXXXXX'
+      AWS_LOG_ACCESS_KEY: 'XXXXXXXXX'
+      AWS_LOG_SECRET_KEY: 'XXXXXXXXX'
+      FASTAPI_URL: 'XXXXXXXXX'
+      AIRFLOW_URL: 'XXXXXXXXX'
+      AIRFLOW_CREDENTIALS: 'XXXXXXXXX'
+    # networks:
+    #   - host
+    restart: always
