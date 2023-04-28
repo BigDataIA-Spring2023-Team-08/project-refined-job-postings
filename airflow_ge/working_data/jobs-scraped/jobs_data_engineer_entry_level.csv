@@ -1,0 +1,1269 @@
+Job ID,Title,Company,Date,Link,Description Length,Description
+3587703385,Data Engineer (Entry Level ),Patterned Learning AI,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-entry-level-at-patterned-learning-ai-3587703385?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=e3mMZyJ%2F1CjsW6fQ1YNLKg%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card,1349,"REMOTE (US/Canada Residing people only, with work permit)
+
+
+
+
+Patterned Learning – Data Engineer (Entry Level ) , FULL-TIME, Salary $100K - $130K a year.
+
+
+
+
+About us: The Future of AI is Patterned, a stealth-mode technology startup. Top investors include Sequoia and Anderson Horowitz, founders from Google, DeepMind, and NASA and we’re hiring for almost everything!
+
+
+
+
+About The Job
+
+
+
+
+Required Skills and Experience:
+
+
+
+
+Experience in writing cloud-based software
+Expertise with AWS data processing products (Kinesis, S3, Lambda, etc.) or comparable (Redis, Kafka, Google DataFlow, etc.)
+Strong knowledge of relational DBs (Postgres, Snowflake, etc.) including SQL, data modeling, query tuning, etc.
+Experience delivering software products built using Python
+Experience using professional software development practices, including: Agile processes, CI/CD, etc)
+Familiarity with distributed data processing frameworks (AWS Glue, Spark, Apache Beam, etc.)
+Familiarity with modern data analysis, dashboarding and machine learning tools (DBT, Fivetran, Looker, SageMaker, etc.)
+
+
+
+
+Special Benefits You Will Love
+
+
+
+
+Flexible vacation, paid holidays, and paid sick days
+401(k) with up to 2% employer match (no match)
+Health, vision, and dental insurance.
+
+
+
+
+Schedule: 8 hour shift, Monday to Friday , Time: Flexible, Job Type: Full-time
+Show more "
+3576206301,Data Engineer,Tesla,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-at-tesla-3576206301?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=NZCc1P7R2xFODOgKJlJkuw%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card,3895,"What To Expect
+
+This role focuses on developing data pipelines and analytics tooling to support the growth of residential products. The data pipelines built will contribute to our understanding of key business performance indicators that will be used to optimize our direct-to-consumer strategies. The ideal candidate should possess cross-functional data skills, as this role requires extracting data from various data warehouse systems, including deployed fleets, internal applications, and other data sources. As a data engineer, you will support our worldwide teams with tools and data insights that will drive data-driven decisions to grow our residential user fleet, maximize user satisfaction, and achieve key ownership experience results.
+
+What You’ll Do
+Implement and own cadence-based tracker that collects and distributes key metrics that relate to residential products (Powerwall, Tesla Electric and PV Inverter)
+Develop aggregate and summary tables for various product teams that span across multiple product lines and geographies
+Lead growth experiments from ideation to analysis to improve growth activities through detail product and user analytics
+Oversee data efforts on growth experiments from ideation to analysis to improve growth activities through detail product and user analytics
+Design and develop new systems and tools to enable cross functional teams to consume and understand data faster
+Research and incorporate emerging software infrastructures, tools, and technologies, especially pertaining to data processing
+
+
+What You’ll Bring
+Degree in Computer Science, Electrical Engineering, Physics, or related quantitative
+Real work experience in building, deploying, and maintaining Py spark-based data pipelines
+Experience with SQL and familiarity with database performance concepts like indices, segmentation, projections, and partitions
+Knowledge of various data communication protocols (e.g., REST API, GRPC)
+Strong dev-ops capabilities and bias for automation
+Proficiency in Python or Scala
+Experience with Linux
+
+
+Nice To Have Requirements
+Experience in working with Presto/Kafka
+Experience with power generation/storage devices is a plus
+Airflow/Workflow orchestration tools
+Experience with data visualization techniques and tools
+
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+
+
+Expected Compensation
+
+$80,000 - $258,000/annual salary + cash and stock awards + benefits
+
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+Show more "
+3583489112,Junior Front-End Software Engineer,Narrativ,2023-04-26,https://www.linkedin.com/jobs/view/junior-front-end-software-engineer-at-narrativ-3583489112?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=CwkqNu4QG5D4TH%2BVwpCjTg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card,2470,"Narrativ uses near-perfect human voices generated by machine learning to create and read podcast-quality audio versions of existing newspaper articles that can support ads.
+
+We Have 4 Distinct Products
+
+We believe that Narrativ can create an entirely new class of audio content for people to consume that meets their current consumption preferences. In the last decade, readership has plunged in the face of listenership, and we want to be the entity that enables consumers to listen to anything that was previously limited to written form.
+
+An integrated player that can serve audio directly on publisher websites
+A mobile app that aggregates audio content across all of our publisher partners
+An audio ad platform that we use to create unique copy for many different audiences
+A publisher platform that our partners can use to track the performance of their narrated content
+
+Who You Are
+
+The Junior Front-End Software Engineer position will be responsible for maintaining, improving, and tailoring our existing front-end codebase. This may include: tidy/refactor of existing integrated players; deploying integrated player to new publishers (e.g., tweaking CSS/HTML to work within variety of platforms); adding new features/functionality (e.g., new behaviors to the player).
+
+This role will start focused on execution in the publisher-integrated player and may evolve into ownership of this component. This role will likely also contribute to the ad/publisher platform, and depending on personal interest, the mobile app.
+
+This employee will work closely with the CTO in order to create the best user experience possible.
+
+Qualifications
+
+Bachelor’s degree in computer science or related technical field
+Strong knowledge of UI / UX
+0-2 years of working experience as a front-end software engineer
+Excellent communication skills
+Strong interest or previous experience in audio / data is a plus
+
+Languages / Framework
+
+Vanilla HTML + CSS + Javascript
+React
+(Flutter optional, but a plus if this individual would also like to be involved with mobile app)
+
+Compensation Range
+
+Salary: $85K - $120K
+Equity: 0.1% - 0.5%
+
+Other Benefits!
+
+Choose from 3 different Medical, Dental, Vision plans
+80% covered medical premiums for employees
+Unlimited PTO
+401k program + 4% match
+Up to $500 stipend for home office set up
+Meetups a couple of times a month/quarter
+On and offsite team building events
+And other perks as the company continues to scale!
+
+Powered by JazzHR
+Show more "
+3311962420,Data Engineer,Tesla,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-at-tesla-3311962420?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=6Cc1LWsIoDvd2RhObGHSIQ%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card,3898,"What To Expect
+
+The Data Engineer is responsible for processing structured and unstructured data, validating data quality, and developing and supporting data products. We are looking for someone with strong hands on experience in all layers of data Integration and analytics! We especially need experience in using Python as an ETL tool. The Data Engineer plays a significant role in Agile planning, providing advice and guidance, and monitoring emerging technologies. Some of the technology we use: * Python * Informatica * SQL Server and MySQL * Vertica * Kafka
+
+What You’ll Do
+Design, code, test, correct and document programs and scripts using agreed standards and tools to achieve a well-engineered result * Derive an overall strategy of data management, within an established information architecture that supports the development and secure operation of existing and new information and digital services * Plan effective data storage, security, sharing and publishing within the organization * Gathers and processes raw, structured, semi-structured, and unstructured data using batch and real-time data processing frameworks * Ensures data quality and implements tools and frameworks for automating the identification of data quality issues * Collaborate with internal and external data providers on data validation providing feedback and making customized changes to data feeds and data mappings * Mentor and lead data engineers providing technical guidance and oversight * Provides ongoing support, monitoring, and maintenance of deployed products
+
+
+What You’ll Bring
+Strong experience with relational databases like SQL Server, MySQL and Vertica. NoSQL databases experience is a plus! * Strong background in data modeling, data access, and data storage techniques * Experience with design, development, and implementation of highly scalable, high-volume software systems and components, source of truth systems for different business areas, developing and maintaining web services in an agile environment * Working experience with Kafka Streaming layer * Experience in Spark Framework on both batch and real-time data processing is a plus * Experience in Big Data Integration & Analytics is a plus * Experience in Supply Chain and Logistics data is a plus
+
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+
+
+Expected Compensation
+
+$80,000 - $258,000/annual salary + cash and stock awards + benefits
+
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+Show more "
+3232113654,Data Engineer,Tesla,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-at-tesla-3232113654?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=ahXA%2FDStjxiVgI7%2B0PGdDA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card,4023,"What To Expect
+
+The Data Engineer is responsible for processing structured and unstructured data, validating data quality, and developing and supporting data products. We are looking for someone with strong hands on experience in all layers of data Integration and analytics ! We especially need experience in using Python as an ETL tool. The Data Engineer plays a significant role in Agile planning, providing advice and guidance, and monitoring emerging technologies.
+
+Technology We Use:
+Python
+Informatica
+SQL Server and MySQL
+Kafka
+
+
+What You’ll Do
+
+our Role:
+Design, code, test, correct and document programs and scripts using agreed standards and tools to achieve a well-engineered result
+Derive an overall strategy of data management, within an established information architecture that supports the development and secure operation of existing and new information and digital services
+Plan effective data storage, security, sharing and publishing within the organization
+Gathers and processes raw, structured, semi-structured, and unstructured data using batch and real-time data processing frameworks
+Ensures data quality and implements tools and frameworks for automating the identification of data quality issues
+Collaborate with internal and external data providers on data validation providing feedback and making customized changes to data feeds and data mappings
+Mentor and lead data engineers providing technical guidance and oversight
+Provides ongoing support, monitoring, and maintenance of deployed products
+What You’ll Bring
+
+Qualifications
+
+Experience:
+Strong experience with relational databases like SQL Server, MySQL and Vertica. NoSQL databases experience is a plus
+Strong background with data modeling, data access, and data storage techniques
+Experience with design, development, and implementation of highly scalable, high-volume software systems and components, source of truth systems for different business areas, developing and maintaining web services in an agile environment
+Working experience with Kafka Streaming layer
+Experience in Spark Framework on both batch and real-time data processing is a plus
+Experience in Big Data Integration & Analytics is a plus
+Experience in Supply Chain and Logistics data is a plus
+Bachelor’s degree in Computer Science or related field or equivalent combination of industry related professional experience and education
+
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+
+
+Expected Compensation
+
+$80,000 - $258,000/annual salary + cash and stock awards + benefits
+
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+Show more "
+3525669922,"Data Engineer, Analytics",Tesla,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-analytics-at-tesla-3525669922?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=WSzTRAtpXSTiAgNjIxwwJA%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card,3898,"What To Expect
+
+The Data Engineer is responsible for processing structured and unstructured data, validating data quality, and developing and supporting data products. We are looking for someone with strong hands on experience in all layers of data Integration and analytics! We especially need experience in using Python as an ETL tool. The Data Engineer plays a significant role in Agile planning, providing advice and guidance, and monitoring emerging technologies. Some of the technology we use: * Python * Informatica * SQL Server and MySQL * Vertica * Kafka
+
+What You’ll Do * Strong experience with relational databases like SQL Server, MySQL and Vertica. NoSQL databases experience is a plus! * Strong background in data modeling, data access, and data storage techniques * Experience with design, development, and implementation of highly scalable, high-volume software systems and components, source of truth systems for different business areas, developing and maintaining web services in an agile environment * Working experience with Kafka Streaming layer * Experience in Spark Framework on both batch and real-time data processing is a plus * Experience in Big Data Integration & Analytics is a plus * Experience in Supply Chain and Logistics data is a plus What You’ll Bring
+Design, code, test, correct and document programs and scripts using agreed standards and tools to achieve a well-engineered result * Derive an overall strategy of data management, within an established information architecture that supports the development and secure operation of existing and new information and digital services * Plan effective data storage, security, sharing and publishing within the organization * Gathers and processes raw, structured, semi-structured, and unstructured data using batch and real-time data processing frameworks * Ensures data quality and implements tools and frameworks for automating the identification of data quality issues * Collaborate with internal and external data providers on data validation providing feedback and making customized changes to data feeds and data mappings * Mentor and lead data engineers providing technical guidance and oversight * Provides ongoing support, monitoring, and maintenance of deployed products
+
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+
+
+Expected Compensation
+
+$80,000 - $258,000/annual salary + cash and stock awards + benefits
+
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+Show more "
+3232114968,Data Engineer,Tesla,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-at-tesla-3232114968?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=dva8b4D19iaDJdk71T%2Fjbw%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card,3382,"What To Expect
+
+The Data Engineer is responsible for processing structured and unstructured data, validating data quality, and developing and supporting data products. We are looking for someone with strong hands on experience in all layers of data Integration and analytics! We especially need experience in using Python as an ETL tool. The Data Engineer plays a significant role in Agile planning, providing advice and guidance, and monitoring emerging technologies.
+
+Some of the technology we use:
+Python
+SQL Server and MySQL
+Vertica
+Kafka
+
+
+Your Role:
+Design, code, test, correct and document programs and scripts using agreed standards and tools to achieve a well-engineered result
+Derive an overall strategy of data management, within an established information architecture that supports the development and secure operation of existing and new information and digital services
+Plan effective data storage, security, sharing and publishing within the organization
+Gathers and processes raw, structured, semi-structured, and unstructured data using batch and real-time data processing frameworks
+Ensures data quality and implements tools and frameworks for automating the identification of data quality issues
+Collaborate with internal and external data providers on data validation providing feedback and making customized changes to data feeds and data mappings
+Mentor and lead data engineers providing technical guidance and oversight
+Provides ongoing support, monitoring, and maintenance of deployed products
+
+
+Qualifications:
+Strong experience with relational databases like SQL Server, MySQL and Vertica. NoSQL databases experience is a plus!
+Strong background in data modeling, data access, and data storage techniques
+Experience with design, development, and implementation of highly scalable, high-volume software systems and components, source of truth systems for different business areas, developing and maintaining web services in an agile environment
+Working experience with Kafka Streaming layer
+Experience in Spark Framework on both batch and real-time data processing is a plus
+Experience in Big Data Integration & Analytics is a plus
+Experience in Supply Chain and Logistics data is a plus
+
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+Show more "
+3337865308,"Data Engineer, Fleet Analytics",Tesla,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-fleet-analytics-at-tesla-3337865308?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=dP8P2iZFf5Kc0fUfK2Wolg%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card,5756,"What To Expect
+
+Data is deeply embedded in the product and engineering culture at Tesla. We rely on data – lots of it – to improve autopilot, to optimize hardware designs, to proactively detect faults, and to optimize load on the electrical grid. We collect data from each of our cars, Superchargers, and energy storage devices to make these products better and our customers safer.
+
+We're the Fleet Analytics team, a central team that helps many teams leverage the data we collect. We help engineers through direct support by doing data analysis for them and through applications and tools so they can self-serve those analyses in the future. To do so, we leverage our internal data platform built on top of AWS, S3, Spark, Trino using open source data science tools such as Jupyter notebooks, Pandas, Bokeh, Superset, and Airflow. Our work has a direct impact on Tesla's product, and enables the work of hundreds of engineers across disciplines throughout the company.
+
+We're looking for a talented engineer to own the full breadth of data engineering, data analysis, and data science activities for one of our partner engineering teams. You will leverage Tesla's wealth of device data and a first-principles approach to problem solving to inform future hardware and firmware designs, as well as ensuring that our existing vehicles, chargers, and energy devices continue to perform to Tesla's exacting standards. In this embedded role you will partner with a team focusing on another discipline (e.g., mechanical engineering, electrical engineering, or firmware engineering), joining their projects to help define product requirements, optimize control algorithms, or otherwise improve the product quality. You will also work with other members of Fleet Analytics for peer reviews, technical growth, and to build sophisticated tools and and infrastructure for working with device data. These tools will be used across the team to improve our efficiency and also shared with the rest of the company so that those we do not directly support still benefit from our work.
+
+What You’ll Do
+Work with stakeholders to take a vague problem statement, refine the scope of the analysis, and use the results to drive informed decisions
+Write reproducible data analysis over petabytes of data using cutting-edge open source technologies
+Summarize and clearly communicate data analysis assumptions and results
+Build data pipelines to promote your ad-hoc data analyses into production dashboards that engineers can rely on
+Design and implement metrics, applications and tools that will enable engineers by allowing them to self-serve their data insights
+Work with engineers to drive usage of your applications and tools
+Write clean and tested code that can be maintained and extended by other software engineers
+Operate and support your production applications
+Keep up to date on relevant technologies and frameworks, and propose new ones that the team could leverage
+Identify trends, invent new ways of looking at data, and get creative in order to drive improvements in both existing and future products
+Give talks, contribute to open source projects, and advance data science on a global scale
+What You’ll Bring
+Strong proficiency in Python, SQL
+Strong foundation in statistics
+Experience building data visualizations
+Experience writing software in a professional environment
+Strong verbal and written communication skills
+Strong problem-solving skills to help refine problem statements and figure out how to solve them with the available data
+Curious and driven to solve complex problems
+Smart but humble, with a bias for action
+
+
+Nice To Have
+Experience with data science tools such as Pandas, Numpy, R, Matlab, Octave
+Experience with complex hardware systems
+Experience building data pipelines
+Experience building web applications
+Experience building machine learning models in a professional environment
+Experience with continuous integration and continuous development
+Experience in devops, i.e. Linux, Ansible, Docker, Kubernetes
+Understanding of distributed computing, i.e. how HDFS, Spark and Presto work
+Proficient in Scala
+
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+
+
+Expected Compensation
+
+$104,000 - $348,000/annual salary + cash and stock awards + benefits
+
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+Show more "
+3360982619,"Data Engineer, Analytics",Tesla,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-analytics-at-tesla-3360982619?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=AMPKUu1M%2Bn%2BrUYKhl2A4Tg%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card,3897,"What to Expect The Data Engineer is responsible for processing structured and unstructured data, validating data quality, and developing and supporting data products. We are looking for someone with strong hands on experience in all layers of data Integration and analytics! We especially need experience in using Python as an ETL tool. The Data Engineer plays a significant role in Agile planning, providing advice and guidance, and monitoring emerging technologies. Some of the technology we use: * Python * Informatica * SQL Server and MySQL * Vertica * Kafka What You’ll Do * Design, code, test, correct and document programs and scripts using agreed standards and tools to achieve a well-engineered result * Derive an overall strategy of data management, within an established information architecture that supports the development and secure operation of existing and new information and digital services * Plan effective data storage, security, sharing and publishing within the organization * Gathers and processes raw, structured, semi-structured, and unstructured data using batch and real-time data processing frameworks * Ensures data quality and implements tools and frameworks for automating the identification of data quality issues * Collaborate with internal and external data providers on data validation providing feedback and making customized changes to data feeds and data mappings * Mentor and lead data engineers providing technical guidance and oversight * Provides ongoing support, monitoring, and maintenance of deployed products What You’ll Bring * Strong experience with relational databases like SQL Server, MySQL and Vertica. NoSQL databases experience is a plus! * Strong background in data modeling, data access, and data storage techniques * Experience with design, development, and implementation of highly scalable, high-volume software systems and components, source of truth systems for different business areas, developing and maintaining web services in an agile environment * Working experience with Kafka Streaming layer * Experience in Spark Framework on both batch and real-time data processing is a plus * Experience in Big Data Integration & Analytics is a plus * Experience in Supply Chain and Logistics data is a plus
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+
+
+Expected Compensation
+
+$80,000 - $258,000/annual salary + cash and stock awards + benefits
+
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+Show more "
+3552866028,Data Engineer,Tesla,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-at-tesla-3552866028?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=obcw06B7y%2BEaF3%2BpUJSnPg%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card,6539,"What To Expect
+
+The Energy Data Science team supports all branches of the Residential Energy business (Solar Hardware Engineering, Installation Operations, Supply Chain/Material Planning, Customer Experience, Design/Field Application Software). The team supports a broad range of high-visibility projects including:
+The development, deployment, and evaluation of both rules-based and machine learning pipelines for labor prediction, proactive material planning, customer project timeline estimation, and installation efficiency optimization
+Engineering new data pipelines and optimizing the performance of existing data pipelines depended upon by production software applications (appointment scheduling, design, contracts/pricing), operations reporting teams, and other business stakeholders
+Process engineering and supporting analytics to inform software teams’ roadmap and prioritization
+
+
+The Energy Data Science team functions as a key support mechanism to diagnose and solve high-impact technical problems that maximize the operational efficiency of Tesla Residential Energy—whether those problems require a data science solution or not.
+
+**Please include functional GitHub link on your resume**
+
+What You’ll Do
+Optimize and consolidate existing labor hour regression pipelines to support scheduling software automation efforts
+Assemble and features engineer scalable and reliable datasets for use by machine learning engineers in model training/validation
+Work effectively with engineers and conduct end-to-end analyses, from data requirement gathering, to data processing and modeling
+Define and monitor key product and pipeline metrics, understanding root causes of changes in these metrics
+Acquire data from primary or secondary data sources and maintain databases/data systems to empower operational and exploratory analysis
+Automate analyses and authoring pipelines via SQL and Python based ETL frameworks
+Drive underlying data systems improvement by working with key cross-functional stakeholders
+Perform data quality validations to ensure data integrity is as per business requirements
+Interpret complex data and performance metrics, analyze results using statistical techniques, and tell the story of observed patterns/trends
+Work with management to prioritize business and information needs
+What You’ll Bring
+Please include functional GitHub link on your resume**
+
+
+Essential Skills - Job Specific
+Extensive experience writing software with Python
+Experience with end-to-end deployments of data pipelines consumed by production software applications
+Knowledge of various data communication protocols (REST API, Websockets)
+Experience with open-source machine learning libraries and frameworks (Tensorflow, Keras, SKLearn, SciPy, PyStan/Bayesian Inference)
+Experience with version control (Git)
+Experience with command line operations (bash, zsh)
+Comfortable with code testing (unittest, pytest)
+Familiarity with continuous integration pipelines (Docker, Jenkins, Kubernetes)
+Able to work under pressure while collaborating and managing competing demands with tight deadlines
+A passion and curiosity for data and data-driven decision making
+
+
+Essential Skills - General
+Raises the Bar - We need top performers who raise the bar in our organization. When we hire new candidates, they should already be better than most employees in that role. We will often need to do this by being scrappy and challenging the status quo.
+Bias for Action - must have bias for action and be able to convert thought into execution quickly.
+People Centric - value people and their time. Demonstrate empathy and respect.
+Adaptive - Adapts to change, even when they may not be in favor of it. Someone who is collaborative and willing to take on new assignments and roles to benefit the business.
+Develops Others - Serves as a multiplier. Makes others around them better by helping them highlight their strengths and work on their weaknesses. Can serve as a mentor to more junior leaders and employees and develop them for roles of greater responsibility.
+Innovates - Find creative ways to simplify and look at our operation through a new lens. Not caught up on old ways of doing things. Has the ability to adapt and creatively work through problems and solutions that may not be their own.
+Thinks like an Owner - Willing to take risks, own outcomes, and learn from them. Humble and prioritizes the needs of the business over their own.
+Reasons from First Principles - Able to identify root causes and use data to drive decisions and change.
+Resourceful - Practices frugality. Is a scrappy leader who can do more with less.
+Curious - Seek to understand and show empathy. Have an insatiable thirst for learning and knowledge.
+
+
+Education/Experience
+BS/MS in computer science, engineering, physics, mathematics, or equivalent.
+3 - 5 years of relevant experience as a data engineer in a fast-paced, dynamic environment
+
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+
+
+Expected Compensation
+
+$80,000 - $258,000/annual salary + cash and stock awards + benefits
+
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+Show more "
+3234254739,Data Engineers,Tesla,2023-04-26,https://www.linkedin.com/jobs/view/data-engineers-at-tesla-3234254739?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=%2FeYgYq4db%2FvtRHa2PuH%2BxQ%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card,3434,"What To Expect
+
+The Data Engineer is responsible for processing structured and unstructured data, validating data quality, and developing and supporting data products. We are looking for someone with strong hands on experience in all layers of data Integration and analytics! We especially need experience in using Python as an ETL tool. The Data Engineer plays a significant role in Agile planning, providing advice and guidance, and monitoring emerging technologies. Some of the technology we use: * Python * Informatica * SQL Server and MySQL * Vertica * Kafka
+
+What You’ll Do
+Design, code, test, correct and document programs and scripts using agreed standards and tools to achieve a well-engineered result * Derive an overall strategy of data management, within an established information architecture that supports the development and secure operation of existing and new information and digital services * Plan effective data storage, security, sharing and publishing within the organization * Gathers and processes raw, structured, semi-structured, and unstructured data using batch and real-time data processing frameworks * Ensures data quality and implements tools and frameworks for automating the identification of data quality issues * Collaborate with internal and external data providers on data validation providing feedback and making customized changes to data feeds and data mappings * Mentor and lead data engineers providing technical guidance and oversight * Provides ongoing support, monitoring, and maintenance of deployed products
+
+
+What You’ll Bring
+Strong experience with relational databases like SQL Server, MySQL and Vertica. NoSQL databases experience is a plus! * Strong background in data modeling, data access, and data storage techniques * Experience with design, development, and implementation of highly scalable, high-volume software systems and components, source of truth systems for different business areas, developing and maintaining web services in an agile environment * Working experience with Kafka Streaming layer * Experience in Spark Framework on both batch and real-time data processing is a plus * Experience in Big Data Integration & Analytics is a plus * Experience in Supply Chain and Logistics data is a plus
+
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+Show more "
+3538098691,"Data Engineer, Data Analytics",Tesla,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-data-analytics-at-tesla-3538098691?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=PsvgAP3LqMX9IHeDhaGcPw%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card,6935,"What To Expect
+
+The Data and Analytics, Applications Engineering team drives business critical decision making, and ensures cross functional alignment of goals and execution for all of Tesla. We stay focused on aligning the highest-level company priorities with strong day-to-day operations and build capabilities to power hyper-growth.
+
+As the Data Analyst, you will partner with members of the Data and Analytics team and its leadership in Applications Engineering to provide critical analysis operations to support our demanding and fast-paced environment where you will work on critical subsystems of an incredibly exciting product.
+
+What You’ll Do
+Assist with implementation, maintenance and documentation of the internal Data and Analytics and reporting processes.
+Research and keep abreast of rapidly evolving data requirements, ensuring necessary system and process changes are implemented to meet these requirements.
+Identify potential process improvements and recommend implementation strategies.
+Educate business team on procedures when rolling out new initiatives.
+Develop and demonstrate expertise in communicating data related topics, including reporting.
+Work cross functionally across business teams including HR, Service, Supply Chain, Logistics, Financials, and Sales.
+Analyze the need for new applications or enhancements to the existing application to suit business needs and make decisions if they are needed or not.
+Recommend solutions that adhere to industry standards, keeping in mind the impact on upstream and downstream system and stakeholders.
+Closely monitor the project from inception to completion and assist in User Acceptance Testing.
+Work on special projects related to data as assigned.
+Continuously improve SQL and python skills, helping you automate repetitive work and multiply yourself
+On-call support, where needed.
+
+
+What You’ll Bring
+2+ years of prior experience as Systems/Data/Product/Program Analyst.
+Must be proficient in SQL.
+Expertise in key deliverables such as Project Plans, Business Requirement Documents, Functional requirements, Use Cases, System Sequence Diagrams.
+Ability to support multiple on-going projects in a fast-paced environment.
+Strong analytical and problem-solving ability to design an effective solution.
+Ability to explain financial/technical concepts and analysis implications clearly to a wide audience and be able to translate business objectives into actionable analyses.
+Strong communicational skills, organizational skills, negotiation skills, and flexibility to address competing demands.
+Working knowledge of data management software like Airflow, or other ETL tools a plus.
+Experience with bug/enhancement tracking system like JIRA a plus.
+2+ years in cross-functional project management experience.
+Superior business judgement – ability to flex between big picture thinking, understand and distill complex ideas, and analyze data to drive strategic objectives.
+Problem solver that is action-oriented with the ability to look at problems in new ways.
+Trustworthy and discreet with extremely sensitive non-public information.
+Passion for Tesla’s products and belief in Tesla’s mission to accelerate the transition to sustainable energy
+
+
+Nice to have:
+Experience in project management, Jira
+Experience with Tableau, Data Warehousing, Data Modeling
+Capable of leading a technical team
+
+
+EEO statement
+
+Tesla believes in equal treatment and affirmative action and is committed to diversity in the workplace. All qualified applicants will be considered for employment regardless of race, color, religion, gender, sexual orientation, age, nationality, disability, protected veteran status, gender identity, or any other factor protected by applicable federal, state, or local laws.
+
+Tesla is also committed to employing people with disabilities and making reasonable accommodations for them. Let your recruiter know if you need an adjustment at any point during the application process.
+
+For quick access to screen reading technology compatible with this website, click here to download a free compatible screen reader(a free step-by-step how-to video is available here).
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+
+
+Expected Compensation
+
+$80,000 - $258,000/annual salary + cash and stock awards + benefits
+
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+Show more "
+3312264566,Data Engineer,Tesla,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-at-tesla-3312264566?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=CsdW5mHvURI7UTNuEHLvkw%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card,4457,"What To Expect
+
+The Data and Analytics, Applications Engineering team drives business critical decision making, and ensures cross functional alignment of goals and execution for all of Tesla. We stay focused on aligning the highest-level company priorities with strong day-to-day operations and build capabilities to power hyper-growth.
+
+As the Data Engineer, you will partner with members of the Data and Analytics team and its leadership in Applications Engineering to provide critical analysis operations to support our demanding and fast-paced environment where you will work on critical subsystems of an incredibly exciting product.
+
+The candidate must be comfortable with data warehousing and ETL concepts with a strong hand on SQL & Python. To be successful in this role, you will need strong data engineering skills, excellent interpersonal communication, and experience building, optimizing and managing ETL Pipelines.
+
+What You’ll Do
+Assist with implementation and maintenance of the internal Data and Analytics and reporting processes.
+Research and keep abreast of rapidly evolving data requirements, ensuring necessary system and process changes are implemented to meet these requirements.
+Identify potential process improvements and recommend implementation strategies.
+Develop and demonstrate expertise in communicating data related topics, including reporting.
+Analyze the need for new applications or enhancements to the existing application to suit business needs and make decisions if they are needed or not.
+Recommend solutions that adhere to industry standards, keeping in mind the impact on upstream and downstream system and stakeholders.
+Closely monitor the project from inception to completion and assist in User Acceptance Testing.
+Work on special projects related to data as assigned
+Continuously improve SQL and python skills, helping you automate repetitive work and multiply yourself
+
+
+What You’ll Bring
+5+ years of prior experience Data Engineer.
+Must be proficient in SQL, Python. Automate repetitive personal tasks through Python and SQL
+Experience with Tableau or any visualization tool, Data Warehousing, Data Modeling
+Strong experience with relational databases like SQL Server, MySQL and Vertica. NoSQL databases experience is a plus
+Experience with user-defined workflows (e.g., Airflow)
+Problem solver that is action-oriented with the ability to look at problems in new ways.
+Working knowledge of data management software like Airflow, or other ETL tools a plus.
+Strong analytical and problem-solving ability to design an effective solution.
+Ability to support multiple on-going projects in a fast-paced environment.
+Strong communicational skills, organizational skills, negotiation skills, and flexibility to address competing demands.
+Ability to explain Production / technical concepts and analysis implications clearly to a wide audience and be able to translate business objectives into actionable analyses.
+Superior business judgement – ability to flex between big picture thinking, understand and distill complex ideas, and analyze data to drive strategic objectives.
+Passion for Tesla’s products and belief in Tesla’s mission to accelerate the transition to sustainable energy
+
+
+Experience with bug/enhancement tracking system like JIRA a plus.
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+Show more "
+3353557265,Data Engineer,Tesla,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-at-tesla-3353557265?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=QzywdS3Rms%2BVz5FI2CN56Q%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card,5029,"What To Expect
+
+The Data and Analytics, Applications Engineering team drives business critical decision making, and ensures cross functional alignment of goals and execution for all of Tesla. We stay focused on aligning the highest-level company priorities with strong day-to-day operations and build capabilities to power hyper-growth.
+
+As the Data Engineer, you will partner with members of the Data and Analytics team and its leadership in Applications Engineering to provide critical analysis operations to support our demanding and fast-paced environment where you will work on critical subsystems of an incredibly exciting product.
+
+The candidate must be comfortable with data warehousing and ETL concepts with a strong hand on SQL & Python. To be successful in this role, you will need strong data engineering skills, excellent interpersonal communication, and experience building, optimizing and managing ETL Pipelines.
+
+What You’ll Do
+Assist with implementation and maintenance of the internal Data and Analytics and reporting processes.
+Research and keep abreast of rapidly evolving data requirements, ensuring necessary system and process changes are implemented to meet these requirements.
+Identify potential process improvements and recommend implementation strategies.
+Develop and demonstrate expertise in communicating data related topics, including reporting.
+Analyze the need for new applications or enhancements to the existing application to suit business needs and make decisions if they are needed or not.
+Recommend solutions that adhere to industry standards, keeping in mind the impact on upstream and downstream system and stakeholders.
+Closely monitor the project from inception to completion and assist in User Acceptance Testing.
+Work on special projects related to data as assigned.
+Continuously improve SQL and python skills, helping you automate repetitive work and multiply yourself
+
+
+What You’ll Bring
+5+ years of prior experience Data Engineer.
+Must be proficient in SQL, Python. Automate repetitive personal tasks through Python and SQL
+Experience with Tableau or any visualization tool, Data Warehousing, Data Modeling
+Strong experience with relational databases like SQL Server, MySQL and Vertica. NoSQL databases experience is a plus
+Experience with user-defined workflows (e.g., Airflow)
+Experience with writing Kafka consumers and producers.
+Experience Apache Spark Streaming and Hive is plus.
+Problem solver that is action-oriented with the ability to look at problems in new ways.
+Working knowledge of data management software like Airflow, or other ETL tools a plus.
+Strong analytical and problem-solving ability to design an effective solution.
+Ability to support multiple on-going projects in a fast-paced environment.
+Strong communicational skills, organizational skills, negotiation skills, and flexibility to address competing demands.
+Ability to explain Production / technical concepts and analysis implications clearly to a wide audience and be able to translate business objectives into actionable analyses.
+Superior business judgement – ability to flex between big picture thinking, understand and distill complex ideas, and analyze data to drive strategic objectives.
+Passion for Tesla’s products and belief in Tesla’s mission to accelerate the transition to sustainable energy
+
+
+Experience with bug/enhancement tracking system like JIRA a plus.
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+
+
+Expected Compensation
+
+$80,000 - $258,000/annual salary + cash and stock awards + benefits
+
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+Show more "
+3583434580,Data Engineer,OMTECH,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-at-omtech-3583434580?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=0JvOhmejWNENEhb9DudTvA%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card,1136,"Title: Data Engineer
+
+Location: 100% Remote
+
+Duration: 12+ months Contract
+
+Note
+
+Only W2.
+
+Any Independent Visa is fine.(except CPT and OPT candidates)
+
+Experience Preferred On The Following Tools And Technology
+
+MS SQL
+Python
+SharePoint
+Advanced Excel Skill (formulas, VBA, Power Pivot, Pivot Table)
+
+Responsibilities
+
+Designing and implementing data transformation, ingestion and curation functions on GCP cloud using GCP native or custom programming Designing and building production data pipelines from ingestion to consumption within a hybrid big data architecture, using Java, Python etc. Performing detail assessments of current state data platforms and creating an appropriate transition path to GCP cloud Analysing, re-architecting and re-platforming on-premise data warehouses to data platforms on GCP cloud using GCP/3rd party services Optimizing data pipelines for performance and cost for large scale data lakes GCP stack- big query, cloud functions, Pub Sub, CI/CD automation GitHub Terraform for infrastructure development and deployment Data modelling experience Python
+
+Education
+
+Degree in Computer Science
+Show more "
+3587951673,Data Analyst,Crew,2023-04-26,https://www.linkedin.com/jobs/view/data-analyst-at-crew-3587951673?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=9d%2FpkVtiUeCv4j7gLUGsUQ%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card,4378,"Duration: FTE
+
+
+
+Location: MO-St Louis; NC-Charlotte; Remote start, future onsite work expected
+
+
+
+
+
+
+
+Overview: Crew helps our clients deliver change through IT project delivery, business process improvement, and operational efficiency efforts. Our high-performing consultants are natural leaders who manage a wide range of responsibilities that vary from assignment to assignment. Our consultant training programs, investment in career development, and premier client portfolio ensure constant challenge and rapid growth for our employees. Crew data analysis associates bring data insights to life with predictive and descriptive analytics, create meaningful business intelligence and data visualization dashboards, and learn data profiling and cloud data practices.
+
+
+
+
+
+
+
+Responsibilities:
+
+
+
+Provide technical assessment of the client's existing system architecture.
+Act as a technical expert addressing problems relating to systems integration, compatibility, and multiple platform integration.
+Produce and maintain Technical Process Flows, Data Mapping, and other, related design and as-built documentation in support of the application architecture.
+Collaborate with Project Managers, Managers, Architects, and Business Stakeholder in recommending strategies and tactical implementations to solve problems.
+Work with System Architecture to design and configure customer-based systems and applications.
+Provide guidance to development team in the configuration, and streamlining of data elements.
+Visualize and report data findings creatively in a variety of visual formats that appropriately provide insight to the stakeholders.
+Assist in troubleshooting application or data issues across the systems.
+Understand customer business use cases and be able to translate them to technical specifications and vision on how to implement a solution.
+Research and recommend strategies for department direction on customer- and agent-facing systems, technical interfaces, and automated system solutions.
+Provide technical expertise on complex projects and research new technology for use by department.
+
+
+
+
+
+Qualifications:
+
+
+
+Strong communication skills and ability to compose written communications in a clear, straight-forward, and professional manner.
+Must be self-motivated, results-driven, and able to work with minimum supervision.
+Intellectually curious.
+Demonstrated interpersonal skills and ability to work effectively and collaboratively with a wide range of stakeholders.
+Ability to learn and support new systems and applications.
+Ability to work with others to identify problems.
+Displays a sense of urgency to resolve issues quickly and efficiently.
+Demonstrated ability to successfully distill complex technical information into clear, concise yet comprehensive communication material.
+Demonstrated ability to meet rigorous deadlines while managing multiple projects concurrently.
+Knowledge of web service and other messaging standards and protocols.
+
+
+
+
+
+The salary range for this role is $50,000 to $85,000 or the hourly equivalent. Pay is based on several factors including but not limited to education, work experience, certifications, etc. In addition to your salary, Turnberry Solutions offers benefits such as, a comprehensive healthcare package (medical, dental, vision), disability and group term life insurance, health and flexible spending accounts, utilization bonus, 401k, unlimited time off for salaried employees, and flexible work arrangements (all benefits are subject to eligibility requirements). No matter where or when you begin a career with Turnberry, you'll find a far-reaching choice of benefits and incentives.​
+
+
+
+
+
+
+
+At Turnberry, Inclusion is one of our core values. We are fully invested in and focused on hiring and growing a diverse team of high performers. We're committed to creating a positive and connected work environment for all. We believe that uniqueness in ideas, experiences, and backgrounds make us a better Turnberry: Turnberry is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+
+Show more "
+3270141676,"Data Engineer, Data Analytics",Tesla,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-data-analytics-at-tesla-3270141676?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=OaHx1ChbuZpd11cN3FOKyg%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card,4994,"What To Expect
+
+The Data and Analytics, Applications Engineering team drives business critical decision making, and ensures cross functional alignment of goals and execution for all of Tesla. We stay focused on aligning the highest-level company priorities with strong day-to-day operations and build capabilities to power hyper-growth.
+
+As the Data Analyst, you will partner with members of the Data and Analytics team and its leadership in Applications Engineering to provide critical analysis operations to support our demanding and fast-paced environment where you will work on critical subsystems of an incredibly exciting product.
+
+What You’ll Do
+Assist with implementation, maintenance and documentation of the internal Data and Analytics and reporting processes.
+Research and keep abreast of rapidly evolving data requirements, ensuring necessary system and process changes are implemented to meet these requirements.
+Identify potential process improvements and recommend implementation strategies.
+Educate business team on procedures when rolling out new initiatives.
+Develop and demonstrate expertise in communicating data related topics, including reporting.
+Work cross functionally across business teams including HR, Service, Supply Chain, Logistics, Financials, and Sales.
+Analyze the need for new applications or enhancements to the existing application to suit business needs and make decisions if they are needed or not.
+Recommend solutions that adhere to industry standards, keeping in mind the impact on upstream and downstream system and stakeholders.
+Closely monitor the project from inception to completion and assist in User Acceptance Testing.
+Work on special projects related to data as assigned.
+Continuously improve SQL and python skills, helping you automate repetitive work and multiply yourself
+On-call support, where needed.
+
+
+What You’ll Bring
+2+ years of prior experience as Systems/Data/Product/Program Analyst.
+Must be proficient in SQL.
+Expertise in key deliverables such as Project Plans, Business Requirement Documents, Functional requirements, Use Cases, System Sequence Diagrams.
+Ability to support multiple on-going projects in a fast-paced environment.
+Strong analytical and problem-solving ability to design an effective solution.
+Ability to explain financial/technical concepts and analysis implications clearly to a wide audience and be able to translate business objectives into actionable analyses.
+Strong communicational skills, organizational skills, negotiation skills, and flexibility to address competing demands.
+Working knowledge of data management software like Airflow, or other ETL tools a plus.
+Experience with bug/enhancement tracking system like JIRA a plus.
+2+ years in cross-functional project management experience.
+Superior business judgement – ability to flex between big picture thinking, understand and distill complex ideas, and analyze data to drive strategic objectives.
+Problem solver that is action-oriented with the ability to look at problems in new ways.
+Trustworthy and discreet with extremely sensitive non-public information.
+Passion for Tesla’s products and belief in Tesla’s mission to accelerate the transition to sustainable energy
+
+
+Nice to have:
+Experience in project management, Jira
+Experience with Tableau, Data Warehousing, Data Modeling
+Capable of leading a technical team
+
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+
+
+Expected Compensation
+
+$80,000 - $258,000/annual salary + cash and stock awards + benefits
+
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+Show more "
+3583477207,Software Engineer,Apexon,2023-04-26,https://www.linkedin.com/jobs/view/software-engineer-at-apexon-3583477207?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=Caf%2F39fnpnUZCL82HFgLFw%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card,2126,"Description
+
+
+
+
+Company Description:
+
+
+
+
+Apexon is a digital-first technology services firm backed by Goldman Sachs Asset Management and Everstone Capital. We specialize in accelerating business transformation and delivering human-centric digital experiences. For over 17 years, Apexon has been meeting customers wherever they are in the digital lifecycle and helping them outperform their competition through speed and innovation.
+
+
+
+
+Responsibilities And Qualifications
+
+
+
+
+Manage multiple tasks and use sound judgment when prioritizing.
+Collaborate with global cross functional teams in building customer-centric products.
+Analyze existing software implementations to identify areas of improvement and provide deadline estimates for implementing new features.
+Update and maintain documentation for team processes, best practices and software runbooks.
+Establish trusted partnerships with peers, product heads, and executive level stakeholders.
+Must be passionate about technology and engineering.
+Exceptional analytical skills and ability to apply knowledge and experience in decision-making.
+Ability to leverage technology to deliver business value.
+Must be independent and comfortable in a fast paced, ambiguous and often multi-directional work environment.
+
+
+
+
+Skills And Experience We Are Looking For
+
+
+
+
+Minimum 5 years of relevant professional experience using a modern programming language (preferably Java/Scala).
+Experience with Databases (SQL or no-SQL)
+B.S. or higher in Computer Science (or equivalent work experience).
+Strong analytical skills.
+Experience leveraging test-driven development methodologies.
+Comfort with Agile operating models (practical experience of Scrum/Kanban)
+Team oriented; strong interpersonal and communication skills.
+Energetic, self-directed, and self-motivated
+
+
+
+
+Disclaimer
+
+
+
+
+If you feel that this is a good match for your skillsets, please submit a current word version of your resume along with a cover letter describing your skills, experience and salary expectations. We are an Equal Opportunity Employer (EOE). You can read our job applicant privacy policy here .
+Show more "
+3588335402,Data Engineer,Snakeit Technologies,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-at-snakeit-technologies-3588335402?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=8vzm0YfhKjZVbKPc1uZ4lw%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card,4379,"The Senior Data Engineer plays a critical role in the successful execution of company Data Strategy.
+
+
+
+
+This role will be focused on data acquisition, curation, and transformation of data into a useable asset. They will work cross-functionally to develop and deploy optimized data models and modern data architecture in support of strategic data and business initiatives. This role will serve as a subject matter expert for data domain knowledge, SQL, data design, and data processes across the enterprise. This individual will collaborate with teams across the organization to design and build end to end data flows for optimal business intelligence, advanced analytics, and data monetization efforts. Lastly, this role will contribute to core design of data architecture, data models, schemas, and inform future state Data Management and Data Strategy roadmaps.
+
+
+
+
+Responsibilities
+
+
+
+
+Develops and continually refines the BI-focused data architecture.
+Works closely with the Data Intelligence department to understand the data and reporting requirements from internal and external customers and the steps to take on the back-end data side to achieve the expected results.
+Creates detailed documentation of data warehouse, data stores, and end to end data flows.
+Troubleshoots and corrects data and data processing errors in existing solutions.
+Works with other technical teams as well as with internal and external users to develop technical designs.
+Conducts gap analysis on source system databases against enterprise data warehouse in support of Business Intelligence efforts.
+Develops and maintains data sets and standardizes data collection and processing methodologies.
+Provides technical advice and weighs in on technical decisions that impact cross functional teams.
+Attends and contributes to architecture meetings to determine project scope, time frame and cost estimates.
+Works on plan and technical architecture to extract, integrate, and or push data to or from third party providers.
+Provides enterprise data solutions including ETL maintenance, warehouse data models, periodic upgrades, security, governance, and performance optimization.
+Understands the data warehouse and data mart models as well as being familiar with the business information contained in each.
+Locates and defines new process improvement opportunities or alternative technologies that will enhance speed to business value delivery with our data.
+Collaborates with developers and subject matter experts to establish the technical vision and analyze tradeoffs between usability and performance need.
+Mentors other ETL Developers and Data Engineers
+
+
+
+
+Qualifications
+
+
+
+
+Bachelor's Degree required, or equivalent education / work experience.
+3 - 5 years of experience in data and dimensional modeling
+Erwin Data Modeler (preferred)
+Databases (MS SQL, Snowflake)
+5+ years of experience in end-to-end data analysis and development
+5+ years of experience with Informatica
+Informatica B2B Tools
+Data Exchange (DX) or Batch Scheduling experience
+Data Transformation Studio (DT) or Object Oriented/Modular Programming with ability to read and interpret business logic from code.
+Eclipse experience desired
+Informatica Power Center development experience
+Custom Transformation, look up Transformation, Understanding of persistent cache usage, etc.
+Informatica IICS (Primarily CDI, CAI and other microservices are a bonus)
+Extensive Experience with SQL required.
+Experience with Visual Studio (preferred)
+C# (preferred)
+Experience with R or Python (preferred)
+Experience with Business Intelligence Tools (ie. Power BI) (preferred)
+Strong attention to detail
+Familiarity with Object Oriented Analysis, Project Management, Business Analysis Methodology and the SDLC
+Ability to collaborate effectively and work as part of a team.
+Customer oriented, with a desire to resolve problems to the customer's satisfaction while maintaining focus on productivity, efficiency, and quality.
+Effective communicator to clients, management, and project partners
+Experience with cloud-based technologies and services (SaaS, PaaS, IaaS) (preferred)
+Experience with Master Data Management (preferred)
+Strong analytical and product management skills required, including a thorough understanding of how to interpret customer business needs and translate them into application and operational requirements.
+
+
+
+
+Show more "
+3584213137,Data Engineer,Mastech Digital,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-at-mastech-digital-3584213137?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=rXMklwGIC1C4MeTMXMteYQ%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card,296,"Title: Data Engineer
+
+Location: Remote
+
+Duration: Fulltime
+
+ 
+
+Skills required: 
+
+·      Must be very strong with AWS, including hands-on experience in recent project
+
+·      Snowflake
+
+·      Python
+
+·      Lambda
+
+·      Terraform
+
+·      DBT
+
+·      Strong Datawarehouse experience
+
+Show more "
+3583463419,"Data Engineer / Huntsville, AL",Altamira Technologies Corporation,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-huntsville-al-at-altamira-technologies-corporation-3583463419?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=eX7hyMhxibp%2Fx70AgjXEbA%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card,2300,"This position is for a Data Engineer with a company in Huntsville, AL.
+
+Summary: Altamira is seeking a Data Engineer to support the Missile and Space Intelligence Center (MSIC) in Huntsville, Alabama.
+
+Duties and Responsibilities: In this position you will use your Data Engineering and Artificial Intelligence expertise to find the answers to questions that uniquely position our military to succeed in the digital age. You will design, implement, and operate data management systems for intelligence needs. You will support the entire life cycle of data systems from technology selection and design to development, integration, and operation. If this sounds exciting to you, please keep reading and we look forward to talking to you soon.
+
+Education and Experience: Basic Qualifications: Active TS/SCI security clearance. Bachelor\'s degree in a Computer Science, Engineering or related field Proven work experience or training as a Data Engineer, Machine Learning Engineer, or similar role Expertise with databases and database design, including SQL, NoSQL, and ORMs DoD or IC work experience. Python software development expertise Apache Airflow experience. Experience developing for Docker implementations Good interpersonal skills and the desire to work as part of a high-performing team Preferred Qualifications: Experience with version control software like Git Agile development familiarity Expertise in software development life cycle (SDLC) Experience with Extract, Transform, Load (ELT) operations Experience working with software developers and algorithm developers to create data and Machine Learning pipelines Linux OS experience Experience developing and updating technical documentation, presentations, flow charts, and other documentation Candidate must demonstrate strong troubleshooting and problem-solving skills. ***ACTIVE TS/SCI CLEARANCE REQUIRED*** ***MUST BE A U.S. CITIZEN*** We focus on recruiting talented, self-motivated employees that find a way to get things done. Join our team of experts as we engineer national security!
+
+Altamira is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected veteran status.
+Show more "
+3552855865,"Data Engineer, Analytics",Tesla,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-analytics-at-tesla-3552855865?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=ifMrrW0E4T56YOJ%2FdSIkMQ%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card,3433,"What to Expect The Data Engineer is responsible for processing structured and unstructured data, validating data quality, and developing and supporting data products. We are looking for someone with strong hands on experience in all layers of data Integration and analytics! We especially need experience in using Python as an ETL tool. The Data Engineer plays a significant role in Agile planning, providing advice and guidance, and monitoring emerging technologies. Some of the technology we use: * Python * Informatica * SQL Server and MySQL * Vertica * Kafka What You’ll Do * Strong experience with relational databases like SQL Server, MySQL and Vertica. NoSQL databases experience is a plus! * Strong background in data modeling, data access, and data storage techniques * Experience with design, development, and implementation of highly scalable, high-volume software systems and components, source of truth systems for different business areas, developing and maintaining web services in an agile environment * Working experience with Kafka Streaming layer * Experience in Spark Framework on both batch and real-time data processing is a plus * Experience in Big Data Integration & Analytics is a plus * Experience in Supply Chain and Logistics data is a plus What You’ll Bring * Design, code, test, correct and document programs and scripts using agreed standards and tools to achieve a well-engineered result * Derive an overall strategy of data management, within an established information architecture that supports the development and secure operation of existing and new information and digital services * Plan effective data storage, security, sharing and publishing within the organization * Gathers and processes raw, structured, semi-structured, and unstructured data using batch and real-time data processing frameworks * Ensures data quality and implements tools and frameworks for automating the identification of data quality issues * Collaborate with internal and external data providers on data validation providing feedback and making customized changes to data feeds and data mappings * Mentor and lead data engineers providing technical guidance and oversight * Provides ongoing support, monitoring, and maintenance of deployed products
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+Show more "
+3302577767,"Data Engineer, Apps",Tesla,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-apps-at-tesla-3302577767?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=3OEP1zc0IQxbYoKvjW6Yiw%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card,3887,"What to Expect The Data Engineer is responsible for processing structured and unstructured data, validating data quality, and developing and supporting data products. We are looking for someone with strong hands on experience in all layers of data Integration and analytics! We especially need experience in using Python as an ETL tool. The Data Engineer plays a significant role in Agile planning, providing advice and guidance, and monitoring emerging technologies. Some of the technology we use: * Python * Informatica * SQL Server and MySQL * Kafka What You’ll Do * Design, code, test, correct and document programs and scripts using agreed standards and tools to achieve a well-engineered result * Derive an overall strategy of data management, within an established information architecture that supports the development and secure operation of existing and new information and digital services * Plan effective data storage, security, sharing and publishing within the organization * Gathers and processes raw, structured, semi-structured, and unstructured data using batch and real-time data processing frameworks * Ensures data quality and implements tools and frameworks for automating the identification of data quality issues * Collaborate with internal and external data providers on data validation providing feedback and making customized changes to data feeds and data mappings * Mentor and lead data engineers providing technical guidance and oversight * Provides ongoing support, monitoring, and maintenance of deployed products What You’ll Bring * Strong experience with relational databases like SQL Server, MySQL and Vertica. NoSQL databases experience is a plus! * Strong background in data modeling, data access, and data storage techniques * Experience with design, development, and implementation of highly scalable, high-volume software systems and components, source of truth systems for different business areas, developing and maintaining web services in an agile environment * Working experience with Kafka Streaming layer * Experience in Spark Framework on both batch and real-time data processing is a plus * Experience in Big Data Integration & Analytics is a plus * Experience in Supply Chain and Logistics data is a plus
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+
+
+Expected Compensation
+
+$80,000 - $258,000/annual salary + cash and stock awards + benefits
+
+Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+Show more "
+3569207292,"Data Engineer, Service",Tesla,2023-04-26,https://www.linkedin.com/jobs/view/data-engineer-service-at-tesla-3569207292?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=Scjm9hhc4jJZwlpf7BGHfw%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card,4565,"What To Expect
+
+The Data and Analytics, Applications Engineering team drives business critical decision making, and ensures cross functional alignment of goals and execution for all of Tesla. We stay focused on aligning the highest-level company priorities with strong day-to-day operations and build capabilities to power hyper-growth.
+
+As the Data Engineer, you will partner with members of the Data and Analytics team and its leadership in Applications Engineering to provide critical analysis operations to support our demanding and fast-paced environment where you will work on critical subsystems of an incredibly exciting product.
+
+The candidate must be comfortable with data warehousing and ETL concepts with a strong hand on SQL & Python. To be successful in this role, you will need strong data engineering skills, excellent interpersonal communication, and experience building, optimizing and managing ETL Pipelines.
+
+What You’ll Do
+Assist with implementation and maintenance of the internal Data and Analytics and reporting processes.
+Research and keep abreast of rapidly evolving data requirements, ensuring necessary system and process changes are implemented to meet these requirements.
+Identify potential process improvements and recommend implementation strategies.
+Develop and demonstrate expertise in communicating data related topics, including reporting.
+Analyze the need for new applications or enhancements to the existing application to suit business needs and make decisions if they are needed or not.
+Recommend solutions that adhere to industry standards, keeping in mind the impact on upstream and downstream system and stakeholders.
+Closely monitor the project from inception to completion and assist in User Acceptance Testing.
+Work on special projects related to data as assigned.
+Continuously improve SQL and python skills, helping you automate repetitive work and multiply yourself
+
+
+What You’ll Bring
+2+ years of prior experience Data Engineer.
+Must be proficient in SQL, Python. Automate repetitive personal tasks through Python and SQL
+Experience with Tableau or any visualization tool, Data Warehousing, Data Modeling
+Strong experience with relational databases like SQL Server, MySQL and Vertica. NoSQL databases experience is a plus
+Experience with user-defined workflows (e.g., Airflow)
+Experience with writing Kafka consumers and producers.
+Experience Apache Spark Streaming and Hive is plus.
+Problem solver that is action-oriented with the ability to look at problems in new ways.
+Working knowledge of data management software like Airflow, or other ETL tools a plus.
+Strong analytical and problem-solving ability to design an effective solution.
+Ability to support multiple on-going projects in a fast-paced environment.
+Strong communicational skills, organizational skills, negotiation skills, and flexibility to address competing demands.
+Ability to explain Production / technical concepts and analysis implications clearly to a wide audience and be able to translate business objectives into actionable analyses.
+Superior business judgement – ability to flex between big picture thinking, understand and distill complex ideas, and analyze data to drive strategic objectives.
+Passion for Tesla’s products and belief in Tesla’s mission to accelerate the transition to sustainable energy
+
+
+Experience with bug/enhancement tracking system like JIRA a plus.
+
+Benefits
+
+Along with competitive pay, as a full-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+Aetna PPO and HSA plans > 2 medical plan options with $0 payroll deduction
+Family-building, fertility, adoption and surrogacy benefits
+Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Aetna medical plan with HSA
+Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+LGBTQ+ care concierge services
+401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+Company paid Basic Life, AD&D, short-term and long-term disability insurance
+Employee Assistance Program
+Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+Back-up childcare and parenting support resources
+Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance
+Weight Loss and Tobacco Cessation Programs
+Tesla Babies program
+Commuter benefits
+Employee discounts and perks program
+Show more "
+3583434137,ETL Data Engineer,TekIntegral,2023-04-26,https://www.linkedin.com/jobs/view/etl-data-engineer-at-tekintegral-3583434137?refId=5lY5Wxxn8sx%2FpsMok2FaLQ%3D%3D&trackingId=ANT5Z7TL2M2IsCFN3I4wXw%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card,2028,"ALL ROLES ARE HYBRID IN THE OFFICE (2-3 DAYS/WEEK) UNLESS REMOTE IS NOTED
+
+W2 Rate range
+
+LOCATION DETAILS -noted below
+
+Only taking USC, GC or H4 EAD, L2 Visa or TN Visa - they will not take OPT EAD or CPT
+
+Data Analytics Engineer ETL Informatica
+
+Charlotte NC or Summit NJ- 2 days in office/3 days remote LOCAL CANDIDATES ONLY
+
+12+ months
+
+Seeking a data engineer who can assist with transitioning and building new process/enhancements of current state as well as development.
+
+Will be responsible for the following on a daily basis
+
+60% of this role is initially assisting in the identification of process changes/enhancements and the documentation/requirement definition within the data engineering team.
+Must have a strong background in data analytics delivery and data warehousing
+Must be strong in SQL queries, stored procedures, query optimization and performance tuning
+Data engineering background to include: analyzing current state, document the use of tools, primarily SSIS, adopt any ETL tool, create documentation, process and test.
+Assessing current state/process and documenting current issues and willing to learn/adapt to other ETL tools outside of SSIS
+Documentation and building of new technical documents based on review of trouble tickets
+Must be able to help understand and define current state and ensure new enhancements as well as assist in implementing changes
+
+Required Experience
+
+8+ years of data engineering experience within ETL/Informatica, SQL and SSIS
+Strong background working within Agile
+8+ years of data management experience including data modeling, data integrity and data quality
+6+ years RDBMS such as SQL Server, Oracle or MySQL
+6+ years of experience writing relational database queries (SQL) for stored procedures, query optimization and performance tuning
+6+ years of experience with ETL Tools (SSIS)
+6+ years of experience with large data and analytic environments
+2+ years of experience with Agile practices
+Experience with Autosys or other automation/scheduling tools
+Show more "

@@ -160,3 +160,17 @@ cython_debug/
 #.idea/
 
 .DS_STORE
+
+#virtual environment - airflkow_GreatExpectations
+airflow_ge/.env_ge
+
+#Great Expectations
+airflow_ge/working_dir/great_expectations/checkpoints
+
+airflow_ge/working_dir/great_expectations/expectations/.ge_store_backend_id
+
+airflow_ge/working_dir/great_expectations/plugins
+
+airflow_ge/working_dir/great_expectations/uncommitted/config_variables.yml
+
+airflow_ge/working_dir/great_expectations/uncommitted/validations
