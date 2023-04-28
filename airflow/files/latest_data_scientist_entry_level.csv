@@ -1,318 +1,501 @@
 Job ID,Title,CleanedDescription
-3584282984,Data Scientist - Remote,"help at home is the leading national provider of in-home personal care services, where our mission is to enable individuals to live with independence and dignity at home. our team supports 66,000 clients monthly with the help of 50,000 compassionate caregivers across 12 states. we’re looking for people who care about others, who are willing to listen, lean in and make impactful change. each role at help at home can have a positive impact in supporting our caregivers and clients. if you are someone who leads with passion and integrity and are looking to join a rapidly growing, industry leading team, help at home may be a good fit for you.
-job summary
-under the guidance of the vp, enterprise analytics and in close coordination with help at home’s business and functional areas, the data scientist is responsible for formulating, designing, and executing data science projects. this role will be a strategic business partner to functional senior leaders and a promoter of data driven decision making.
-as a key member of the team
-you are flexible and can embrace change
-you value progress over perfection
-you care about your work, the team you’re on, and the people we are helping
-you make it a priority to get to know the people around you – build relationships with your colleagues and business partners
-you say what needs to be said, while considering how it’ll affect culture and output
-hold others to a high standard
+3591457401,Data Scientist (Entry Level ),"remote (us/canada residing people only, with work permit)
+patterned learning – data scientist (entry level ) , full-time, salary $100k - $130k a year.
+about us: the future of ai is patterned, a stealth-mode technology startup. top investors include sequoia and anderson horowitz, founders from google, deepmind, and nasa and we’re hiring for almost everything!
+about the job requirements
+. in data science/electrical engineering/computer science
+experience in machine learning, data science or similar roles
+experience with version control systems, collaborative coding frameworks and scalable engineering tools such as docker
+solid understanding of the theory and practice of machine learning algorithms
+experience building functional prototypes and/or products in python
+dsp or/and timeseries analysis an advantage
+knowledge of human physiology and bioelectric or optical sensing techniques is a nice bonus
+collaborative approach with strong written and verbal communication skills
+efficient, creative and able to manage multiple projects concurrently
+special benefits you will love
+flexible vacation, paid holidays, and paid sick days
+401(k) with up to 2% employer match (no match)
+schedule: 8 hour shift, monday to friday , time: flexible, job type: full-time
+"
+3590538877,"Data Scientist, SMB Data and Analytics","snap inc is a technology company. we believe the camera presents the greatest opportunity to improve the way people live and communicate. snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. the company’s three core products are snapchat, a visual messaging app that enhances your relationships with friends, family, and the world; lens studio, an augmented reality platform that powers ar across snapchat and other services; and its ar glasses, spectacles.
+snapchat is a camera and messaging app that connects people to their friends and the world. every day around the globe, millions of people use snapchat to communicate with friends, build relationships, play, and learn. no matter where you are or how you express yourself, it’s always the fastest way to share a moment!
+we’re looking for a data scientist, smb data & analytics to join snap inc.
+what you’ll do:
+drive smb’s global business strategy, advise its execution, improve efficiency and facilitate customers’ success at scale.
+lead the development of our predictive algorithms across a number of different areas all with the aim of better understanding our customer and our business
+lead and perform deep-dive analyses using analytical and statistical tools on very large, complex, multi-dimensional datasets.
+identify levers for revenue & retention growth, efficiency enhancement and investments to unlock non-linear business growth.
+advocate for key smb-oriented insights and recommendations with partner teams, including product, engineering, sales, growth, and operations.
+establish a rigorous set of kpis and metrics (input and output) for measuring advertiser growth, revenue and retention.
+provide quantitative support, market understanding and a strategic perspective to smb and its partner teams on all questions involving small and medium businesses.
+knowledge, skills & abilities:
+expertise using data modeling skills to identify key product trends and new product opportunities
+ability to design implement, and track core metrics to analyze the performance of our products
+ability to create visuals, dashboards, and reports to optimally communicate your insights
+ability to collaborate with engineers, product managers, and other cross-functional teams
+ability to initiate and drive projects to completion with minimal guidance
+an understanding of snapchat with great product sense and product understanding
+minimum qualifications:
+bs/ba degree in statistics, mathematics, economics, computer science or equivalent years of experience
+3+ years of experience in quantitative analysis & data science or a related field
+3+ years of experience using sql or similar big data querying languages
+3+ years of experience with programming language, such as python or r
+3+ years of experience with applied statistical techniques, such as inferential methods, causal methods, a/b testing, or statistical modeling techniques
+preferred qualifications:
+advanced degree in applied mathematics, statistics, actuarial science, economics or related field
+experience using machine learning and statistical analysis for building data-driven product solutions or performing methodological research.
+experience in online media/marketing measurement, analytics, or statistics, preferably in a consumer/ smb business
+experience working with sales, marketing, and/or customer service organizations.
+compensation
+in the united states, work locations are assigned a pay zone which determines the salary range for the position. the successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. these pay zones may be modified in the future.
+zone a (ca, wa, nyc): the base salary range for this position is $165,000 - $230,000 annually
+zone b: the base salary range for this position is $157,000 - $219,000 annually
+zone c: the base salary range for this position is $140,000 - $196,000 annually
+this position is eligible for equity in the form of rsus
+""default together"" policy at snap: at snap inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. to reflect this, we practice a “default together” approach and expect our team members to work in an office at least 80% of the time (an average of 4 days per week).
+if you are not based in the same location(s) listed for this role and are open to relocation, we encourage you to apply to take advantage of our generous relocation policy.
+at snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. eoe, including disability/vets. if you have a disability or special need that requires accommodation, please don’t be shy and contact us at .
+our benefits: snap inc. is its own community, so we’ve got your back! we do our best to make sure you and your loved ones have everything you need to be happy and healthy, on your own terms. our benefits are built around your needs and include paid parental leave, comprehensive medical coverage, emotional and mental health support programs, and compensation packages that let you share in snap’s long-term success!
+"
+3590545035,"Data Scientist, SMB Data and Analytics","snap inc is a technology company. we believe the camera presents the greatest opportunity to improve the way people live and communicate. snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. the company’s three core products are snapchat, a visual messaging app that enhances your relationships with friends, family, and the world; lens studio, an augmented reality platform that powers ar across snapchat and other services; and its ar glasses, spectacles.
+snapchat is a camera and messaging app that connects people to their friends and the world. every day around the globe, millions of people use snapchat to communicate with friends, build relationships, play, and learn. no matter where you are or how you express yourself, it’s always the fastest way to share a moment!
+we’re looking for a data scientist, smb data & analytics to join snap inc.
+what you’ll do:
+drive smb’s global business strategy, advise its execution, improve efficiency and facilitate customers’ success at scale.
+lead the development of our predictive algorithms across a number of different areas all with the aim of better understanding our customer and our business
+lead and perform deep-dive analyses using analytical and statistical tools on very large, complex, multi-dimensional datasets.
+identify levers for revenue & retention growth, efficiency enhancement and investments to unlock non-linear business growth.
+advocate for key smb-oriented insights and recommendations with partner teams, including product, engineering, sales, growth, and operations.
+establish a rigorous set of kpis and metrics (input and output) for measuring advertiser growth, revenue and retention.
+provide quantitative support, market understanding and a strategic perspective to smb and its partner teams on all questions involving small and medium businesses.
+knowledge, skills & abilities:
+expertise using data modeling skills to identify key product trends and new product opportunities
+ability to design implement, and track core metrics to analyze the performance of our products
+ability to create visuals, dashboards, and reports to optimally communicate your insights
+ability to collaborate with engineers, product managers, and other cross-functional teams
+ability to initiate and drive projects to completion with minimal guidance
+an understanding of snapchat with great product sense and product understanding
+minimum qualifications:
+bs/ba degree in statistics, mathematics, economics, computer science or equivalent years of experience
+3+ years of experience in quantitative analysis & data science or a related field
+3+ years of experience using sql or similar big data querying languages
+3+ years of experience with programming language, such as python or r
+3+ years of experience with applied statistical techniques, such as inferential methods, causal methods, a/b testing, or statistical modeling techniques
+preferred qualifications:
+advanced degree in applied mathematics, statistics, actuarial science, economics or related field
+experience using machine learning and statistical analysis for building data-driven product solutions or performing methodological research.
+experience in online media/marketing measurement, analytics, or statistics, preferably in a consumer/ smb business
+experience working with sales, marketing, and/or customer service organizations.
+compensation
+in the united states, work locations are assigned a pay zone which determines the salary range for the position. the successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. these pay zones may be modified in the future.
+zone a (ca, wa, nyc): the base salary range for this position is $165,000 - $230,000 annually
+zone b: the base salary range for this position is $157,000 - $219,000 annually
+zone c: the base salary range for this position is $140,000 - $196,000 annually
+this position is eligible for equity in the form of rsus
+""default together"" policy at snap: at snap inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. to reflect this, we practice a “default together” approach and expect our team members to work in an office at least 80% of the time (an average of 4 days per week).
+if you are not based in the same location(s) listed for this role and are open to relocation, we encourage you to apply to take advantage of our generous relocation policy.
+at snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. eoe, including disability/vets. if you have a disability or special need that requires accommodation, please don’t be shy and contact us at .
+our benefits: snap inc. is its own community, so we’ve got your back! we do our best to make sure you and your loved ones have everything you need to be happy and healthy, on your own terms. our benefits are built around your needs and include paid parental leave, comprehensive medical coverage, emotional and mental health support programs, and compensation packages that let you share in snap’s long-term success!
+"
+3590543261,"Data Scientist, SMB Data and Analytics","snap inc is a technology company. we believe the camera presents the greatest opportunity to improve the way people live and communicate. snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. the company’s three core products are snapchat, a visual messaging app that enhances your relationships with friends, family, and the world; lens studio, an augmented reality platform that powers ar across snapchat and other services; and its ar glasses, spectacles.
+snapchat is a camera and messaging app that connects people to their friends and the world. every day around the globe, millions of people use snapchat to communicate with friends, build relationships, play, and learn. no matter where you are or how you express yourself, it’s always the fastest way to share a moment!
+we’re looking for a data scientist, smb data & analytics to join snap inc.
+what you’ll do:
+drive smb’s global business strategy, advise its execution, improve efficiency and facilitate customers’ success at scale.
+lead the development of our predictive algorithms across a number of different areas all with the aim of better understanding our customer and our business
+lead and perform deep-dive analyses using analytical and statistical tools on very large, complex, multi-dimensional datasets.
+identify levers for revenue & retention growth, efficiency enhancement and investments to unlock non-linear business growth.
+advocate for key smb-oriented insights and recommendations with partner teams, including product, engineering, sales, growth, and operations.
+establish a rigorous set of kpis and metrics (input and output) for measuring advertiser growth, revenue and retention.
+provide quantitative support, market understanding and a strategic perspective to smb and its partner teams on all questions involving small and medium businesses.
+knowledge, skills & abilities:
+expertise using data modeling skills to identify key product trends and new product opportunities
+ability to design implement, and track core metrics to analyze the performance of our products
+ability to create visuals, dashboards, and reports to optimally communicate your insights
+ability to collaborate with engineers, product managers, and other cross-functional teams
+ability to initiate and drive projects to completion with minimal guidance
+an understanding of snapchat with great product sense and product understanding
+minimum qualifications:
+bs/ba degree in statistics, mathematics, economics, computer science or equivalent years of experience
+3+ years of experience in quantitative analysis & data science or a related field
+3+ years of experience using sql or similar big data querying languages
+3+ years of experience with programming language, such as python or r
+3+ years of experience with applied statistical techniques, such as inferential methods, causal methods, a/b testing, or statistical modeling techniques
+preferred qualifications:
+advanced degree in applied mathematics, statistics, actuarial science, economics or related field
+experience using machine learning and statistical analysis for building data-driven product solutions or performing methodological research.
+experience in online media/marketing measurement, analytics, or statistics, preferably in a consumer/ smb business
+experience working with sales, marketing, and/or customer service organizations.
+compensation
+in the united states, work locations are assigned a pay zone which determines the salary range for the position. the successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. these pay zones may be modified in the future.
+zone a (ca, wa, nyc): the base salary range for this position is $165,000 - $230,000 annually
+zone b: the base salary range for this position is $157,000 - $219,000 annually
+zone c: the base salary range for this position is $140,000 - $196,000 annually
+this position is eligible for equity in the form of rsus
+""default together"" policy at snap: at snap inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. to reflect this, we practice a “default together” approach and expect our team members to work in an office at least 80% of the time (an average of 4 days per week).
+if you are not based in the same location(s) listed for this role and are open to relocation, we encourage you to apply to take advantage of our generous relocation policy.
+at snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. eoe, including disability/vets. if you have a disability or special need that requires accommodation, please don’t be shy and contact us at .
+our benefits: snap inc. is its own community, so we’ve got your back! we do our best to make sure you and your loved ones have everything you need to be happy and healthy, on your own terms. our benefits are built around your needs and include paid parental leave, comprehensive medical coverage, emotional and mental health support programs, and compensation packages that let you share in snap’s long-term success!
+"
+3590541422,"Data Scientist, SMB Data and Analytics","snap inc is a technology company. we believe the camera presents the greatest opportunity to improve the way people live and communicate. snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. the company’s three core products are snapchat, a visual messaging app that enhances your relationships with friends, family, and the world; lens studio, an augmented reality platform that powers ar across snapchat and other services; and its ar glasses, spectacles.
+snapchat is a camera and messaging app that connects people to their friends and the world. every day around the globe, millions of people use snapchat to communicate with friends, build relationships, play, and learn. no matter where you are or how you express yourself, it’s always the fastest way to share a moment!
+we’re looking for a data scientist, smb data & analytics to join snap inc.
+what you’ll do:
+drive smb’s global business strategy, advise its execution, improve efficiency and facilitate customers’ success at scale.
+lead the development of our predictive algorithms across a number of different areas all with the aim of better understanding our customer and our business
+lead and perform deep-dive analyses using analytical and statistical tools on very large, complex, multi-dimensional datasets.
+identify levers for revenue & retention growth, efficiency enhancement and investments to unlock non-linear business growth.
+advocate for key smb-oriented insights and recommendations with partner teams, including product, engineering, sales, growth, and operations.
+establish a rigorous set of kpis and metrics (input and output) for measuring advertiser growth, revenue and retention.
+provide quantitative support, market understanding and a strategic perspective to smb and its partner teams on all questions involving small and medium businesses.
+knowledge, skills & abilities:
+expertise using data modeling skills to identify key product trends and new product opportunities
+ability to design implement, and track core metrics to analyze the performance of our products
+ability to create visuals, dashboards, and reports to optimally communicate your insights
+ability to collaborate with engineers, product managers, and other cross-functional teams
+ability to initiate and drive projects to completion with minimal guidance
+an understanding of snapchat with great product sense and product understanding
+minimum qualifications:
+bs/ba degree in statistics, mathematics, economics, computer science or equivalent years of experience
+3+ years of experience in quantitative analysis & data science or a related field
+3+ years of experience using sql or similar big data querying languages
+3+ years of experience with programming language, such as python or r
+3+ years of experience with applied statistical techniques, such as inferential methods, causal methods, a/b testing, or statistical modeling techniques
+preferred qualifications:
+advanced degree in applied mathematics, statistics, actuarial science, economics or related field
+experience using machine learning and statistical analysis for building data-driven product solutions or performing methodological research.
+experience in online media/marketing measurement, analytics, or statistics, preferably in a consumer/ smb business
+experience working with sales, marketing, and/or customer service organizations.
+compensation
+in the united states, work locations are assigned a pay zone which determines the salary range for the position. the successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. these pay zones may be modified in the future.
+zone a (ca, wa, nyc): the base salary range for this position is $165,000 - $230,000 annually
+zone b: the base salary range for this position is $157,000 - $219,000 annually
+zone c: the base salary range for this position is $140,000 - $196,000 annually
+this position is eligible for equity in the form of rsus
+""default together"" policy at snap: at snap inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. to reflect this, we practice a “default together” approach and expect our team members to work in an office at least 80% of the time (an average of 4 days per week).
+if you are not based in the same location(s) listed for this role and are open to relocation, we encourage you to apply to take advantage of our generous relocation policy.
+at snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. eoe, including disability/vets. if you have a disability or special need that requires accommodation, please don’t be shy and contact us at .
+our benefits: snap inc. is its own community, so we’ve got your back! we do our best to make sure you and your loved ones have everything you need to be happy and healthy, on your own terms. our benefits are built around your needs and include paid parental leave, comprehensive medical coverage, emotional and mental health support programs, and compensation packages that let you share in snap’s long-term success!
+"
+3590541421,"Data Scientist, SMB Data and Analytics","snap inc is a technology company. we believe the camera presents the greatest opportunity to improve the way people live and communicate. snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. the company’s three core products are snapchat, a visual messaging app that enhances your relationships with friends, family, and the world; lens studio, an augmented reality platform that powers ar across snapchat and other services; and its ar glasses, spectacles.
+snapchat is a camera and messaging app that connects people to their friends and the world. every day around the globe, millions of people use snapchat to communicate with friends, build relationships, play, and learn. no matter where you are or how you express yourself, it’s always the fastest way to share a moment!
+we’re looking for a data scientist, smb data & analytics to join snap inc.
+what you’ll do:
+drive smb’s global business strategy, advise its execution, improve efficiency and facilitate customers’ success at scale.
+lead the development of our predictive algorithms across a number of different areas all with the aim of better understanding our customer and our business
+lead and perform deep-dive analyses using analytical and statistical tools on very large, complex, multi-dimensional datasets.
+identify levers for revenue & retention growth, efficiency enhancement and investments to unlock non-linear business growth.
+advocate for key smb-oriented insights and recommendations with partner teams, including product, engineering, sales, growth, and operations.
+establish a rigorous set of kpis and metrics (input and output) for measuring advertiser growth, revenue and retention.
+provide quantitative support, market understanding and a strategic perspective to smb and its partner teams on all questions involving small and medium businesses.
+knowledge, skills & abilities:
+expertise using data modeling skills to identify key product trends and new product opportunities
+ability to design implement, and track core metrics to analyze the performance of our products
+ability to create visuals, dashboards, and reports to optimally communicate your insights
+ability to collaborate with engineers, product managers, and other cross-functional teams
+ability to initiate and drive projects to completion with minimal guidance
+an understanding of snapchat with great product sense and product understanding
+minimum qualifications:
+bs/ba degree in statistics, mathematics, economics, computer science or equivalent years of experience
+3+ years of experience in quantitative analysis & data science or a related field
+3+ years of experience using sql or similar big data querying languages
+3+ years of experience with programming language, such as python or r
+3+ years of experience with applied statistical techniques, such as inferential methods, causal methods, a/b testing, or statistical modeling techniques
+preferred qualifications:
+advanced degree in applied mathematics, statistics, actuarial science, economics or related field
+experience using machine learning and statistical analysis for building data-driven product solutions or performing methodological research.
+experience in online media/marketing measurement, analytics, or statistics, preferably in a consumer/ smb business
+experience working with sales, marketing, and/or customer service organizations.
+compensation
+in the united states, work locations are assigned a pay zone which determines the salary range for the position. the successful candidate’s starting pay will be determined based on job-related skills, experience, qualifications, work location, and market conditions. these pay zones may be modified in the future.
+zone a (ca, wa, nyc): the base salary range for this position is $165,000 - $230,000 annually
+zone b: the base salary range for this position is $157,000 - $219,000 annually
+zone c: the base salary range for this position is $140,000 - $196,000 annually
+this position is eligible for equity in the form of rsus
+""default together"" policy at snap: at snap inc. we believe that being together in person helps us build our culture faster, reinforce our values, and serve our community, customers and partners better through dynamic collaboration. to reflect this, we practice a “default together” approach and expect our team members to work in an office at least 80% of the time (an average of 4 days per week).
+if you are not based in the same location(s) listed for this role and are open to relocation, we encourage you to apply to take advantage of our generous relocation policy.
+at snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. eoe, including disability/vets. if you have a disability or special need that requires accommodation, please don’t be shy and contact us at .
+our benefits: snap inc. is its own community, so we’ve got your back! we do our best to make sure you and your loved ones have everything you need to be happy and healthy, on your own terms. our benefits are built around your needs and include paid parental leave, comprehensive medical coverage, emotional and mental health support programs, and compensation packages that let you share in snap’s long-term success!
+"
+3587814243,Data Scientist,"about wurl, llc.
+wurl is a global streaming network. our b2b services provide streamers, content companies, and advertisers with a powerful, integrated network to distribute and monetize streaming television reaching hundreds of million of connected televisions in over 50 countries. this year wurl was acquired by applovin (nasdaq: app), an industry-leading mobile marketing ad tech company, bringing together the technology and innovation of the mobile and television industries. with the merger, wurl employees enjoy the best of both worlds: the dynamic environment of a 160+ person start-up and the stability of a high-growth public tech company.
+wurl is a fully-remote company that has been recognized for the second year in a row as a great place to work. wurl invests in providing a culture that fosters passion, drives excellence, and encourages collaboration to drive innovation. we hire the world's best to build a bunch of cool stuff on an interface fully integrated with their own from streaming, advertising and software technology to continue to help us disrupt the way the world watches television.
+data scientist - remote
+wurl is seeking an experienced, detail-oriented data scientist who will support our product, sales, leadership, and marketing teams with insights gained from analyzing company data. wurl's position in the video and ad delivery ecosystem enables detailed performance and behavioral measurement. the ideal candidate is adept at using large data sets to find opportunities for product and process optimization and using models to test the effectiveness of different courses of action. they must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms, and creating/running simulations and predictions. they must have a proven ability to drive business results with their data-based insights. they must be comfortable working with a wide range of stakeholders and functional teams. the right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+the ideal candidate is experienced with big data, ml processes, sql, python, agile processes, microservice architectures, saas concepts. experience with ott video, ad insertion processes, jira, confluence, datadog, snowflake, aws, and databricks is advantageous but not mandatory.
+what you'll do:
+contributing to wurl's understanding of our data
+contributing to data processing and machine learning initiatives
+identifying quality metrics and data features
+building data models and prediction models
+contributing to wurl's ml frameworks: research models
+participating in the evolution of wurl's data management and analysis framework
+creating solutions that are practical and can be applied to business applications
+using probability, statistics, predictive modeling, machine learning, or other quantitative methodologies to solve real-world tv delivery and advertisement problems.
+qualifications:
+phd in computer science, mathematics, physics or relative field plus 2 years of relevant experience or master's degree in computer science, mathematics, physics or relative field plus 4 years of relevant experience
+expert programming skills with python and sql
+knowledge of spark/pyspark
+strong mathematical background and knowledge including but not limited to statistics, predictive modeling, linear algebra, machine learning
+experience with ai, including building ml models using frameworks such as tensorflow, pytorch, sparkml, scikit-learn.
+knowledge of fundamental nlp concepts and updated with the state-of-the-art nlp models
+data pre-processing, visualization and data cleansing experience
+experience dealing with big datasets and databases
+effective communication skills
+works well in a team and independently
+soft skills: creative, innovative, open to receiving and giving constructive criticism, open to discussions, trustworthy and reliable
+proven record of being an outstanding problem-solver
+location: us remote.
+pluses:
+advanced proficiency with data visualization tools (such as tableau, power bi, domo)
+knowledge snowflake, databricks and git
+experience with saas offerings: aws preferred. containerization, serverless processes, microservice architectures, etc.
+experience with ott streaming formats (hls, dash), ssai
+publications in a peer reviewed journals
+what we offer
+competitive salary & equity
+remote first policy
+flexible time off
+12 us holidays
+401(k) matching
+pre-tax savings plans, hsa & fsa
+ginger, aaptiv and headspace subscriptions for mental and physical wellness
+onemedical subscription for 24/7 convenient medical care
+paid maternity and parental leave for all family additions
+discounted petplan and easy at home access to covid testing with empowerdx
+$1k work from home stipend to set up your office
+few companies allow you to thrive like you will at wurl. you will have the opportunity to collaborate with the industry's brightest minds and most innovative thinkers. you will enjoy ongoing mentorship, team collaboration and you will understand what we mean by 'human connection"". you will be proud to say you're a part of the company revolutionizing tv.
+wurl provides a competitive total compensation package with a pay for performance rewards approach. the expected base pay range for this [ca based or north america based] position is $121,000 - $196,000. base compensation at wurl is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. depending on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical and other benefits.
+"
+3587810834,Machine Learning Engineer,"we're seeking a talented machine learning engineer to join our mission of revolutionizing the ion factory os for next-generation hardware creators. as a full-time addition at our vibrant downtown los angeles office, you'll play a crucial role in our dynamic data team.
+our data team is passionate about supporting companies tackling humanity's boldest challenges in the realm of evtols, rockets, robots, and autonomous vehicles. join our diverse squad, renowned for quick learning, sharp thinking, and agile execution. ready to make an impact on the hardware industry and industry 4.0? let's dive in!
+responsibilities & duties
+develop, implement, and deploy machine learning models in production environments
+work with cross-functional teams to define and prioritize ml use cases based on business requirements
+collaborate with data engineers, data scientists, and software engineers to build scalable and efficient ml pipelines
+implement ml workflows and monitoring solutions using mlflow or other similar life-cycle model management tools
+continuously improve and optimize the performance of ml models in production
+document and communicate ml processes, models, and results to stakeholders
+minimum qualifications & skills
+3+ years of experience in machine learning engineering with a focus on production deployment
+strong programming skills and experience in python, rust, or r
+solid understanding of machine learning algorithms, such as supervised and unsupervised learning, reinforcement learning, and deep learning, as well as experience with popular machine learning libraries such as tensorflow, pytorch, or scikit-learn
+hands-on experience with ml workflow management tools such as mlflow
+experience with building, testing, and deploying ml models in production
+solid understanding of data structures, algorithms, and statistics
+strong knowledge of software engineering best practices and version control systems such as git
+preferred qualifications & skills
+experience with distributed computing technologies such as apache spark or dask
+familiarity with containerization technologies such as docker and kubernetes
+knowledge of cloud platforms such as aws, gcp, or azure
+experience with data engineering, data modeling, and data architecture
+strong communication and collaboration skills
+utilize infrastructure tooling, such as terraform or helm, to manage and automate the deployment, scaling, and monitoring of machine learning models in production environments
+benefits & perks
+health insurance; medical, vision, dental, & life insurance
+paid parental leave
+employee stock option plan
+team outings, group lunches, an open office, happy hours
+paid holidays, sick days
+first resonance is an equal opportunity employer dedicated to building an inclusive and diverse workforce.
+join the team and inspire the work
+"
+3584956512,AI/ML Software Engineer,"come join a team of industry and science leaders to achieve a vision of empowering innovation through state of the art artificial intelligence and machine learning. we are addressing exciting challenges for our customers, at the intersection of ai/ml and cutting-edge cloud infrastructure, with nlp being a core area of what we do and what we offer our customers.
+what you would do
+design, architect, and implement robust infrastructure solutions for ai systems, ensuring optimal performance, scalability, and cost-efficiency while considering the unique requirements and complexities associated with artificial intelligence.
+champion the adoption of cutting-edge data science methodologies within the team, fostering an environment that prioritizes system scalability and seamless development processes.
+transform ai/ml prototypes developed by our scientists into industry-grade products, facilitating the seamless integration of aixplain's platform for both existing and prospective clients.
+transform ai/ml prototypes developed by our scientists into industry-grade products, facilitating the seamless integration of aixplain's platform for both existing and prospective clients. drive innovation and excellence in software engineering by designing, developing, testing, deploying, documenting, maintaining, and enhancing software solutions, while effectively managing project priorities, deadlines, and deliverables to ensure the timely delivery of high-quality products.
+must haves
+bsc in computer/software engineering, science, or a related technical field.
+minimum of 2 years in software development.
+ability to handle ambiguity and thrive in a highly collaborative tech-startup environment, while maintaining a customer-centric approach.
+advanced proficiency in python programming language.
+familiarity with unit testing tools, such as pytest.
+proficient in using github for code management.
+strong experience with multithreading and multiprocessing programming (., celery, ray).
+good experience in deploying models using fastapi.
+well-versed with sql/nosql databases and big-data platforms (., mongodb, hadoop, elastic-search, redis).
+nice to haves
+experience in designing, building, and deploying end-to-end ml pipelines using deep learning frameworks such as scikit-learn, pytorch, and tensorflow.
+familiarity with mlops and automl platforms, including kubeflow, mlflow, kubernetes, and docker.
+experience with cloud infrastructure orchestration using scripting tools.
+"
+3587808968,Machine Learning Engineer - Large Language Models,"we are looking for a talented machine learning engineer with interest in training large language models to join our innovative and fast-paced team. in this role, you will work on cutting-edge nlp projects and play a crucial part in developing and refining our productivity tools. if you are passionate about machine learning, have a strong background in natural language processing, and thrive in a collaborative and high-impact environment, we'd love to hear from you!
 responsibilities
-formulate analysis plans and selection of appropriate methods/tools for analysis
-work with business stakeholders, bi analysts and data engineers on defining and building data sets to be analyzed
-provide statistical analysis of hah’s internal data as well as data from external partners, hies and data aggregators (. adts, ccds, orus, claims, etc.)
-use statistical rigor, scientific methods, data mining techniques, machine-learning algorithms and methodologies in analyzing data
-apply methods for big data analysis to reveal patterns, trends, and associations in large data sets in search for usable information
-maintain familiarity with relevant published research and trends to align business inquiries with new and established evidence from the literature
-assist with population health management including statistical analysis – such as descriptive, inferential, correlations, multi-variate regression and predictive modeling
-explain complex technical and statistical concepts to business audience and effectively communicate results and findings through appropriate visualizations of data
-build effective relationships with all cross functional leaders
-participate in senior leadership meetings and explain analysis results and limitations and present data driven business insights
-provides thought leadership & strategic thinking to translate business problem into analytical framework(s), and independently recommend actions and provide business insights
-contribute to the development and implementation of the enterprise analytics team’s strategy
-required skills/ abilities
-exceptional analytical, statistical, data modeling and data management skills
-ability to effectively navigate highly matrixed environment and establish good working relationships with key business stakeholders
-critical thinking, problem-solving, curiosity - add value by conducting inquiring explorations to identify meaningful trends and associations that can drive clinical and business decisions
-intermediate to advanced in all microsoft office software, specifically, powerbi, powerpoint, excel, and visio
-working knowledge of r, python, spss and sql
-knowledge of data science, machine learning and predictive models
-snowflake, sagemaker canvas, sagemaker studio experience a plus
-education and experience
-master's degree in data science, statistics, mathematics, or related field
-5+ years of healthcare data analysis experience
-3+ years experience with data science, applied statistics, predictive modeling or machine learning projects
-experience in outcomes research, claims and medical cost analysis
-familiarity with medicaid, medicare and duals space
-knowledge of healthcare operations and data structures and the use of information system applications in the practicing healthcare environment
-knowledge of home care industry
-understanding of medical coding systems (icd-10, cpt, hcpcs, drg, etc.)
-the above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. they are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified. the physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions upon request.
-help at home is an equal employment opportunity (eeo) employer and welcomes all qualified applicants. applicants will receive fair and impartial consideration without regard to race, sex, color, religion, national origin, age, disability, veteran status, genetic data, or religion or other legally protected status.
-"
-3589495807,Data Scientist,"we are seeking a data scientist to provide support to a us special operations command (ussocom) customer to formulate and lead guided, multifaceted analytic studies against large volumes of data. as well as to integrate as part of a team that will provide advanced analytical knowledge of data on the data science team, with a focus on conducting big data analysis, data conditioning, programming advanced computing, developing algorithms, developing software and data models, executing predictive analytics and utilizing visualization tools. this team will provide support to the j2 and j8 directorates.
-responsibilities
-interpret and analyze data using exploratory mathematic and statistical techniques based on the scientific method
-coordinate research and analytic activities utilizing various data points (unstructured and
-structured) and employ programming to clean, massage, and organize the data
-experiment against data points, provide information based on experiment results and
-provide previously undiscovered solutions to command data challenges
-lead all data experiments tasked by the dst team oic
-coordinate with data engineers to build data environments providing data identified by
-data analysts, data integrators, knowledge managers, and intel analysts. work collaboratively with intelligence and data analysis teams to produce qualitative and quantitative data that support intelligence products
-requirements
-possess a minimum of a bachelor's or master's degree in a computer science/math discipline
-experience providing services similar in required tasks, scope, and complexity
-direct hands on experience as a data scientist is required
-experience with working for or in support of sof (special operations forces)
-experience with coding languages (r, python, c++) and understanding algorithms
-must have current ts/sci or ts clearance and eligible for sci access and accm read-on
-all qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status
-required skills
-required experience
-"
-3587952589,Machine Learning Engineer,"about the role
-at finesse, we pride ourselves in building the foundations of a consumer brain - one that understands consumer preferences and predicts trends. as our machine learning engineer, you will creatively brainstorm new data sources, pipelines and algorithmic strategies to improve our trend prediction and demand forecasting. you will work alongside brilliant members of a world class team to build fascinating technology and you will leverage the latest techniques in ai and machine learning across network analysis, natural language understanding, time series analysis, computer vision and recommendation systems to optimize our decisions on what to design, how much of it to produce, and which rising social media influencers to work with.
-about you
-you can’t wait to apply your data and machine learning expertise to figure out what’s trending in culture and fashion in realtime and to eliminate the inefficiencies in fashion design and distribution that contribute to fashion being the second largest polluter in the world. you love social data and the messy nature of it and embrace the challenges of big data, performance and scalability, thinking for the long-term and setting up systems that benchmark progress, prevent regressions, and are easily maintainable by other collaborators. above all, you’re excited to build something from the ground up that will touch the lives of millions of people worldwide.
-recommended background
-experience working with heavily alternative data sets
-experience across nlp, sentiment analysis, network/graph analysis, time series analysis, reinforcement learning, computer vision with a deep specialization in one area
-solid statistical foundation and inspired creative mathematical understanding of real world problems
-experience building production-level machine learning systems
-knowledge of technologies such as tensorflow, keras, hadoop, postgres, aws, docker
-what you’ll love at finesse
-being at the forefront of and working towards creating a culture-defining new product
-a close-knit, extremely passionate & world class team excited about changing the face of fashion
-a diverse team and culture that values inclusivity and individuality as highest priority
-company sponsored happy hours and outings
-paid maternity and paternity leave
-sponsored weekly team lunches
-our culture
-finesse has a dreamer & doer culture. we envision the next age of fashion & consumer and then get to work to implement it, always thinking creatively, innovatively and collaboratively to create real change. we are energetic, highly creative and hungry for change that is both revolutionizing as well as ethical.
-"
-3588471534,Data Scientist,"we have an exciting opportunity for a data scientist at ul standards & engagement, based in our northbrook, il office.
-underwriters laboratories
-as a data scientist, you will play a key role in the rapid growth of ul as you
-use advanced mathematical and statistical concepts and theories to collect and analyze data and construct solutions to complex business problems.
-perform advanced statistical analysis on experimental or business data to identify, validate and quantify trends or patterns based on guidance from business or research leaders.
-construct advanced predictive models, algorithms and probability engines to support data analysis or product functions.
-verify model and algorithm effectiveness based on real-world results.
-design experiments and methodologies to generate and collect data for business use.
-identify sources of credible safety data and maintain safety data catalog in order to provide key data sources to both internal and external stakeholders.
-cleanse, structure and transform data to test hypothesis, model complex systems and identify patterns.
-prepare and analyze program/model output to allow for efficient data analysis.
-implement algorithms and software to perform analyses.
-apply supervised, unsupervised and reinforcement learning techniques to natural language processing problems.
-apply bert and derivatives, xlnet, mpnet, gpt2 and nlp to long-form technical writing as well as short incident narratives with jargon and abbreviations.
-build data pipelines through scraping publicly available data. build and maintain databases in elastic, azure and mongo. leverage experience with various bi tools and programming technologies.
-while no one candidate will embody every quality, the successful candidate will bring many of the following professional competencies and personal attributes
-apply supervised, unsupervised and reinforcement learning techniques to natural language processing problems;
-application of bert and derivatives, xlnet, mpnet and gpt2, as well as nlp to long-form technical writing as well as short incident narratives with jargon and abbreviations;
-build data pipelines through scraping publicly available data and build and maintain databases in elastic, azure and mongo;
-powerbi, kibana, rstudio, and d3; and
-azure, python, reactjs, spark, and tensorflow.
-master’s degree in data science, statistics, mathematics, predictive analytics, or related and three (3) years of experience in data science
-ul has covid-19 protocols and policies in place to ensure the safety of our employees, customers and clients. effective november 1, 2021, the company mandates that employees are vaccinated against covid-19 as a condition of employment (except where prohibited by law), subject to reasonable accommodation as required by law.
-people ask any ul employee what they love most about working here, and you’ll almost always hear, “the people.” going beyond what is possible is the standard at ul. we’re able to deliver the best because we employ the best.
-interesting work every day is different for us here as we eagerly anticipate the next innovation that our customers’ create. we’re inspired to take on the challenge that will transform how people live, work and play. and as a global company, in many roles, you will get international experience working with colleagues around the world.
-grow & achieve we learn, work and grow together with targeted development, reward and recognition programs as well as our very own ul university that offers extensive training programs for employees at all stages, including a technical training track for applicable roles.
-about ul standards & engagement
- 
-ul standards & engagemet is a nonprofit organizations dedicated to advancing safety science research through the discovery and application of scientific knowledge. we conduct rigorous independent research and analyze safety data, convene experts worldwide to address risks, share knowledge through safety education and public outreach initiatives, and develop standards to guide safe commercialization of evolving technologies. we foster communities of safety, from grassroots initiatives for neighborhoods to summits of world leaders. our organization employs collaborative and scientific approaches with partners and stakeholders to drive innovation and progress toward improving safety, security, and sustainability, ultimately enhancing societal well-being.
-our wholly owned subsidiary, ul solutions, advances our shared public safety mission. we fund our work through grants, the licensing of standards documents and the business activities of ul solutions, which conducts testing, verification and certification, and provides training and advisory services, along with data-driven reporting and decision-making tools for customers around the world.
-to learn more, visit our websites  and .
-"
-3588353464,Remote Machine Learning Developer,"are you on the hunt for exciting new challenges that boost your professional growth? if you’re an innovator by nature and a machine learning developer by trade, we’d love to hear from you! read on to see if you’d be a good fit for the scopic team of 250+ professionals from over 40 countries.
-requirements:
-3+ years of commercial web development.
-professional experience with dl frameworks (. tensorflow, pytorch)
-dl experience is needed (ideally experience in a dl stream as the position entails working with vision, language, gnn, speech etc.)
-mathematical fundamentals and algorithms skills or experience
-excellent programming (python), debugging, and test design skills
-basic exposure to computer architecture, ideally accelerators and numerical software
-ability to work independently and manage individuals’ r&d efforts
-good communication and documentation habits
-project management tools knowledge
-excellent written and spoken english
-able to work remotely
-this is a full-time, home-based position.
-the secret ingredients that make us special:
-your growth is our growth. we invest in your future with paid training and other professional opportunities.
-we’re industry innovators at the forefront of change. equipped with the latest technologies and a team of knowledgeable colleagues by your side, you’ll embrace new and interesting challenges.
-your location. your schedule — pick your time zone, choose your preferred hours, and work from the place where you feel most at home.
-flexibility and freedom are in our dna! as long as you have a stable internet connection and the drive to thrive, you can travel and work from anywhere you like.
-a workload you can rely on. we’ll set you enough tasks to keep that mind busy! at scopic, we’ll ensure you always have a consistent flow of engaging, challenging work to do.
-recognition and reward. we acknowledge diligence and hard work through annual pay increases for good performance.
-down to business!
-your starting rate is negotiable depending on your skills and experience.
-this is an hourly paid position.
-contractors are paid monthly via wire transfer.
-our values:
-scopic is an equal-opportunity employer. we value diversity and do not discriminate on the basis of race, religion, color, marital status, national origin, gender, veteran status, sexual orientation, age, or disability status.
-have the skills, the drive, and the passion to join the scopic family?
-apply today to join our growing team of remote professionals from around the world.
-"
-3583071749,DATA SCIENTIST - Remote | WFH,"job title: data scientist
-department: analytics
-reports to: director of analytics
-summary
-the data scientist is a highly skilled and experienced professional who uses their knowledge of data science and analytics to solve business problems. the ideal candidate will have a strong understanding of statistics, machine learning, and data mining, as well as the ability to communicate their findings effectively to both technical and non-technical audiences.
-responsibilities
-develop and implement data-driven solutions to business problems
-collect, clean, and analyze data
-build and deploy machine learning models
-communicate findings to stakeholders
-stay up-to-date on the latest data science trends and technologies
+fine tune large language models that can generate high-quality text to solve domain specific needs.
+implement end-to-end machine learning pipelines, including data preprocessing, model training, evaluation, and deployment.
+continuously research and stay up-to-date with recent advancements in nlp and large language models, applying novel techniques and methodologies to improve our models.
+conduct experiments and benchmarking to assess the performance of various model architectures and optimize hyperparameters.
+troubleshoot and resolve any issues arising during model training and deployment.
 qualifications
-master's degree in data science, statistics, computer science, or a related field
-3+ years of experience in data science
-strong programming skills in r, python, or a similar language
-experience with machine learning and data mining
-excellent communication and presentation skills
-ability to work independently and as part of a team
-benefits
-competitive salary and benefits package
-opportunity to work on challenging and innovative projects
-collaborative and supportive work environment
-opportunities for growth and development
-if you are a highly motivated and experienced data scientist, we encourage you to apply for this exciting opportunity!
-employment type: full-time
-salary: $ 129,000.00 218,000.00 per year
+bachelors or masters in computer science, mathematics, or a related field with a focus on machine learning and nlp.
+hands-on experience working with large language models like gpt, llama, bert, or transformer-based architectures.
+proficiency in python and deep learning frameworks such as tensorflow or pytorch.
+strong knowledge of nlp techniques, including tokenization, language modeling, and embeddings.
+experience with distributed training and optimization techniques for large-scale machine learning models.
+solid understanding of cloud platforms (., gcp (preferred), aws) and their machine learning offerings.
+strong analytical and problem-solving skills, with the ability to think creatively and propose innovative solutions.
+excellent communication skills and the ability to collaborate effectively in a cross-functional team.
 "
-3589052083,Data Scientist,"this role is posted in anticipation of projected business needs. we are seeking talented data scientists at varying career levels.
+3584947732,Data Scientist,"pay rate range - $73/hr. to $76/hr. on w2
+hybrid role
 job description
-be part of the growing team that’s poised to transform the fight against cancer. backed by the strength of a fortune 8 company, our entrepreneurial organization develops technologies used by the oncology provider community to deliver evidence-based, personalized care, as well as insights used by biopharma companies to accelerate drug development and support the entire treatment journey. our work powers informed decision-making at every pivotal moment in oncology – from the treatment options presented to patients, to the operational considerations for oncology practices, to the design of clinical trials, to the assessment of real-world effectiveness of treatments, to the commercial launch plans for new therapies.
-we are looking for a self-motivated, capable, enthusiastic, and dependable person to join our growing data science & analytics team in this collaborative and results-oriented position that is focused on helping to execute our market insights and advisory solutions strategies.
-position summary
-the team draws upon deep expertise in data science, data analytics, and real-world clinical data to deliver innovative data-driven strategies and insights for clients in the life sciences industry across all phases of product development and commercialization. our work helps clients define markets, demonstrate value and effectiveness, and inform business decisions throughout product lifecycles.
-the data scientist will have the opportunity to work on complex business problems leveraging our in-house data sources within a collaborative environment. this role will be responsible to support healthcare data initiatives by providing accurate and timely data preparation, analysis and insights, quality assurance and ongoing system and process maintenance. this person will be responsible for obtaining and validating raw data, performing analysis, producing mock-up and production reports and visualizations from available sources. the person will have an in-depth knowledge of software, documentation, utilities & program scripts as well as excellent written & verbal communication skills.
-key responsibilities:
-with minimal supervision, synthesizes business rules and methodological approach to answer questions posed by internal or external clients
-analyzes raw healthcare data from multiple sources, such as, electronic health records and claims data, using algorithms and statistical programming
-formats output of data analysis for customer readiness
-ensures data sets and reports are built to specifications
-facilitates and participates in peer review meetings for each of the deliverables
-works on multiple projects simultaneously in a fast-paced, dynamic environment
-leverage data visualization and interactive dashboards to effectively communicate insights and help clients make better decisions from our clinical data products
-interacts with clients to clarify needs and in reviewing results
-proactively communicates, collaborates, and builds relationships with external and internal clients
-translating the findings from reports for clients into implications or recommendations for business decisions
-ability to formulate and implement effective data strategies, and identify areas for significant efficiency gain through automation
-provides quality assurance on all assigned reporting and data extracts
-audits database contents for accuracy and validity
-obtains proper approvals on each of the deliverables
-minimum requirements
-degree or equivalent and typically requires 3+ years of relevant experience. less years required if has relevant master’s or doctorate qualifications.
-educational background
-bachelors/master’s degree in healthcare, public health, statistics, research methods, or related fields preferred. master’s degree a plus.
-critical skills
-3+ years of experience in programming on enterprise or department servers or systems
-3+ years of programing in sas, python, sql
-minimum two (2) years of work experience in clinical data analysis and/or supporting healthcare information systems
-experience or a strong interest in statistical programming, data analysis, visualization and applying quantitative methods to real-world business problems in the life sciences industry
-experience in mining claims and emr data, preferably oncology related data
-passion for using data, analytics and visualization to solve business challenges our clients face
-in-depth knowledge of software, documentation, utilities & program scripts, & excellent written & verbal communication skills
-demonstrated analytical, quantitative, and organizational skills
-self-starter, able to work with limited supervision
-healthcare consulting experience
-demonstrates curiosity and a creative approach to problem solving
-strong interpersonal, oral and written communication skills
-an excellent academic record
-effectively work independently and within a team
-excellent attention to detail
-a desire to continuously learn and develop professionally
-proficient in microsoft word, excel, and powerpoint
-our pay range for this position:
-$103,100 - $205,500
-as part of total rewards, we are proud to offer a competitive compensation package at mckesson. this is determined by several factors, including performance, experience and skills, equity, regular job market evaluations, and geographical markets. in addition to base pay, other compensation, such as an annual bonus or long-term incentive opportunities may be offered.
-our base pay range for this position
-mckesson is an equal opportunity/affirmative action employer.
-all qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected veteran  applicants will not be disqualified from consideration for employment based upon criminal history.
-mckesson is committed to being an equal employment opportunity employer and offers opportunities to all job seekers including job seekers with disabilities. if you need a reasonable accommodation to assist with your job search or application for employment, please contact us by sending an email to disability_ or cvs submitted to this email box will not be accepted.
-current employees must apply through the internal career site.
-join us at mckesson!
+seeking an experienced data scientist to join the product, data, and technology team.
+you will play a key role in analyzing critical business operations and developing state-of-the-art techniques to optimize and quantify the impact of complex business processes and decisions.
+key subject areas include advertising inventory forecasting and yield optimization, causal impact, and opportunity cost analysis.
+this role is ideal for someone that combines strong data analysis experience with the implementation of data science models that create business impact as well as superb stakeholder communication.
+there is a level of complexity with some of the problems the team is working on that need a data scientist and statistical analysis expertise to solve.
+âââââââproblems include advertising inventory forecasting, metric problems and questions around incremental values and specific actions and opportunity costs of shifting marketing impressions from one platform to another.
+must have
+statistical analysis
+forecast model building
+experience working with large dataâââââââ
 "
-3589549207,Junior Machine Learning Implementation Engineer,"
-our expertise: it consultative services and quality engineer development through recruiting, hiring, and coaching our consultants (that's you! )
-longevity: 25+ years' of combined domestic and international experience
-depth: hundreds of fortune 1000, 500, and innovative start-up end clients with 1000s of successfully completed and on-going projects across the us, eu, and uk
-global: employee work force is diverse, spanning across 4 continents of north america, europe, south america, and asia
-growth and innovation: active monitoring and measurement of the market across all technological sectors to adapt to and implement what's ""next"" how we will help you
-teach and develop: we will instruct and train you in data science to become a best-in-class consultant through our proven method and program, capable of delivering end-client deliverables, in our paid, 6-8-week training course
-custom support: several teams ready to collaborate with you in a custom-tailored way: development managers, tech subject manager experts, project deliverable support, teachers, interview coaches, client placement specialists, immigration specialists (for our foreign national candidates)
-project placement: personalized market-expertise team to enable your ability to secure and maintain a project with our myriad end clients
-career growth: we will help you gain the necessary industry experience to drive and propel your technical profession forward what you bring to the role
-master's degree from an accredited college/university in computer science, statistics, mathematics, engineering, econometrics, or related fields, phd is preferred. alternatively, bachelor's degree with at least 2 years' experience as a data analyst, data scientist, or research assistant
-6+ years of experience working in a corporate environment within it
-strong proficiency in python or java programming language, or expertise with functional/object- oriented programming.
-ability to translate objectives to a project plan with milestones, and resource/technology requirements, and teach, lead, and manage projects/people/clients to successful execution
-ability to work across multiple engagements with clients to assess needs, provide assistance, and resolve problems, using structured problem solving and communication to bot
+3587258172,STAGE DATA SCIENTIST,"mbs consulting è una società italiana di management consulting che opera per grandi clienti nazionali ed internazionali supportandoli in progetti strategici di cambiamento, innovazione e miglioramento delle performance.
+dal 2019 siamo parte del gruppo cerved, la più grande data information company italiana, che ci proietta verso nuovi ambiziosi scenari di crescita e verso un’evoluzione della nostra consulenza in una logica di solution consulting.
+innovation team, business unit di research e advanced analytics di mbs consulting, parte del gruppo cerved, operante nel settore finanziario e assicurativo sta selezionando uno
+stage data scientist
+la risorsa si occuperà di
+collaborare con il team alla realizzazione di progetti strategici complessi
+contribuire proattivamente nelle attività di advanced analytics
+costruire modelli predittivi con diverse applicazioni, utilizzando dati proprietari complessi
+mettere a punto sistemi di controllo dati
+supportare il management nella gestione delle relazioni
+sviluppare strumenti di data visualization
+requisiti
+laurea in matematica, economia, scienze statistiche o attuariali.
+buona conoscenza dei principali applicativi office (excel, word, powerpoint).
+gradita conoscenza di software statistici sas, python, r, spss, sql, mysql.
+familiarità con i principali algoritmi di machine learning
+spiccate doti analitiche, capacità quantitative di problem solving e passione per l’interpretazione dei dati
+buona conoscenza della lingua inglese
+caratteristiche personali
+capacità organizzative e flessibilità a seguire più progetti contemporaneamente
+spirito di iniziativa e curiosità
+doti comunicative e di team working
+orientamento al risultato e al cliente
+offriamo uno stage retribuito di 3-6 mesi in funzione del profilo del candidato con ottime possibilità di inserimento
+sede milano (zona duomo)
 "
-3586923506,Data Scientist,"this is a hybrid role based in our newark, nj office
-one demand data & analytics (odda) is a mars wrigley program that harnesses the power of data and insights to solve some of the critical business-wide problems we face – unlocking quality growth and operational excellence.
-through odda, we deliver connected insights across the entire demand ecosystem. we empower our associates with the right data, tools and capabilities so they can take decisive action, maximizing value and making a meaningful impact on our consumers, our customers and our business.
-what are we looking for?
-bachelor’s degree in analytics or related quantitative fields (statistics, operations research, mathematics, econometrics etc.). advanced degree will be preferred
-4 to 6 years' experience in applied data science role or equivalent; ideally in cpg/retail
-knowledge and experience in modelling techniques and advanced applied skills (. significance testing, glm/regression, random forest, boosting, trees, text mining, social network analysis, etc.) using tools like spark, scala, sas, r, python, bayesia, h2o, storm, yarn, and kafka
-experience querying databases (sql, hive)
-experience working with big data platforms such as hadoop ecosystem (azure), including in-memory solutions (sap hana and apache spark)
-working knowledge of data visualization tools such as tableau, power bi, d3, ggplot, to deliver output to the broader business community to improve decision making and productivity
-strong communication and presentation skills
-what will be your key responsibilities?
-applies strong expertise in ai through use of machine learning, data mining, and statistical models to design, prototype and build next generation aa engines and services
-collaborate with business partners to develop novel ways to meet objectives utilizing cutting edge techniques and tools
-effectively communicate the analytics approach and how it will meet and address objectives to business partners
-advocate and educate on the value of data driven decision making focusing on the “how and why” of solving problems
-lead analytic approaches, integrating work into applications and tools with data engineers, business leads, analysts and developers
-create repeatable, interpretable, dynamic and scalable models that are seamlessly incorporated into analytic data products
-engineer features by using your business acumen to find new ways to combine disparate internal and external data sources
-share your passion for data science with broader enterprise community; identify and develop long-term processes, frameworks, tools, methods and standards
-collaborate, coach, and learn with a growing team of data scientists
-stay connected with external sources of ideas through conferences and community engagements
-what can you expect from mars?
-work with over 130,000 like-minded and talented associates, all guided by the five principles.
-join a purpose driven company, where we’re striving to build the world we want tomorrow, today.
-best-in-class learning and development support from day one, including access to our in-house mars university.
-an industry competitive salary and benefits package, including company bonus.
+3589727353,data scientist -Remote,"try to find a local resource first...can be remote for non-locals
+duratoion: 6+ month
+visa; any except h1b and cpt
+must have a valid linkedin profile
+must be strong r or python programming for data wrangling, stats, and machine learning applications.
+must have a masters +3 years xp or a phd in stats, data science, etc. see below for full list of fields.
+the winning candidate will have some sort of familiarity with modeling biological, cellular, or ecological data; molecular biology or biochemistry concepts; or data science in agriculture – consider this a must
+business context: this team is focused in crop protection research and development – scientist are look at 1200 different cell features, then apply a chemical to the cell and identify the changes in the cell compared to the mode of action of the chemical. the data scientist partner with biologist in building data science models to better predict outcomes of an experiment.
+project scope and brief description
+develops and applies innovative methods and tools to deliver insights for corteva r&d. the candidate will partner with leading toxicologists, environmental scientists, and discovery scientists to support our growing data science effects in predictive safety.
+responsibilities
+partner with scientists to develop, prototype, and deliver rigorous statistical and/or machine learning solutions aligned to project needs
+pre-process high-complexity datasets such as high-throughput bioassays
+communicate and train research partners on data science models and products to facilitate data-driven decisions
+partner with engineering and production teams to deploy data products at scale
+communicate insights derived from complex data analysis into simple conclusions that empower leadership to drive action; communicate results in internal and external forums; and contribute to scientific articles as needed
+steward data product life cycle and partner with other data scientists to continuously improve underlying models
+skills / experience
+educational qualifications
+. + 5 years' experience or . degree in statistics, applied statistics, biostatistics, computer science, data science, engineering, physics, or related highly quantitative fields. additional years of experience preferred but not required.
+required qualifications
+strong expertise in r or python programming for data wrangling, statistical analysis, and machine learning applications
+solid fundamental knowledge in probability and statistics
+extensive experience analyzing designed experiments and observational datasets (., hypothesis testing, regression analysis, mixed effects models, and experimental design)
+solid understanding of variable selection; dimensionality reduction; model diagnostics; and model training, testing, and validation
+fundamental understanding of machine learning techniques for classification (., logistic regression, random forest, xgboost, svms, k-means, and neural networks)
+ability to work both independently and within a multidisciplinary team environment
+ability to successfully collaborate with colleagues from diverse technical backgrounds which includes excellent communication, interpersonal, verbal, and written skills
+strong critical thinking and problem-solving skills, flexibility, and willingness to learn
+preferred qualifications
+familiarity with modeling biological, cellular, or ecological data; molecular biology or biochemistry concepts; or data science in agriculture
+experience consulting on scientific projects or working within a scientific team
+expertise in experimental design or data engineering
 "
-3584626683,DATA SCIENTIST,"duties
-dia employs a variety of professionals who serve throughout the workforce to ensure successful operations. to view this position's duties, click vacancies to be directed to dia's online application system. please make note of the position title and 6-digit job opening id number to which you are interested. you can scroll to the bottom of the page to locate the announcement or click on the ""advanced search"" link and enter in the 6-digit job opening id number in the ""job opening id"" field.
-requirements
-conditions of employment
-- . citizenship - drug test - security investigation
-all applicants must be . citizens and are subject to a thorough background inquiry.
+3589729088,Scientific - Data Scientist,"on-board scientific is hiring a data scientist
+in seattle, wa!
+for immediate consideration please send your resume to
+subject line: position title and state you are located
+about us
+on-board services, incorporated is an on-site contract service provider for a local manufacturing entity providing full time positions to our employees. we offer benefits as well as 401k.
+position details
+position type: full-time/12- month contract
+job location: seattle, wa
+compensation: $83.26-$85.71hr
+job description
+at client, we are inspired by a single vision – transforming patients’ lives through science. in oncology, hematology, immunology and cardiovascular disease, each of our passionate colleagues contribute to innovations that drive meaningful change. we bring a human touch to every treatment we pioneer.
+we are seeking to add a consultant data scientist to our team to enable our translational data to realize its full potential in service to our patients. join us and make a difference.
+about the team
+we are a team of data scientists invested in the principle that excellence in research starts with excellence in data and computational practices. combining computational expertise, engineering experience, and data communication skills, we seek to develop data workflows and applications that empower our industry-leading research and early development (r&ed) programs. to this end, we partner with data managers, translational scientists, bioinformaticians and clinicians to link scientific questions to solutions that remove computational, logistical, and technological barriers to data utilization in research.
+key responsibilities
+in partnership with computational researchers, identify and implement technologies to optimize and automate data science workflows from data development to analyses and reporting
+in partnership with translational researchers, accelerate time to insight by developing production-grade applications that enable efficient navigation through large volumes of continuously flowing data
+define and implement data processing algorithms to automate data monitoring
+collaborate with data managers and engineers to specify data models and data api endpoints to enable development of applications that facilitate non-programmatic interaction with our translational data
+qualification and experience
+bs degree with 5+ years of experience, a . degree with 3+ years of experience or a phd in computational biology, genome science, bioinformatics, or similar fields with 1+ years of experience
+driven to deliver solutions that impact patients’ lives
+experienced in interdisciplinary collaborations at the interface of data science and life sciences
+capable of aligning day-to-day tasks with team’s broader priorities and goals
+ability to communicate clearly with both technical and non-technical collaborators
+proficient in good coding practices
+strong command of data science stack of tools: r/python, notebooks and git
+experience with r shiny, dash, plotly, streamlit, or other reactive visualization framework
+experience working with omics data
+preferred qualifications
+experienced in r package development
+experience with apis, or ability to quickly learn how to use them (. r httr or python requests)
+experienced in data visualization and analytics
+experienced in setting up data workflows that interface with diverse ecosystem of data platforms and apis
+computing proficiency: base knowledge of linux os and interaction with cloud-resources particularly aws
+experience with practicing agile
+experience with clinical data practices and standards
+experience with workflow automation, ci/cd framework
+experience with sql
+apply today!
+on-board was founded in 1976 by robert l. wilson to provide engineering and design services to the chemical manufacturing industry. today, on-board is a thriving privately held family of companies with services including: consulting, professional engineering, industrial maintenance and facility management, contracted manufacturing and production services, as well as temporary staffing and recruiting throughout north america.
+the on-board family of companies conducts operations through its corporate headquarters located in east windsor, nj along with regional offices in new castle, de and wake forest, nc. on-board’s mission is to provide “flexible service by applying the talents of our people, work processes and technology to meet our clients’ expectations in a safe, responsible and dependable manner.”
+on-board companies provides equal employment opportunities (eeo) to all employees and applicants for employment without regard to race, religion, sex, national origin, age, disability or genetics.
+(phone number removed)
+indoj
+"
+3586664237,Data Scientist (REMOTE),"taking care of people is at the heart of everything we do, and we start by taking care of you, our valued colleague. a career at sedgwick means experiencing our culture of caring. it means having flexibility and time for all the things that are important to you. it’s an opportunity to do something meaningful, each and every day. it’s having support for your mental, physical, financial and professional needs. it means sharpening your skills and growing your career. and it means working in an environment that celebrates diversity and is fair and inclusive.
+a career at sedgwick is where passion meets purpose to make a positive impact on the world through the people and organizations we serve. if you are someone who is driven to make a difference, who enjoys a challenge and above all, if you’re someone who cares, there’s a place for you here. join us and contribute to sedgwick being a great place to work.
+great place to work®
+most loved workplace®
+forbes best-in-state employer
+data scientist (remote)
+primary purpose of this role: to develop and manage predictive modeling assignments through completion; to communicate results; to make recommendations to management; and to ensure model ownership, implementation, and monitoring; to spot trends and to gain maximum insight that can give the company a competitive advantage.
+essential responsibilities may include
+execute data science projects as identified by sr data scientists, leadership, and stakeholders
+help to build, prototype, and deploy machine learning models in sandbox and production environments
+produce reports to communicate metrics and outcomes of stakeholder interest
+assist with developing and maintaining end-to-end etl data pipelines
+work to explore new internal data sources and their utility within projects
+communicate modeling challenges, findings, and outcomes to stakeholders
 qualifications
-assessment factors
-applies decision making techniques in complex situations to include anticipating and recognizing best practices and choosing options to maximize benefits to the office, directorate, or agency
-takes a lead role to build collaborative working relationships across an organization by encouraging colleagues to engage team members and others on specific or general issues
-evaluates potential solutions to complex and high-risk situations by assessing their relevance and impact to the organization
-partners with directorate/office managers to build and to develop sound plans for tasks and projects while recognizing interdependencies
-anticipates problems and obstacles associated with moderately complex projects and proactively develop creative solutions to address them prior to implementation
-highly desired skills
-experience with extraction, transformation, and loading (etl) processes for data.
-experience with data analytic programming languages and tools, including but not limited to, python, r, sql, splunk, git/git hub, etc.
-basic requirements
-degree: mathematics, statistics, computer science, data science or field directly related to the position. the degree must be in a major field of study (at least at the baccalaureate level) that is appropriate for the position.
-or
-combination of education and experience: courses equivalent to a major field of study (30 semester hours) as shown in paragraph a above, plus additional education or appropriate experience.
-***all applicants must attach their transcripts (. official copies of their bachelors, masters, phd showing degree earned and conferred date) to be considered for this position.***
-additional information
-dia positions are defense civilian intelligence personnel system (dcips) positions in the excepted service under 10 . 1601. all applicants must be . citizens at the time of application. applicants must meet the agency's conditions of employment, to include, but not limited to, satisfactory completion of an initial special background investigation and periodic reinvestigation, completion of any required medical examination and physical requirements, completion of any required personal interviews, favorable completion of any required initial or aperiodic polygraph examinations, completion of any required drug test, satisfactory completion of a two-year defense civilian intelligence personnel system trial period, and completion of a civilian mobility agreement. all employees are required to sign an agreement not to disclose, in any fashion, classified information to unauthorized persons. all civilian employees are required to participate in the dod direct deposit/electronic fund transfer of pay (dd/eft) program. dia employees and applicants for employment are protected by federal laws, from discrimination on the bases of race, religion, color, sex (including pregnancy, gender identity, and sexual orientation), parental status, national origin, age, disability, family medical history or genetic information, political affiliation, military service, or other non-merit based factors. veterans who are preference-eligible or who have been separated from the armed forces under honorable conditions are encouraged to apply.
+insurance claims knowledge required
+minimum one year of predictive modeling, data science, and analysis experience with solid background in the using data visualization tools and libraries and data exploration, data wrangling, and feature engineering
+experience writing python or r code, and notebook environments
+knowledge of writing code in python or r, and notebook environments
+knowledge of common unsupervised/supervised ml techniques
+taking care of you
+career development and promotional growth opportunities
+#datascience
+#datascientist
+sedgwick is an equal opportunity employer and a drug-free workplace.
+if you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, consider applying for it anyway! sedgwick is building a diverse, equitable, and inclusive workplace and recognizes that each person possesses a unique combination of skills, knowledge, and experience. you may be just the right candidate for this or other roles.
 "
-3588641068,Data Scientist,"requisition id: 72541
-nextera energy resources is the world's largest generator of renewable energy from the wind and sun, and a world leader in battery storage. we provide energy-related products and services that grow our economy, protect the environment, support our communities and help customers meet their energy needs. we are leading the decarbonization of the . economy with our goal to reach real zero carbon emissions from our operations by 2045 while improving customer affordability and reliability. are you interested in creating a cleaner environment for future generations? join our world-class, innovative team today.
+3590356350,Data Scientist,"requisition id: 67600
+nextera analytics provides renewable energy consulting services using industry-leading scientific analysis. as a nextera energy resources company, the world's largest generator of renewable energy from the wind and sun, we thrive on solving the toughest problems facing the energy industry, and creating innovative forecasting and optimization solutions that lead the way into the next era of energy. do you want to help accelerate the transition to low-cost sustainable energy? join our world-class team today!
 position specific description
-we are seeking a very capable individuals their strong passion and aptitude for the leading edge of data science with a desire to expand the promise of innovation. the successful candidate will bring to bear considerable academic credentials and a deep portfolio of experiences. the sr. data scientist is expected to serve as a thought leader and play a key role in envisioning, developing, and deploying the data science and machine learning solutions. a successful candidate will be comfortable in a fluid, entrepreneurial, and very high-paced environment, but one that is focused on developing machine learning models and delivering business impact. we look for problem solvers with a history of demonstrated excellence. our team is focused on building successful careers. as such, the successful candidate will have an opportunity to participate in a myriad of projects and career-shaping experiences working alongside some of the most innovative minds in energy.
-job overview
-this position is responsible for eda, developing algorithms, machine model development, machine model deployment, execute on models and optimization methods that support many aspects of nextera energy resource business. employees in this role use knowledge of machine learning, optimization, statistics, and applied mathematics along with abilities in software engineering with a focus on distributed computing and data storage infrastructure. in this role, candidate will collaborate with stakeholders, subject matter experts, and company leadership to get the most use and positive impact of the model on neer business.
-job duties & responsibilities
-understand/develop algorithms best suited to a particular scenario
-perform exploratory data analysis, extracting key features and insights from large datasets.
-knowledge and work experience in developing predictive and prescriptive models, algorithms, and other advanced statistical methods to improve business processes as required.
-experience with techniques to measure statistical significance and visualization of data.
-experience with techniques to evaluate model performance.
-experience with pulling and analyzing big data using a variety of tools
-develops machine learning, optimization, and other modeling solutions
-prepares comprehensive documented observations, analyses and interpretations of results including technical reports, summaries, protocols, and quantitative analyses
-works with big data and distributed computing platforms
-develops software and contributes to product development and deployment.
-knowledge and work experience in deploying models in aws cloud environment.
-performs other job-related duties as assigned.
+nextera analytics is currently seeking a well-qualified candidate to join our applied math group as a data scientist in st. paul, minnesota.
+as a member of the applied math group you will be asked:
+to solve the problems by applying techniques from mathematics, statistics, computer science, and related disciplines
+to develop new products and services in collaboration with nextera’s engineering, science and business teams
+to apply mathematical formulations, scientific rigor and an independent viewpoint to business analyses
+to respond quickly and effectively to new (and recycled) business problems as they arise.
+the applied math team is looking for data scientists who want to understand the mathematical properties of the algorithms they use ; to write and share the best possible code ; to keep learning new tools, algorithms and approaches ; and to put their skills to work for one of the largest renewable energy fleets in the world.
 job overview
 this position is responsible for developing algorithms, modeling techniques, and optimization methods that support many aspects of nextera and fpl business. employees in this role use knowledge of machine learning, optimization, statistics, and applied mathematics along with abilities in software engineering with a focus on distributed computing and data storage infrastructure (. “big data”).
 job duties & responsibilities
@@ -330,424 +513,254 @@ doctoral degree
 employee group: exempt
 employee type: full time
 job category: science, research, and technology
-organization: nextera energy resources, llc
+organization: nextera analytics inc
 relocation provided: yes, if applicable
 where permitted by applicable law, nextera energy requires all employees and new hires to be fully vaccinated for covid-19 or be willing to receive the covid-19 vaccination on or before the first day of employment.
 nextera energy is an equal opportunity employer. qualified applicants are considered for employment without regard to race, color, age, national origin, religion, marital status, sex, sexual orientation, gender identity, gender expression, genetics, disability, protected veteran status or any other basis prohibited by law. we are committed to a diverse and inclusive workplace.
-nextera energy and provides reasonable accommodation in its application and selection process for qualified individuals, including accommodations related to compliance with conditional job offer requirements, consistent with federal, state, and local laws. supporting medical or religious documentation will be required where applicable and permitted by applicable law. to request a reasonable accommodation, please send an e-mail to  , providing your name, telephone number and the best time for us to reach you. alternatively, you may call 1-844-694-4748. please do not use this line to inquire about your application status.
+nextera energy provides reasonable accommodation in its application and selection process for qualified individuals, including accommodations related to compliance with conditional job offer requirements, consistent with federal, state, and local laws. supporting medical or religious documentation will be required where applicable and permitted by applicable law. to request a reasonable accommodation, please send an e-mail to  , providing your name, telephone number and the best time for us to reach you. alternatively, you may call 1-844-694-4748. please do not use this line to inquire about your application status.
 nextera energy will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. however, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information.
 "
-3584735714,"Decision Scientist, Fraud Analytics","ibotta is seeking a decision scientist to join our fraud analytics team and contribute to our mission to make every purchase rewarding. our fraud analytics team is responsible for providing insight, strategy, and direction, ensuring we balance an amazing ibotta customer experience with minimal fraud impact and loss.
-this position is located in denver, colorado or with the option of full-time remote. candidates must live in the united states.
-what you will be doing:
-design and maintain software, dashboards and rules to identify, track, mitigate, and monitor fraud trends
-continually review fraud rules to improve efficacy
-analyze large and novel datasets to extract actionable insights to inform business decisions and understand consumer behavior
-communicate risks and requirements to cross functional teams
-provide customized views of large and complex datasets to support data analysis and business decision-making
-work closely with our fraud operations team on identifying emerging trends and patterns
-contribute to creating best practices for the team and our broader organization
-embrace and uphold ibotta’s core values: integrity, boldness, ownership, teamwork, transparency, & a good idea can come from anywhere
-what we are looking for:
-3+ years of experience in an analytical function (experience in fraud or risk is a plus)
-bachelor’s degree in analytics/mathematics/statistics/data science/computer science/economics
-ability to fetch and transform large-scale datasets using a language like sql or python for analyses
-basic inferential statistics knowledge (for example: estimating a population mean from its sample, power analysis, basic knowledge of statistical tests to compare groups)
-exceptional written and verbal communication skills, able to convey complex concepts to technical and non-technical stakeholders at all levels across multiple business units.
-excellent interpersonal skills with the proven ability to collaborate across functional areas
-self-motivated individual with strong sense of leadership, ownership, and drive
-curiosity and the commitment to continually ask questions of our data and business
-ability to translate ambiguous business questions into structured data problems
-excels in a fast-paced environment with the capability to prioritize effectively
-ability to build concise and compelling data visualizations with modern data visualization tools (looker, mode, tableau, imply, etc.)
-about us:
-built in denver, co, ibotta, inc. (""i bought a..."") is a free mobile shopping app that gives users cash back on groceries and more. through our partnerships with brands and retailers like procter & gamble, kraft heinz, kellogg, amazon, walmart, target and uber, we’ve delivered over $1.25b in cumulative cash rewards to our savers. guided by our values and our mission to make every purchase rewarding, we come to work energized by the business problems we get to solve, the technology we get to build, and the people we get to innovate (and have fun) with. ibotta made inc.’s 2020 list of the 5000 fastest-growing private companies in the . for the third consecutive year. in 2019, we became the first mobile consumer technology company in colorado to achieve $1b in valuation.
-additional details:
-base compensation range: $80,000 - $110,000. this compensation range is specific to the united states labor market and may be adjusted based on actual experience.
-ibotta is an equal opportunity employer. ibotta’s employment decisions are made without regard with race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation, or any other legally protected status.
-applicants must be currently authorized to work in the united states on a full-time basis.
-for the security of our employees and the business, all employees are responsible for the secure handling of data in accordance with our security policies, identifying and reporting phishing attempts, as well as reporting security incidents to the proper channels.
-#bi-remote
-#bi-hybrid
-"
-3584647933,Machine Learning Data Engineer,"pfizer worldwide research, development, and medical (wrdm) is expanding its work in applying machine learning (ml) and artificial intelligence (ai) technologies to biomedical research. this will enable pfizer to enhance our drug discovery efforts, sustain our industry leading r&d productivity, and deliver breakthrough medicines to the patients most in need.
-the centerpiece of this initiative is the establishment of a ""ml research hub,"" a new group charged with mastering state-of-the-art machine learning techniques to create novel predictive models and tools used across wrdm. data engineering will be key to the success of this new group given the enormous scope of the chemical, biological, omics, and clinical data available at pfizer.
-the wrdm research hub is seeking experienced data engineers with a background in machine learning, software engineering, technical problem-solving skills, and experience in creating scalable data pipelines and infrastructure for training, validating, and deploying into production ml solutions for broad usage.
-the successful candidate will work with ml research scientists across wrdm to enable our proprietary data and external datasets to be leveraged for ml modeling.
-this will be accomplished by designing and implementing end-to-end data workflows for large-scale data ingestion, processing, tagging, and publishing, with an eye towards improving ml model performance over time. on projects the candidate will be asked to server as the technical lead coordinating internal and external resources, technology stack, algorithmic approach and be responsible for the overall delivery of the project.
-role responsibilities
-the successful candidate will work with ml research scientists to enable our proprietary data and external datasets to be leveraged for ml modeling. this will be accomplished by implementing end-to-end data workflows for large-scale data ingestion, processing, tagging, and publishing, with an eye towards improving ml model performance over time.
+3586661342,Data Scientist (REMOTE),"taking care of people is at the heart of everything we do, and we start by taking care of you, our valued colleague. a career at sedgwick means experiencing our culture of caring. it means having flexibility and time for all the things that are important to you. it’s an opportunity to do something meaningful, each and every day. it’s having support for your mental, physical, financial and professional needs. it means sharpening your skills and growing your career. and it means working in an environment that celebrates diversity and is fair and inclusive.
+a career at sedgwick is where passion meets purpose to make a positive impact on the world through the people and organizations we serve. if you are someone who is driven to make a difference, who enjoys a challenge and above all, if you’re someone who cares, there’s a place for you here. join us and contribute to sedgwick being a great place to work.
+great place to work®
+most loved workplace®
+forbes best-in-state employer
+data scientist (remote)
+primary purpose of this role: to develop and manage predictive modeling assignments through completion; to communicate results; to make recommendations to management; and to ensure model ownership, implementation, and monitoring; to spot trends and to gain maximum insight that can give the company a competitive advantage.
+essential responsibilities may include
+execute data science projects as identified by sr data scientists, leadership, and stakeholders
+help to build, prototype, and deploy machine learning models in sandbox and production environments
+produce reports to communicate metrics and outcomes of stakeholder interest
+assist with developing and maintaining end-to-end etl data pipelines
+work to explore new internal data sources and their utility within projects
+communicate modeling challenges, findings, and outcomes to stakeholders
 qualifications
-bachelor’s degree in computer science, statistics, applied mathematics, chemistry, physics, a life science discipline, or related technical discipline.
-4+ years' experience programming experience in python, java, scala, c++, or sql.
-4+ years' experience in software design, development, and algorithm-related solutions for production-grade systems using machine learning.
-4+ years' experience in managing code composed of multi-developer teams, following industry best practices.
-preferred qualifications
-ms/phd + 2 years of relevant research experience
-experience with high performance computing (hpc) environments (slurm/lsf/sge schedulers)
-experience with cloud computing infrastructure including amazon web services (aws) and distributed computing libraries (., spark, hive, impala, kafka, etc.)
-experience with containerization and orchestration tools (., docker, singularity, airflow, luigi, kubernetes, etc.)
-experience with workflow languages (cwl, wdl, next flow, etc.)
-experience with ci/cd and automation tools (terraform, cloudformation, jenkins, ansible, etc.)
-passion and curiosity for data and proven ability to take ideas from prototype to production.
-technologies we use:
-python, java, c++, slurm-based on-premises compute clusters, google cloud platform, aws, docker, singularity, kubernetes, python (numpy, pandas, dask, pytorch, tensorflow, sci-kit learn, rdkit, weights and biases, etc.)
-relocation assistance may be available based on business needs and/or eligibility.
-sunshine act
-pfizer reports payments and other transfers of value to health care providers as required by federal and state transparency laws and implementing regulations. these laws and regulations require pfizer to provide government agencies with information such as a health care provider’s name, address and the type of payments or other value received, generally for public disclosure. subject to further legal review and statutory or regulatory clarification, which pfizer intends to pursue, reimbursement of recruiting expenses for licensed physicians may constitute a reportable transfer of value under the federal transparency law commonly known as the sunshine act. therefore, if you are a licensed physician who incurs recruiting expenses as a result of interviewing with pfizer that we pay or reimburse, your name, address and the amount of payments made currently will be reported to the government. if you have questions regarding this matter, please do not hesitate to contact your talent acquisition representative.
-pfizer is committed to equal opportunity in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, disability or veteran status. pfizer also complies with all applicable national, state and local laws governing nondiscrimination in employment as well as work authorization and employment eligibility verification requirements of the immigration and nationality act and irca. pfizer is an e-verify employer.
-information & business tech
+insurance claims knowledge required
+minimum one year of predictive modeling, data science, and analysis experience with solid background in the using data visualization tools and libraries and data exploration, data wrangling, and feature engineering
+experience writing python or r code, and notebook environments
+knowledge of writing code in python or r, and notebook environments
+knowledge of common unsupervised/supervised ml techniques
+taking care of you
+career development and promotional growth opportunities
+#datascience
+#datascientist
+sedgwick is an equal opportunity employer and a drug-free workplace.
+if you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, consider applying for it anyway! sedgwick is building a diverse, equitable, and inclusive workplace and recognizes that each person possesses a unique combination of skills, knowledge, and experience. you may be just the right candidate for this or other roles.
 "
-3585580228,"Supply Chain, Data Scientist","job description
-are you ready to make it happen at mondelēz international?
-join our mission to lead the future of snacking. make it with pride.
-you will be crucial in supporting our business by creating valuable, actionable insights about the data, and communicating your findings to the business. you will work with various stakeholders to determine how to use business data for business solutions/insights.
-how you will contribute
-you will:
-analyze and derive value from data through the application methods such as mathematics, statistics, computer science, machine learning and data visualization. in this role you will also formulate hypotheses and test them using math, statistics, visualization and predictive modeling
-understand business challenges, create valuable actionable insights about the data, and communicate your findings to the business. after that you will work with stakeholders to determine how to use business data for business solutions/insights
-enable data-driven decision making by creating custom models or prototypes from trends or patterns discerned and by underscoring implications. coordinate with other technical/functional teams to implement models and monitor results
-apply mathematical, statistical, predictive modelling or machine-learning techniques and with sensitivity to the limitations of the techniques. select, acquire and integrate data for analysis. develop data hypotheses and methods, train and evaluate analytics models, share insights and findings and continues to iterate with additional data
-develop processes, techniques, and tools to analyze and monitor model performance while ensuring data accuracy
-evaluate the need for analytics, assess the problems to be solved and what internal or external data sources to use or acquire. specify and apply appropriate mathematical, statistical, predictive modelling or machine-learning techniques to analyze data, generate insights, create value and support decision making
-contribute to exploration and experimentation in data visualization and you will manage reviews of the benefits and value of analytics techniques and tools and recommend improvements
-what you will bring
-a desire to drive your future and accelerate your career and the following experience and knowledge:
-strong quantitative skillset with experience in statistics and linear algebra.
-a natural inclination toward solving complex problems
-knowledge/experience with statistical programming languages including r, python, sql, etc., to process data and gain insights from it
-knowledge of machine learning techniques including decision-tree learning, clustering, artificial neural networks, etc., and their pros and cons
-knowledge and experience in advanced statistical techniques and concepts including, regression, distribution properties, statistical testing, etc.
-good communication skills to promote cross-team collaboration
-multilingual coding knowledge/experience: java, javascript, c, c++, etc.
-experience/knowledge in statistics and data mining techniques including random forest, glm/regression, social network analysis, text mining, etc. ability to use data visualization tools to showcase data for stakeholders
-what you need to know about this position:
-managing and delivering projects in terms of leadership
-what extra ingredients you will bring:
-programming languages including r, python, sql, etc., to process data and gain insights from it
-education / certifications:
-masters degree preferred. minimu of a bachelors degree
-job specific requirements:
-5 years of experience in terms of managing projects
-travel requirements:
-10% travel
-no relocation support available
-business unit summary
-the united states is the largest market in the mondelēz international family with a significant employee and manufacturing footprint. here, we produce our well-loved household favorites to provide our consumers with the right snack, at the right moment, made the right way. we have corporate offices, sales, manufacturing and distribution locations throughout the . to ensure our iconic brands—including oreo and chips ahoy! cookies, ritz, wheat thins and triscuit crackers, and swedish fish and sour patch kids confectionery products —are close at hand for our consumers across the country.
-mondelēz global llc is an equal opportunity/affirmative action employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, sexual orientation, gender identity, gender expression, genetic information, or any other characteristic protected by law. applicants who require accommodation to participate in the job application process may contact 847-943-5460 for assistance.
-for office-based, salaried roles at bakery and customer service & logistics locations, and some remote roles proof of covid-19 vaccination is required to be eligible for employment. religious, medical and/or other accommodations as required by law will be considered on a case by case basis. you may review the mondelēz covid vaccination policy by visiting the us careers website at /united-states. this covid-19 vaccine mandate does not apply to several . states that do not permit certain vaccination mandates, including, but not limited to alabama, arizona, arkansas, florida, indiana, montana, north dakota, tennessee, texas, utah, and west virginia.
-job type
-regular
-data science
-analytics & data science
-"
-3585598354,Data Scientist Associate I,"organization:
-vmac
-job summary:
-job summary
-data scientists perform detailed analyses of large bodies of heterogeneous data to discover new patterns and insights that impact patient health or augment human capabilities. data scientists have deep expertise in the methods used to analyze data and deep knowledge of data types, topics, and scientific challenges and approaches that will be used to help inform and define new products, experiences, and technologies. this position works in conjunction with data science and informatics faculty to provide technical thought leadership and works closely with informatics and it teams to create data and intelligence-driven systems to solve complex client problems.
-key responsibilities
-participates in multidisciplinary teams to design, develop, and recommend new approaches for data-driven decision-making.
-leads discovery processes on pioneering artificial intelligence (“ai"")/machine learning (“ml”) based approaches to solve complex data problems across a variety of domains.
-provides strategic direction regarding data science and ai in a specific area (., cancer, surgery, planning services, marketing, healthcare delivery).
-guides and educates data science teams to provide unbiased and accurate information, analysis, consultation, and recommendations to support strategic and operational data science initiatives.
-develops analytics tools that can be used by other staff with non-technical expertise.
-in some positions, may work with enterprise executive leadership to advance digital strategy.
-makes strategic recommendations on data collection, integration and retention requirements, incorporating business requirements and knowledge of best practices.
-supports scientific projects under the supervision of a designated senior level data scientist or self-direction.
-designs, develops, applies, and modifies scripts or software applications to support data management, extraction, and analysis.
-provides consultative services and is responsible to gather, analyze, present findings to leadership. technical capabilities
-our academic enterprise is one of the nation’s longest serving and most prestigious academic medical centers. through its historic bond with vanderbilt university and integral role in the school of medicine, vanderbilt health cultivates distinguished research and educational programs to advance a clinical enterprise that provides compassionate and personalized care and support for millions of patients and family members each year.
-world-leading academic departments and comprehensive centers of excellence pursue scientific discoveries and transformational educational and clinical advances across the entire spectrum of health and disease.
-aligning with vanderbilt health’s strategic directions, the office of research provides shared research resources, administrative expertise and professional guidance to enable the trans-disciplinary environment and highly collaborative culture that advances discovery and training for all the research faculty, trainees, students and staff.
-core accountabilities:
-organizational impact: delivers job responsibilities that impact own job area/team with some guidance. problem solving/ complexity of work: uses existing procedures, research and analysis to solve standard job related problems that may require some judgement. breadth of knowledge: requires subject matter knowledge within a professional area to meet job requirements. team interaction: individually contributes to project/ work teams.
-core capabilities :
-supporting colleagues: - develops self and others: continuously improves own skills by identifying development opportunities.- builds and maintains relationships: seeks to understand colleagues priorities, working styles and develops relationships across areas. - communicates effectively: openly shares information with others and communicates in a clear and courteous manner. delivering excellent services: - serves others with compassion: invests time to understand the problems, needs of others and how to provide excellent service. - solves complex problems: seeks to understand issues, solves routine problems, and raises proper concerns to supervisors in a timely manner. - offers meaningful advice and support: listens carefully to understand the issues and provides accurate information and support. ensuring high quality: - performs excellent work: checks work quality before delivery and asks relevant questions to meet quality standards.- ensures continuous improvement: shows eagerness to learn new knowledge, technologies, tools or systems and displays willingness to go above and beyond. - fulfills safety and regulatory requirements: demonstrates basic knowledge of conditions that affect safety and reports unsafe conditions to the appropriate person or department. managing resources effectively :- demonstrates accountability: takes responsibility for completing assigned activities and thinks beyond standard approaches to provide high-quality work/service. - stewards organizational resources: displays understanding of how personal actions will impact departmental resources. - makes data driven decisions: uses accurate information and good decision making to consistently achieve results on time and without error. fostering innovation: - generates new ideas: willingly proposes/accepts ideas or initiatives that will impact day-to-day operations by offering suggestions to enhance them.- applies technology: absorbs new technology quickly; understands when to utilize the appropriate tools and procedures to ensure proper course of action. - adapts to change: embraces changes by keeping an open mind to changing plans and incorporates change instructions into own area of work.
-position qualifications:
-responsibilities:
-certifications :
-work experience :
-relevant work experience
-experience level :
-3 years
-education :
-master's
-for a copy of the physical requirements of this position to determine if you can perform the duties with or without an accommodation or to request an accommodation, please contact vumc employee relations at 615-343-4759 or .
-"
-3585597134,Data Scientist,"iron eaglex is a veteran owned defense contracting company based in tampa, fl.
-it is our mission to provide solutions to the most challenging technical problems facing the department of defense while simultaneously making a positive impact on our employees and community.
-job duties include (but not limited to)
-interpret and analyze data using exploratory mathematic and statistical techniques based on the scientific method
-coordinate research and analytic activities utilizing various data points (unstructured and structured) and employ programming to clean, massage, and organize the data
-experiment against data points, provide information based on experiment results, and provide previously undiscovered solutions to command data challenges
-coordinate with data engineers to build data environments providing data identified by other data professionals
-apply and develop scientific methodology, statistics, and algorithms to discover and frame relevant problems, hypotheses, and opportunities
-develop predictive and prescriptive modeling, natural language processing (nlp), robotic process automation (rpa), text mining and processing, clustering, forecasting methods, and other advanced statistical techniques
-design and automate processes to facilitate the manipulation and analysis of data
-manage and integrate data across dissimilar data sets and analyze large-scale structured and unstructured data
-use frameworks to conduct large-scale data processing
-perform statistical modeling and create data visualizations
-research, design, and implement algorithms to solve complex problems
-program using r, python (numpy, scipy, pandas) or similar analytical languages
-perform data engineering, data processing, and modeling techniques using cloud-based data management, data science, and ml platforms
-communicate complex concepts and hypothesis to a non-technical audience through digital storytelling
-required skills & experience
-minimum of 3 years of data science experience is required:
-proficient in agile development and git operations:
-demonstrated experience applying data science methods to real-world data problems:
-must be us citizen
-desired skills
-experience working with the department of defense
-ability to interact at the general officer/flag officer level
-good presentation/human interaction skills
-education & certifications
-bachelors in stem field or master's degree in operations research, industrial engineering, applied mathematics, statistics, physics, computer science, or related fields is required
-security clearance
-an active ts/sci clearance is required
-benefits
-life insurance
-short - and long-term disability plans
-401(k) retirement plans
-incentive and recognition programs
-relocation opportunities
-iron eaglex is an equal opportunity employer. all qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, among other things, or status as a qualified individual with disability.
-id: 2023-1865
-external company url: 
-clearance level: secret clearance
-telecommute: no
-"
-3584649859,Machine Learning Data Engineer,"pfizer worldwide research, development, and medical (wrdm) is expanding its work in applying machine learning (ml) and artificial intelligence (ai) technologies to biomedical research. this will enable pfizer to enhance our drug discovery efforts, sustain our industry leading r&d productivity, and deliver breakthrough medicines to the patients most in need.
-the centerpiece of this initiative is the establishment of a ""ml research hub,"" a new group charged with mastering state-of-the-art machine learning techniques to create novel predictive models and tools used across wrdm. data engineering will be key to the success of this new group given the enormous scope of the chemical, biological, omics, and clinical data available at pfizer.
-the wrdm research hub is seeking experienced data engineers with a background in machine learning, software engineering, technical problem-solving skills, and experience in creating scalable data pipelines and infrastructure for training, validating, and deploying into production ml solutions for broad usage.
-the successful candidate will work with ml research scientists across wrdm to enable our proprietary data and external datasets to be leveraged for ml modeling.
-this will be accomplished by designing and implementing end-to-end data workflows for large-scale data ingestion, processing, tagging, and publishing, with an eye towards improving ml model performance over time. on projects the candidate will be asked to server as the technical lead coordinating internal and external resources, technology stack, algorithmic approach and be responsible for the overall delivery of the project.
-role responsibilities
-the successful candidate will work with ml research scientists to enable our proprietary data and external datasets to be leveraged for ml modeling. this will be accomplished by implementing end-to-end data workflows for large-scale data ingestion, processing, tagging, and publishing, with an eye towards improving ml model performance over time.
+3586666058,Data Scientist (REMOTE),"taking care of people is at the heart of everything we do, and we start by taking care of you, our valued colleague. a career at sedgwick means experiencing our culture of caring. it means having flexibility and time for all the things that are important to you. it’s an opportunity to do something meaningful, each and every day. it’s having support for your mental, physical, financial and professional needs. it means sharpening your skills and growing your career. and it means working in an environment that celebrates diversity and is fair and inclusive.
+a career at sedgwick is where passion meets purpose to make a positive impact on the world through the people and organizations we serve. if you are someone who is driven to make a difference, who enjoys a challenge and above all, if you’re someone who cares, there’s a place for you here. join us and contribute to sedgwick being a great place to work.
+great place to work®
+most loved workplace®
+forbes best-in-state employer
+data scientist (remote)
+primary purpose of this role: to develop and manage predictive modeling assignments through completion; to communicate results; to make recommendations to management; and to ensure model ownership, implementation, and monitoring; to spot trends and to gain maximum insight that can give the company a competitive advantage.
+essential responsibilities may include
+execute data science projects as identified by sr data scientists, leadership, and stakeholders
+help to build, prototype, and deploy machine learning models in sandbox and production environments
+produce reports to communicate metrics and outcomes of stakeholder interest
+assist with developing and maintaining end-to-end etl data pipelines
+work to explore new internal data sources and their utility within projects
+communicate modeling challenges, findings, and outcomes to stakeholders
 qualifications
-bachelor’s degree in computer science, statistics, applied mathematics, chemistry, physics, a life science discipline, or related technical discipline.
-4+ years' experience programming experience in python, java, scala, c++, or sql.
-4+ years' experience in software design, development, and algorithm-related solutions for production-grade systems using machine learning.
-4+ years' experience in managing code composed of multi-developer teams, following industry best practices.
-preferred qualifications
-ms/phd + 2 years of relevant research experience
-experience with high performance computing (hpc) environments (slurm/lsf/sge schedulers)
-experience with cloud computing infrastructure including amazon web services (aws) and distributed computing libraries (., spark, hive, impala, kafka, etc.)
-experience with containerization and orchestration tools (., docker, singularity, airflow, luigi, kubernetes, etc.)
-experience with workflow languages (cwl, wdl, next flow, etc.)
-experience with ci/cd and automation tools (terraform, cloudformation, jenkins, ansible, etc.)
-passion and curiosity for data and proven ability to take ideas from prototype to production.
-technologies we use:
-python, java, c++, slurm-based on-premises compute clusters, google cloud platform, aws, docker, singularity, kubernetes, python (numpy, pandas, dask, pytorch, tensorflow, sci-kit learn, rdkit, weights and biases, etc.)
-relocation assistance may be available based on business needs and/or eligibility.
-sunshine act
-pfizer reports payments and other transfers of value to health care providers as required by federal and state transparency laws and implementing regulations. these laws and regulations require pfizer to provide government agencies with information such as a health care provider’s name, address and the type of payments or other value received, generally for public disclosure. subject to further legal review and statutory or regulatory clarification, which pfizer intends to pursue, reimbursement of recruiting expenses for licensed physicians may constitute a reportable transfer of value under the federal transparency law commonly known as the sunshine act. therefore, if you are a licensed physician who incurs recruiting expenses as a result of interviewing with pfizer that we pay or reimburse, your name, address and the amount of payments made currently will be reported to the government. if you have questions regarding this matter, please do not hesitate to contact your talent acquisition representative.
-pfizer is committed to equal opportunity in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, disability or veteran status. pfizer also complies with all applicable national, state and local laws governing nondiscrimination in employment as well as work authorization and employment eligibility verification requirements of the immigration and nationality act and irca. pfizer is an e-verify employer.
-information & business tech
+insurance claims knowledge required
+minimum one year of predictive modeling, data science, and analysis experience with solid background in the using data visualization tools and libraries and data exploration, data wrangling, and feature engineering
+experience writing python or r code, and notebook environments
+knowledge of writing code in python or r, and notebook environments
+knowledge of common unsupervised/supervised ml techniques
+taking care of you
+career development and promotional growth opportunities
+#datascience
+#datascientist
+sedgwick is an equal opportunity employer and a drug-free workplace.
+if you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, consider applying for it anyway! sedgwick is building a diverse, equitable, and inclusive workplace and recognizes that each person possesses a unique combination of skills, knowledge, and experience. you may be just the right candidate for this or other roles.
 "
-3584624621,Python Developer,"
-python developerlocationphoenix, az job description - must have and good to have skills (*in bullet points*)min required exp : 6+
-skill set : python, pyspark, sql, spark-scala , scality, hdfs, hive, spark-jdbc,
-ok to have : aws & databrick
-job responsibilities :
-1. drive and participate in requirement gathering workshops, estimation discussions, design meeting and status review meeting.
-2. participate and contribute in solution design and architecture for implementing big data projects on-promises and on cloud.
-3. technical hands-on experience in design, coding, development.
-4. proficient in sql, spark-scala , scality, hdfs, hive, spark-jdbc, linux/unix,
-5. proficient with various development methodologies - scrum
-6. good to have cicd process for application deployment.
-7. hands-on in python development – data projects
-8. should be well-versed with python data parallel processing approaches.
-9. experience on resolving synchronization issues with python
-10. nice to know – pyspark.
-"
-3584624828,Data Scientist (Open to both U.S. Citizens and Federal Employees),"duties
-as a data scientist, you will
-serve as a data scientist (reporting and data analytics), project leader, and advisor to leadership within the office of applications and digital solutions. works on business requirements gathering and data management issues to include data interface and storage, as well as the application of data and statistical analysis principles, procedures, and tools such as modeling techniques, data analysis, data dictionaries, data warehousing, data mining, data disposal, and data standardization processes.
-conduct business process re-engineering and information requirements reviews with modal and external business partners to establish, streamline, and document business processes that are to be supported by information systems.
-advise the associate chief information officer (acio) of applications and digital solutions in identifying technology needs and selecting a solution or strategy that aligns with the business and data models and that provides maximum business value (., effective, efficient, and economical). supports requirements analysis, design, programming, testing, and implementation of it applications and tools of information systems in support of agency information systems including interfaces between local and state systems to improve federal and departmental digital services.
-evaluate, recommends, and implements new technologies with emphasis on it modernization of existing processes and creating new capabilities for the dot. evaluates commercial-off -the-shelf (cots) software and makes recommendations for software selections. once selected, plans, coordinates, implements, and maintains commercial-off-the­ shelf software that support agency functions.
-consult with stakeholders and customers to identify the appropriate data, methodological approach, and design. conducts observational analyses using software and/or programming languages such as r, python, tableau, or sas to explore/group data, test hypotheses, predict outcomes, and inform decisions. derives meaning from big data (., datasets that may be large, disparate, unstructured, and/or complex), including structured or loosely structured data. is comfortable working with large datasets and numerous confounding variables.
-use electronic tools to transform, combine, and clean data in preparation for analysis. works with teams to develop data products and definitions. uses appropriate analytic and statistical software to programmatically prepare data for analysis and clean imperfect data such as probabilistic matching and imputation of missing values. translates the results of analysis into clear, actionable communications that equip decision makers to make informed, data-driven decisions. solves technical problems by choosing the appropriate tools and explaining data architecture and design to both technical and non-technical audiences and prepares and delivers reports and relevant information to support the needs of leadership and policy/project teams.
-present the results of quantitative analyses to technical and non-technical audiences. is knowledgeable of chart typologies, mapping stories to appropriate chart types. works with customers to create useful presentations and interpretations of analytical outputs. independently synthesizes findings and turns them into actionable insights. adheres to applicable style guides. is responsive to a variety of stakeholders and team members with varying technical skills.
-please note: this announcement establishes an open continuous (1 year) vacancy announcement. given our continuing need for top professionals in this field, we will review applications on an as needed basis.
-requirements
-conditions of employment
-you must be a  and eligible for consideration.
-you must meet specialized experience to qualify.
-required documents must be submitted by the closing date.
-submit application and resume online by 11:59 pm est on the closing date.
-conditions of employment
-selective service: males born after 12/31/1959 must be registered for the selective service.
-government travel card: this position involves travel. a government contractor-issued travel card will be issued and must be retained for official business only.
-probationary period: you must complete a one-year probationary period (unless already completed).
-time-in-grade: federal applicants must have served 52 weeks at the next lower grade in the competitive or excepted service in the executive branch to satisfy time-in-grade restrictions contained in 5 cfr 300, subpart f.
-deu requirements: applicants selected under delegated examining procedures may be required to successfully complete a one-year probationary period (unless already completed).
-qualifications
-to qualify for the gs-13, you must have at least one year of specialized experience equal or equivalent to the gs-12 grade level in the following:
-experience in substantial, tangible experience applying data science competencies, including data imputation methodologies, dimension reduction techniques, complex entity resolution, natural language processing techniques, network/graph analyses, supervised and unsupervised machine learning methods, visualization, model/data governance, and user-centric design.
-experience in using common data science tools, including scripted languages (such as r, python, sql, and java scripts), integrated development environment (ide) and analytics platforms (such as rstudio, sagemaker, rapidminer, sas, and domino data lab), open-source solutions (such as kibana, kubernetes, and elastic search), and commercial off-the-shelf tools (such as databricks, emr studio).
-experience applying agile methodology to manage engagement sprints through each phase of the innovation lifecycle from ideation through deployment.
-you cannot qualify on education at this level, you must have experience.
-knowledge, skills and abilities (ksas): your qualifications will be evaluated on the basis of your level of knowledge, skills, abilities and/or competencies in the following areas:
-knowledge of data science theory and the utilization of concepts, theories, designs and interactions of database systems, so the incumbent can design systems and conduct studies which will offer solutions to complex data problems where precedents have not been developed.
-knowledge of, and skill in using advanced statistical analytical techniques to perform extensive technical evaluations, to provide expert advice and guidance to agency management regarding database design feasibility.
-knowledge of project management theories, principles, and practices sufficient to personally lead assigned projects, including expertise in developing plans and schedules; estimating resource requirements; defining milestones and deliverables; monitoring activities and evaluating and effectively communicating progress to agency sponsors.
-knowledge of system interrelationships, sources of data, flow of information and availability of data among the various users, governmental agencies, private sector organizations, and the states.
-for all types of consideration, experience refers to paid and unpaid experience, including volunteer work done through national service programs (., peace corps, americorps) and other organizations (., professional; philanthropic; religious; spiritual; community, student, social). volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. you will receive credit for all qualifying experience, including volunteer experience.
-for additional information about applying to federal positions, please click on the following link: /policy-data-oversight/classification-qualifications/general-schedule-qualification-policies/#url=e4
-students enrolled in a qualifying degree program can apply if the anticipated graduation date is within six months of closing date of the announcement. graduation transcript must be received before start date.
-other applicants must meet all qualification requirements by the closing date of this announcement.
-education
-basic requirements
-degree: mathematics, statistics, computer science, data science or field directly related to the position. the degree must be in a major field of study (at least at the baccalaureate level) that is appropriate for the position.
-or
-combination of education and experience: courses equivalent to a major field of study (30 semester hours) as shown in paragraph a above, plus additional education or appropriate experience.
-additional information
-this announcement may be used to fill additional positions if similar vacancies occur within 90 days of the issue date of the referral certificate.
-"
-3583506453,Data Scientist,"secure our nation, ignite your future
-each day . customs and border protection (cbp) oversees the massive flow of people, capital, and products that enter and depart the united states via air, land, sea, and cyberspace. the volume and complexity of both physical and virtual border crossings require the application of solutions to promote efficient trade and travel. further, effective solutions help cbp ensure the movement of people, capital, and products is legal, safe, and secure.
-in response to this challenge, mantech, as a trusted mission partner of cbp, seeks capable, qualified, and versatile sme data scientists to help lead the development and delivery of high-quality predictive modelling solutions. successful applicants will serve as recognized subject matter experts in the application of quantitative methods, machine learning algorithms, and predictive models to address complex national and homeland security challenges. they will help our team to leverage large structured and unstructured datasets to develop and operationalize models, tools, and applications that drive optimized decision making. project tasks include data collection, mining, data and text analytics, clustering analysis, pattern recognition and extraction, automated classification and categorization, and entity resolution to implement and enhance automated risk assessment. the products we develop provide actionable insight with real and immediate impact on the safety and security of the united states, its citizens, visitors, and economy.
-the strongest applicants will offer multiple years of experience in highly dynamic, threat/risk driven operating environments. they will also have a proven track record of delivering production ready decision support tools and applications employed in the field and by mission-support entities. further, highly competitive applicants will have a demonstrated capacity to: work closely and collaboratively with mission stakeholders; respond to emergent, mission-driven changes in priorities and expected outcomes; and, apply new and emerging tools and techniques. within three - six months of joining the project data scientists will be expected to:
-lead and perform hands-on data and threat/intel analysis leading to development of analytics solutions (. predictive models, visual analytics reports), to support cbp users conduct law enforcement mission critical activities.
-collaborate with mission stakeholders to define, frame, and scope mission challenges where big data interventions may offer important mitigations to project schedules and outcomes.
-demonstrate proficiency in extracting, cleaning, and transforming cbp transactional and associated data sets within an identified problem space to build predictive models as well as develop appropriate supporting documentation.
-leverage knowledge of a variety of statistical and machine learning techniques to develop, evaluate, and deploy new predictive analytical models that directly inform mission decisions.
-utilize and explore variety of statistical/modeling tools and languages to compare and assess best performing machine learning results.
-execute projects including those intended to identify patterns and/or anomalies in large datasets; perform automated text/data classification and categorization as well as entity recognition, resolution and extraction; and named entity matching.
-brief project management, technical design, and outcomes to both technical and non-technical audiences including senior government stakeholders throughout the model development/ project lifecycle through written as well as in-person reporting.
-education
-hs diploma/ged and 20+ years
-as/aa and 18+ years
-bs/ba and 12+ years
-ms/ma/mba and 9+ years
-phd/doctorate and 7+ years
-required qualifications
-experience in developing machine learning models and applying advanced analytics solutions to solve complex business problems
-experience with programming languages including: r, python, scala, java.
-proficiency with sql programming
-experience constructing and executing queries to extract data in support of eda and model development
-proficiency with statistical software packages including: sas, spss modeler, r, weka, or equivalent
-experience with pattern recognition and extraction, automated classification, and categorization
-experience with entity resolution (., record linking, named-entity matching, deduplication/ disambiguation)
-experience with unsupervised and supervised machine learning techniques and methods
-experience performing data mining, analysis, and training set construction
-desired qualifications
-experience/proficiency in conducting development and integration activities to deploy, assess and update machine learning models into applications for end-user use and evaluation.
-proficiency with unsupervised machine learning methods including cluster analysis (., k-means, k-nearest neighbor, hierarchical, deep belief networks, principal component analysis), segmentation, etc.
-proficiency with supervised machine learning methods including decision trees, support vector machines, logistic regression, random/rotation forests, categorization/classification, neural nets, bayesian networks, etc.
-experience with pattern recognition and extraction, automated classification, and categorization
-experience with entity resolution (., record linking, named-entity matching, deduplication/ disambiguation)
-experience with visualization tools and techniques (., periscope, business objects, d3, ggplot, tableau, sas visual analytics, powerbi)
-experience with big data technologies (., hadoop, hive, hdfs, hbase, mapreduce, spark, kafka, sqoop)
-master’s degree in mathematics, statistics, computer science/engineering, or other related technical fields with equivalent practical experience
-clearance
-selected applicants must be a us citizen and able to obtain and maintain a . customs and border protection (cbp) suitability.
-certifications
-n/a
-physical
-office work, typically sedentary with occasional movement around the office.
-the projected compensation range for this position is $137,000-$190,000. there are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, contract wage determination, relevant work experience, skills and competencies that align to the specified role, geographic location (for remote opportunities), education and certifications as well as federal government contract labor categories. in addition, mantech invests in it’s employees beyond just compensation. mantech’s benefits offerings include, dependent upon position, health insurance, life insurance, paid time off, holiday pay, short term and long term disability, retirement and savings, learning and development opportunities, wellness programs as well as other optional benefit elections.
-for all positions requiring access to technology/software source code that is subject to export control laws, employment with the company is contingent on either verifying .-person status or obtaining any necessary license. the applicant will be required to answer certain questions for export control purposes, and that information will be reviewed by compliance personnel to ensure compliance with federal law. mantech may choose not to apply for a license for such individuals whose access to export-controlled technology or software source code may require authorization and may decline to proceed with an applicant on that basis alone.
-mantech international corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer. we do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a disabled veteran, recently separated veteran, active duty wartime or campaign badge veteran, armed forces services medal, or any other characteristic protected by law.
-if you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access /careers/pages/ as a result of your disability. to request an accommodation please click  provide your name and contact information.
-"
-3583461768,"Data Scientist / Huntsville, AL","this position is for a data scientist with a company in huntsville, al.
-summary: altamira is seeking a data scientist to support the missile and space intelligence center (msic) in huntsville, alabama. in this position you will use your data science, artificial intelligence, and machine learning expertise to find the answers to questions that uniquely position our military to succeed in the digital age. you will conduct data analytics, data engineering, data mining, predictive analysis, and statistical analysis using modern scientific techniques.
-duties and responsibilities: you will build ai/ml tools such as recommendation engines and high quality prediction systems complete with graphs and visualizations. if this sounds exciting to you, please keep reading and we look forward to talking to you soon.
-education and experience: basic qualifications: active ts/sci security clearance. bachelor\'s degree in a computer science, math, statistics, engineering or related field proven work experience or formal training as a software engineer, software developer, ai/ml developer, or similar role dod or ic work experience ability to develop ai/ml based tools and processes data science language experience such as r and python expertise with statistical analysis and development of data mining algorithms experience developing for docker implementations good interpersonal skills and the desire to work as part of a high-performing team. preferred qualifications: experience with version control software like git agile development familiarity devsecops expertise experience working with large mulit-int data sets automated predictive analytics expertise power bi and/or tableau experience expertise in software development life cycle (sdlc) experience developing and updating technical documentation, presentations, flow charts, and other documentation candidate must demonstrate strong troubleshooting and problem-solving skills. ***active ts/sci clearance required*** ***must be a . citizen*** we focus on recruiting talented, self-motivated employees that find a way to get things done. join our team of experts as we engineer national security!
-altamira is an equal opportunity/affirmative action employer. all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected veteran status.
-"
-3583516838,Data Scientist,"position responsibilities
-responsible for collecting, cleaning, and evaluating the quality of juvenile justice data sets.
-assists in developing requirements for data systems necessary to support research and reporting needs
-uses descriptive statistics, predictive analytics, machine learning, and other methods to learn about and derive insights from the patterns and relations within a dataset.
-uses inferential statistics to learn about the causal relationships between variables in a dataset, including randomized field evaluations.
-supports the preparation and quality assurance of ad hoc reports and request for data for internal and external clients as needed
-coordinates, manages and conducts evaluation activities for various jj projects and initiatives.
-prepares and conducts presentations to a variety of stakeholder groups regarding project findings.
-responsible for designing and writing of reports, logic models, literature reviews and other written materials.
-develops visual presentations, including powerpoint slides, charts, graphs, and infographics from raw and summarized data for a wide range of audiences.
-conveys new research ideas to improve juvenile justice policy and develop partnerships to support client/jjs work. education
-skills and experience
-master's degree or higher in evaluation or related social science, with a strong foundation in evaluation and research methods
-proficient in analytic tools such as cognos, tableau, stata, r, dedoose, atlas ti or related software.
-accuracy, attention to detail and organizational skills.
-confident, self-starter capable of taking ownership of tasks.
-must be comfortable meeting tight deadlines by being organized and prioritizing tasks.
-ability to learn quickly and manage multiple projects at once.
-flexible to changing priorities, detail-oriented, works well under pressure.
-critical thinking, analytic and problem-solving skills.
-strong organizational and planning skills; completes assignments in a timely manner.
-excellent verbal and written communication skills. experience presenting statistical findings clearly and concisely in written and graphic form.
-ability to work in a fast-paced working environment.
-exhibits high initiative, strong drive and follow-through.
-proficient in developing reports and dashboards in analytic tools such as cognos or tableau
-proficient in preparing technical documentation for reports and able to write queries
-"
-3583512921,Data Scientist,"share word resume, hourly rate***
-rate: $open on w2 / c2c
-role: data scientist
-company: dept. of human services (through pv)
-position: contract
-# positions: 2
-duration : 12+ months long term
-work: 2 days/ week onsite
-interview: phone/ video
-client location: philadelphia city, pa
-# this position is hybrid, 2 days / week onsite.
-proficient in developing reports and dashboards in analytic tools such as cognos or tableau
-proficient in analytic tools such as cognos, tableau, stata, r, dedoose, atlas ti or related software.
-skills and experience
-master's degree or higher in evaluation or related social science, with a strong foundation in evaluation and research methods
-accuracy, attention to detail and organizational skills.
-confident, self-starter capable of taking ownership of tasks.
-must be comfortable meeting tight deadlines by being organized and prioritizing tasks.
-ability to learn quickly and manage multiple projects at once.
-flexible to changing priorities, detail-oriented, works well under pressure.
-critical thinking, analytic and problem-solving skills.
-strong organizational and planning skills; completes assignments in a timely manner.
-excellent verbal and written communication skills.
-experience presenting statistical findings clearly and concisely in written and graphic form.
-ability to work in a fast-paced working environment.
-exhibits high initiative, strong drive and follow-through.
-proficient in developing reports and dashboards in analytic tools such as cognos or tableau
-proficient in preparing technical documentation for reports and able to write queries
-"
-3588408303,Data Scientist,"description
-leidos is looking for a candidate to support survey design, development, implementation, and analysis, as well as running focus groups, and briefing results to customer stakeholders. surveys will focus on issues related to customer workforce perceptions and morale on topics such as communication, diversity and inclusion, promotion selection, and management support. this involves using customer-provided survey tools. some surveys will be part of a continuing series that provides an ability to see trends over time.
-the office provides business analytics primarily using structured datasets, but values surveys to fill in knowledge gaps that structured data does not provide. the successful candidate should be someone who is creative and independent, and is capable of managing many tasks at the same time. the candidate needs to have excellent communications skills and be capable of imparting insights orally and through written analytic products.
-primary responsibilities
-consult with customer stakeholders to frame survey design and create responsive questions.
-create and run surveys in customer-provided applications.
-direct, manage, and mentor junior team members.
-collaborate cross-functionally with other team members, such as methodologists and database developers, to compile survey results, including through online dashboards.
-basic qualifications
-bs degree and 12 – 15 years of prior relevant experience or masters with 10 – 13 years of prior relevant experience.
-at least 8+ years of relevant work experience.
-ability to work across multidisciplinary teams.
-experience with powerpoint, word, and excel.
-active ts/sci with a polygraph
-preferred qualifications
-experience working with ms access, sql server or oracle databases and with tableau or power bi dashboard software.
-experience with intelligence community workforce and with issues unique to that environment.
-pay range
-pay range $142,350.00 - $219,000.00 - $295,650.00
-the leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
-"
-3583073118,SDET (W-2 ONLY),"jefferson cty, missouri (onsite role)
-contract
+3587828585,Data Scientist (GenerativeAI),"introduction
+symphonyai is seeking a highly motivated and experienced data scientist to join our team as a data scientist. the ideal candidate will have expertise in generative models, deep learning, and a strong background in statistics, mathematics, and programming. you will be responsible for designing, implementing, and testing generative ai models to generate novel and creative outputs from structured and unstructured data sources. your work will be critical to our mission of creating innovative solutions to challenging problems across multiple domains.
 job description
-senior level automated test developer using cypress to write automated test scripts to accomplish full code coverage for single page responsive case management system.
-business driven development bdd
-candidate should have experience in all of the following areas for development of automated test scripts with cypress for
-cucumber
-ide - vs code
-html/css
-javascript
-nodejs & npm
-jquery
-ajax
-json
+duties & responsibilities
+work with stakeholders to understand business requirements and identify opportunities for machine learning applications.
+develop, test, and deploy machine learning models and systems.
+design and develop algorithms to solve complex problems and improve accuracy and performance of models.
+ensure the scalability, maintainability, and reliability of machine learning systems in production environments.
+design, build and tune llm models to improve our product experience.
+turn genai ideas into product features and lead genai efforts.
+collaborate with product, cloud, and engineering teams to bring features to life.
+education, skill & knowledge requirements
+degree in computer science or related field with 0-2 years of experience.
+strong proficiency in programming languages such as python and r.
+experience with popular machine learning frameworks such as tensorflow, pytorch.
+must have experience in data processing, analyzing and model training/testing.
+excellent communication, problem-solving, and analytical skills.
+comfort working in a small, remote team-based environment.
+preferred
+experience with containers, container runtimes, and/or serverless technologies.
+automation tools: experience with automation & defect management tools like azure devops, jira, katalon etc.
+agile methodologies: experience with agile software development, project management methodologies
+about us
+who we are
+symphonyai is building the leading enterprise ai saas company for digital transformation across the most critical and resilient growth industries, including retail, consumer packaged goods, financial crime prevention, manufacturing, media, and it service management. since its founding in 2017, symphonyai today serves 1500+ enterprise customers globally and has grown to 2,500 talented leaders, data scientists, and other professionals across over 20 countries.
+"
+3586665107,Data Scientist (REMOTE),"taking care of people is at the heart of everything we do, and we start by taking care of you, our valued colleague. a career at sedgwick means experiencing our culture of caring. it means having flexibility and time for all the things that are important to you. it’s an opportunity to do something meaningful, each and every day. it’s having support for your mental, physical, financial and professional needs. it means sharpening your skills and growing your career. and it means working in an environment that celebrates diversity and is fair and inclusive.
+a career at sedgwick is where passion meets purpose to make a positive impact on the world through the people and organizations we serve. if you are someone who is driven to make a difference, who enjoys a challenge and above all, if you’re someone who cares, there’s a place for you here. join us and contribute to sedgwick being a great place to work.
+great place to work®
+most loved workplace®
+forbes best-in-state employer
+data scientist (remote)
+primary purpose of this role: to develop and manage predictive modeling assignments through completion; to communicate results; to make recommendations to management; and to ensure model ownership, implementation, and monitoring; to spot trends and to gain maximum insight that can give the company a competitive advantage.
+essential responsibilities may include
+execute data science projects as identified by sr data scientists, leadership, and stakeholders
+help to build, prototype, and deploy machine learning models in sandbox and production environments
+produce reports to communicate metrics and outcomes of stakeholder interest
+assist with developing and maintaining end-to-end etl data pipelines
+work to explore new internal data sources and their utility within projects
+communicate modeling challenges, findings, and outcomes to stakeholders
+qualifications
+insurance claims knowledge required
+minimum one year of predictive modeling, data science, and analysis experience with solid background in the using data visualization tools and libraries and data exploration, data wrangling, and feature engineering
+experience writing python or r code, and notebook environments
+knowledge of writing code in python or r, and notebook environments
+knowledge of common unsupervised/supervised ml techniques
+taking care of you
+career development and promotional growth opportunities
+#datascience
+#datascientist
+sedgwick is an equal opportunity employer and a drug-free workplace.
+if you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, consider applying for it anyway! sedgwick is building a diverse, equitable, and inclusive workplace and recognizes that each person possesses a unique combination of skills, knowledge, and experience. you may be just the right candidate for this or other roles.
+"
+3586666061,Data Scientist (REMOTE),"taking care of people is at the heart of everything we do, and we start by taking care of you, our valued colleague. a career at sedgwick means experiencing our culture of caring. it means having flexibility and time for all the things that are important to you. it’s an opportunity to do something meaningful, each and every day. it’s having support for your mental, physical, financial and professional needs. it means sharpening your skills and growing your career. and it means working in an environment that celebrates diversity and is fair and inclusive.
+a career at sedgwick is where passion meets purpose to make a positive impact on the world through the people and organizations we serve. if you are someone who is driven to make a difference, who enjoys a challenge and above all, if you’re someone who cares, there’s a place for you here. join us and contribute to sedgwick being a great place to work.
+great place to work®
+most loved workplace®
+forbes best-in-state employer
+data scientist (remote)
+primary purpose of this role: to develop and manage predictive modeling assignments through completion; to communicate results; to make recommendations to management; and to ensure model ownership, implementation, and monitoring; to spot trends and to gain maximum insight that can give the company a competitive advantage.
+essential responsibilities may include
+execute data science projects as identified by sr data scientists, leadership, and stakeholders
+help to build, prototype, and deploy machine learning models in sandbox and production environments
+produce reports to communicate metrics and outcomes of stakeholder interest
+assist with developing and maintaining end-to-end etl data pipelines
+work to explore new internal data sources and their utility within projects
+communicate modeling challenges, findings, and outcomes to stakeholders
+qualifications
+insurance claims knowledge required
+minimum one year of predictive modeling, data science, and analysis experience with solid background in the using data visualization tools and libraries and data exploration, data wrangling, and feature engineering
+experience writing python or r code, and notebook environments
+knowledge of writing code in python or r, and notebook environments
+knowledge of common unsupervised/supervised ml techniques
+taking care of you
+career development and promotional growth opportunities
+#datascience
+#datascientist
+sedgwick is an equal opportunity employer and a drug-free workplace.
+if you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, consider applying for it anyway! sedgwick is building a diverse, equitable, and inclusive workplace and recognizes that each person possesses a unique combination of skills, knowledge, and experience. you may be just the right candidate for this or other roles.
+"
+3586661343,Data Scientist (REMOTE),"taking care of people is at the heart of everything we do, and we start by taking care of you, our valued colleague. a career at sedgwick means experiencing our culture of caring. it means having flexibility and time for all the things that are important to you. it’s an opportunity to do something meaningful, each and every day. it’s having support for your mental, physical, financial and professional needs. it means sharpening your skills and growing your career. and it means working in an environment that celebrates diversity and is fair and inclusive.
+a career at sedgwick is where passion meets purpose to make a positive impact on the world through the people and organizations we serve. if you are someone who is driven to make a difference, who enjoys a challenge and above all, if you’re someone who cares, there’s a place for you here. join us and contribute to sedgwick being a great place to work.
+great place to work®
+most loved workplace®
+forbes best-in-state employer
+data scientist (remote)
+primary purpose of this role: to develop and manage predictive modeling assignments through completion; to communicate results; to make recommendations to management; and to ensure model ownership, implementation, and monitoring; to spot trends and to gain maximum insight that can give the company a competitive advantage.
+essential responsibilities may include
+execute data science projects as identified by sr data scientists, leadership, and stakeholders
+help to build, prototype, and deploy machine learning models in sandbox and production environments
+produce reports to communicate metrics and outcomes of stakeholder interest
+assist with developing and maintaining end-to-end etl data pipelines
+work to explore new internal data sources and their utility within projects
+communicate modeling challenges, findings, and outcomes to stakeholders
+qualifications
+insurance claims knowledge required
+minimum one year of predictive modeling, data science, and analysis experience with solid background in the using data visualization tools and libraries and data exploration, data wrangling, and feature engineering
+experience writing python or r code, and notebook environments
+knowledge of writing code in python or r, and notebook environments
+knowledge of common unsupervised/supervised ml techniques
+taking care of you
+career development and promotional growth opportunities
+#datascience
+#datascientist
+sedgwick is an equal opportunity employer and a drug-free workplace.
+if you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, consider applying for it anyway! sedgwick is building a diverse, equitable, and inclusive workplace and recognizes that each person possesses a unique combination of skills, knowledge, and experience. you may be just the right candidate for this or other roles.
+"
+3589729037,Entry Level Python Developer (Remote),"synergisticit wants every candidate to know that the job market is challenging and to stand out, you need to have exceptional skills and technologies and that's where we come in to make sure you get the attention which you need.
+synergisticit understands the complex nature of the job market and how difficult it can be to secure a position, especially for fresh graduates. therefore, we assist and help tech-savvies to convert their passions into professions. we go above and beyond to keep you working in your niche.
+as we focus on long-term success, we provide complete career development solutions. from job search to upskilling portfolio and interview preparation, we can guide you at every step of your career.
+synergisticit spares no efforts to connect you with a large network of tech giants, including google, apple, paypal, dell, cisco, client, etc. presently, we are actively looking for entry-level java developers with a driven mindset. get the right opportunity and gain experience in building web-centric solutions on java.
+who should apply : recent computer science/engineering /mathematics/statistics or science graduates or anyone looking to make their career in it industry
+we also assist in filing for stem extension and h1b and green card filing.
+candidates who are serious about their future in the it industry and have set big goals for themselves.
+candidates having difficulty in finding jobs or cracking interviews or who wants to improve their skill portfolio. we also offer skill enhancement programs if the candidates are missing skills or experience which our clients need with great outcomes
+candidates can benefit from skill enhancement if they fall into the below categories. if they are qualified with enough skills then no need for skill enhancement
+candidates who lack experience
+have had a break in careers
+lack technical competency
+candidates who want to get employed and make a career in the tech industry
+please also check the below links
+if the skills are not a match candidates can opt for skill enhancement. or their resume can be sent out to clients to see if responses are achievable
+for data science/machine learning
+required skills
+bachelors degree or masters degree in computer science, computer engineering, electrical engineering, information systems, it
+highly motivated, self-learner, and technically inquisitive
+experience in programming language java and understanding of the software development life cycle
+knowledge of statistics, python, data visualization tools
+excellent written and verbal communication skills
+preferred skills: nlp, text mining, tableau, time series analysis
+technical skills are required by clients for selection even if its junior or entry level position each additional technical skill helps a candidate's resume to be picked by clients over other job seekers.
+clients hire candidates with the right technical skills which they need and reject candidates who lack the required technical skills.
+no third party candidates or c2c candidates
+please apply to the posting
+no phone calls please. shortlisted candidates would be reached out
+"
+3586666057,Data Scientist (REMOTE),"taking care of people is at the heart of everything we do, and we start by taking care of you, our valued colleague. a career at sedgwick means experiencing our culture of caring. it means having flexibility and time for all the things that are important to you. it’s an opportunity to do something meaningful, each and every day. it’s having support for your mental, physical, financial and professional needs. it means sharpening your skills and growing your career. and it means working in an environment that celebrates diversity and is fair and inclusive.
+a career at sedgwick is where passion meets purpose to make a positive impact on the world through the people and organizations we serve. if you are someone who is driven to make a difference, who enjoys a challenge and above all, if you’re someone who cares, there’s a place for you here. join us and contribute to sedgwick being a great place to work.
+great place to work®
+most loved workplace®
+forbes best-in-state employer
+data scientist (remote)
+primary purpose of this role: to develop and manage predictive modeling assignments through completion; to communicate results; to make recommendations to management; and to ensure model ownership, implementation, and monitoring; to spot trends and to gain maximum insight that can give the company a competitive advantage.
+essential responsibilities may include
+execute data science projects as identified by sr data scientists, leadership, and stakeholders
+help to build, prototype, and deploy machine learning models in sandbox and production environments
+produce reports to communicate metrics and outcomes of stakeholder interest
+assist with developing and maintaining end-to-end etl data pipelines
+work to explore new internal data sources and their utility within projects
+communicate modeling challenges, findings, and outcomes to stakeholders
+qualifications
+insurance claims knowledge required
+minimum one year of predictive modeling, data science, and analysis experience with solid background in the using data visualization tools and libraries and data exploration, data wrangling, and feature engineering
+experience writing python or r code, and notebook environments
+knowledge of writing code in python or r, and notebook environments
+knowledge of common unsupervised/supervised ml techniques
+taking care of you
+career development and promotional growth opportunities
+#datascience
+#datascientist
+sedgwick is an equal opportunity employer and a drug-free workplace.
+if you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, consider applying for it anyway! sedgwick is building a diverse, equitable, and inclusive workplace and recognizes that each person possesses a unique combination of skills, knowledge, and experience. you may be just the right candidate for this or other roles.
+"
+3586663305,Data Scientist (REMOTE),"taking care of people is at the heart of everything we do, and we start by taking care of you, our valued colleague. a career at sedgwick means experiencing our culture of caring. it means having flexibility and time for all the things that are important to you. it’s an opportunity to do something meaningful, each and every day. it’s having support for your mental, physical, financial and professional needs. it means sharpening your skills and growing your career. and it means working in an environment that celebrates diversity and is fair and inclusive.
+a career at sedgwick is where passion meets purpose to make a positive impact on the world through the people and organizations we serve. if you are someone who is driven to make a difference, who enjoys a challenge and above all, if you’re someone who cares, there’s a place for you here. join us and contribute to sedgwick being a great place to work.
+great place to work®
+most loved workplace®
+forbes best-in-state employer
+data scientist (remote)
+primary purpose of this role: to develop and manage predictive modeling assignments through completion; to communicate results; to make recommendations to management; and to ensure model ownership, implementation, and monitoring; to spot trends and to gain maximum insight that can give the company a competitive advantage.
+essential responsibilities may include
+execute data science projects as identified by sr data scientists, leadership, and stakeholders
+help to build, prototype, and deploy machine learning models in sandbox and production environments
+produce reports to communicate metrics and outcomes of stakeholder interest
+assist with developing and maintaining end-to-end etl data pipelines
+work to explore new internal data sources and their utility within projects
+communicate modeling challenges, findings, and outcomes to stakeholders
+qualifications
+insurance claims knowledge required
+minimum one year of predictive modeling, data science, and analysis experience with solid background in the using data visualization tools and libraries and data exploration, data wrangling, and feature engineering
+experience writing python or r code, and notebook environments
+knowledge of writing code in python or r, and notebook environments
+knowledge of common unsupervised/supervised ml techniques
+taking care of you
+career development and promotional growth opportunities
+#datascience
+#datascientist
+sedgwick is an equal opportunity employer and a drug-free workplace.
+if you're excited about this role but your experience doesn't align perfectly with every qualification in the job description, consider applying for it anyway! sedgwick is building a diverse, equitable, and inclusive workplace and recognizes that each person possesses a unique combination of skills, knowledge, and experience. you may be just the right candidate for this or other roles.
 "
