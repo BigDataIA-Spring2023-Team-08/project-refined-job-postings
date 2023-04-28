@@ -1,0 +1,20 @@
+============================= test session starts ==============================
+platform linux -- Python 3.8.10, pytest-7.3.1, pluggy-1.0.0 -- /home/ubuntu/project/fastapi-app/new_fast/bin/python3
+cachedir: .pytest_cache
+metadata: {'Python': '3.8.10', 'Platform': 'Linux-5.15.0-1030-gcp-x86_64-with-glibc2.29', 'Packages': {'pytest': '7.3.1', 'pluggy': '1.0.0'}, 'Plugins': {'anyio': '3.6.2', 'html': '3.2.0', 'metadata': '2.0.4'}}
+rootdir: /home/ubuntu/project/fastapi-app
+plugins: anyio-3.6.2, html-3.2.0, metadata-2.0.4
+collecting ... collected 10 items
+
+unittests.py::test_incorrect_login PASSED                                [ 10%]
+unittests.py::test_incorrect_password_change PASSED                      [ 20%]
+unittests.py::test_user_details_admin PASSED                             [ 30%]
+unittests.py::test_user_details_incorrect PASSED                         [ 40%]
+unittests.py::test_check_resume PASSED                                   [ 50%]
+unittests.py::test_check_resume_incorrect PASSED                         [ 60%]
+unittests.py::test_model_as_a_service PASSED                             [ 70%]
+unittests.py::test_model_as_a_service_incorrect PASSED                   [ 80%]
+unittests.py::test_logs_admin PASSED                                     [ 90%]
+unittests.py::test_logs_user PASSED                                      [100%]
+
+============================= 10 passed in 16.88s ==============================
