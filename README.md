@@ -56,7 +56,7 @@ The task involves building a decoupled architecture for the application:
 
 
 ## Architecture Diagram
-![arch-diag](https://github.com/BigDataIA-Spring2023-Team-08/assignment05-fit-finder-app/blob/main/application-use-test-cases/ff-motion.png)
+![arch-diag](https://github.com/BigDataIA-Spring2023-Team-08/project-refined-job-postings/blob/main/architecture-diagram/careercompass_architecture.png)
 
 ## Model Selection and Comparisons
 
