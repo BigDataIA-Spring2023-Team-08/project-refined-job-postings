@@ -150,7 +150,7 @@ After this, we create a log group within CloudWatch and 3 different log streams 
 
 Performed unit tests using the pytest module. The tests are within the fastapi-app folder & passing. Test outputs are stored as a [`unittest_results.html`](https://github.com/BigDataIA-Spring2023-Team-08/project-refined-job-postings/blob/main/fastapi-app/unittest_results.html) report as well as [`unittest_results.log`](https://github.com/BigDataIA-Spring2023-Team-08/project-refined-job-postings/blob/main/fastapi-app/unittest_results.log) file. Here is a screenshot of the .html file: 
 
-![arch-diag](https://github.com/BigDataIA-Spring2023-Team-08/project-refined-job-postings/blob/main/architecture-diagram/careercompass_architecture.png)
+![unit-tests](https://github.com/BigDataIA-Spring2023-Team-08/project-refined-job-postings/blob/main/fastapi-app/unittest%20html%20report%20image.png)
 
 
 -----
