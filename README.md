@@ -21,12 +21,14 @@
   - [Abstract 📝](#abstract)
   - [Architecture Diagram 🏗](#architecture-diagram)
   - [Repository Components 🗃️](#repository-components)
+  - [Model Selection & Comparisons 🧬](#model-selection-&-comparisons)
   - [Project Components 💽](#project-components)
+    - [Scraping Jobs](#scraping-jobs)
     - [FastAPI](#fastapi)
     - [Streamlit](#streamlit)
     - [Airflow](#airflow)
     - [Great Expectations](#great-expectations)
-    - [Docker](#docker)
+    - [AWS CloudWatch](#aws-cloudwatch)
   - [How to run the application 💻](#how-to-run-the-application-locally)
 ----- 
 
