@@ -36,7 +36,7 @@ In this tough employment market where job seekers are incessantly applying for v
 Through our proposed application, we aim to mitigate the stress and provide a solution to address the problem by helping job applicants get matched to job roles and positions they could potentially be a great fit for!
 
 ## Objective
-To build an application that provides users and job applicants with refined job postings daily based on their resume. As a function of this service, users will be recommended 3 job descriptions that best matches the experience and skillsets present on their resume.
+Building an application to assist job seekers in saving time by providing personalised job recommendations based on their resume. The application aims to simplify the job search process by using Count Vectorizer to match the job seeker's skills and experience with the most relevant job postings. By presenting the top 3 matched job postings daily, the application helps job seekers to focus on the most promising opportunities, increasing their chances of success and ultimately saving their time and effort in the job search process. 
 
 ## Abstract
 The task involves building a decoupled architecture for the application:
@@ -58,7 +58,16 @@ The task involves building a decoupled architecture for the application:
 
 ## Repository Components
 
+## Model Selection & Comparisons
+
+In order to properly engineer our application & use case we had to explore the options available for us. We initially decided to fine-tune BERT and use it. However, we ran into multiple issues. We have also tried other models and did comparisons before selecting our final model. All necessary details (test code, findings, comments, models compared) can be found in this document which we have maintained: [Findings for ML models or Model as a Service](https://docs.google.com/document/d/1gTjyj82cb5uPjKOrgoDWziR6oFk9DpJVQcfjh2GHEJ4/edit?usp=sharing)
+
 ## Project Components
+
+### Scraping Jobs
+LinkedIn jobs are scraped for the three job titles considered in our application, namely, Data Analyst, Data Engineer, Data Scientist 
+
+We will like to thank the user/group for developing this LinkedIn scraper which is available, we use this code and edit things as per our use case to perform the job scraping: [LinkedIn job scraper](https://pypi.org/project/linkedin-jobs-scraper/)
 
 ### FastAPI
 [FastAPI](https://fastapi.tiangolo.com/) is a modern, high-performance web framework used for building RESTful APIs in Python which enables developers to implement the REST interface to call commonly used functions for use in applications. In this application, the framework has been implemented to create endpoints to interact with various services.
@@ -104,6 +113,17 @@ Airflow consists of 3 DAGs. 2 of these DAGs are triggered through a RESTAPI call
 3) **publish_s3_jobs_data_report DAG** -
 
 > `Task`: ***publish_s3_jobs_data_report DAG*** uploads the html validation reports executed by the previous dag to a result folder of the S3 bucket which can then be viewed through static web hosting.
+
+### AWS CloudWatch
+Logging is an essential part of any code/application. It gives us details about code functioning and can be helpful while testing out the code. Not only this, logging user level actions also gives an idea about what actions are being performed both in the UI as well as the functions being executed in our backend. We implement logs using AWS CloudWatch.
+
+Set up for logging to AWS CloudWatch:
+For this, you need to set up an IAM AWS user with a policy attached for full access to logs. After this, generate your credentials as previously done for the boto3 client and store these logging credentials in the .env configuration file as AWS_LOG_ACCESS_KEY and AWS_LOG_SECRET_KEY.
+
+After this, we create a log group within CloudWatch and 3 different log streams as follows:
+  - <b>api:</b> to store logs of all activity related to the FastAPI endpoints calls, response code & messages
+  - <b>airflow:</b> logs for Airflow DAGs run
+  - <b>ui:</b> logs the pages user opens while running our application, or when any error response is encountered. Also notes when a DAG is triggered or API endpoint is called
 
 ## How to run the application locally
 
