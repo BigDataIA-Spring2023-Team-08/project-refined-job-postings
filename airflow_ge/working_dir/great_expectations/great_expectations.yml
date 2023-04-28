@@ -15,11 +15,11 @@ config_version: 3.0
 # add a new datasource. Read more at https://docs.greatexpectations.io/docs/guides/connecting_to_your_data/connect_to_data_overview
 datasources:
   my_datasource:
-    class_name: PandasDatasource
-    module_name: great_expectations.datasource
     data_asset_type:
       class_name: PandasDataset
       module_name: great_expectations.dataset
+    class_name: PandasDatasource
+    module_name: great_expectations.datasource
 config_variables_file_path: uncommitted/config_variables.yml
 
 # The plugins_directory will be added to your python path for custom modules
@@ -82,11 +82,11 @@ data_docs_sites:
       class_name: DefaultSiteIndexBuilder
 
 anonymous_usage_statistics:
-  enabled: true
   data_context_id: 2935a05c-39fa-40e5-829c-75fbe5aa9149
+  enabled: true
 include_rendered_content:
-  expectation_suite: false
   globally: false
+  expectation_suite: false
   expectation_validation_result: false
 notebooks:
 fluent_datasources:
@@ -95,4 +95,14 @@ fluent_datasources:
     base_directory: /Users/merwinroy/Desktop/Final Project/airflow_ge/working_dir/great_expectations/data
   s3local_datasource:
     type: pandas_filesystem
+    assets:
+      jobs_data_analyst_entry_level_asset:
+        type: csv
+        batching_regex: jobs_data_analyst_entry_level\.csv
+      jobs_data_engineer_entry_level_asset:
+        type: csv
+        batching_regex: jobs_data_engineer_entry_level\.csv
+      jobs_data_scientist_entry_level_asset:
+        type: csv
+        batching_regex: jobs_data_scientist_entry_level\.csv
     base_directory: /opt/airflow/working_dir/great_expectations/data
