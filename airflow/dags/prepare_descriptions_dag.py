@@ -10,7 +10,6 @@ import boto3
 import time
 import re
 import json
-# from pypdf import PdfReader
 import docx
 
 #load local environment
@@ -30,7 +29,7 @@ s3resource = boto3.resource('s3',
                     aws_secret_access_key = aws_secret_access_key
                     )
 
-#authenticate S3 resource with your user credentials that are stored in your .env config file
+#authenticate S3 client with your user credentials that are stored in your .env config file
 s3client = boto3.client('s3',
                     region_name='us-east-1',
                     aws_access_key_id = aws_access_key_id,
@@ -45,7 +44,16 @@ clientLogs = boto3.client('logs',
                         )
 
 def preprocess_job_descriptions():
-
+    """DAG's function to prepare dataset after procesisng the job descriptions that were scraped. The job descriptions 
+    are fetched from S3 bucket. The processed csv later on is again stored onto S3 bucket.
+    -----
+    Input parameters:
+    None
+    -----
+    Returns:
+    True
+    """
+    
     clientLogs.put_log_events(      #logging to AWS CloudWatch logs
             logGroupName = "project-refined-job-postings",
             logStreamName = "airflow",

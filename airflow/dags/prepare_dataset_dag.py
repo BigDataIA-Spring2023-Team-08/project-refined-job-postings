@@ -10,7 +10,6 @@ import boto3
 import time
 import re
 import json
-# from pypdf import PdfReader
 import docx
 
 #load local environment
@@ -30,7 +29,7 @@ s3resource = boto3.resource('s3',
                     aws_secret_access_key = aws_secret_access_key
                     )
 
-#authenticate S3 resource with your user credentials that are stored in your .env config file
+#authenticate S3 client with your user credentials that are stored in your .env config file
 s3client = boto3.client('s3',
                     region_name='us-east-1',
                     aws_access_key_id = aws_access_key_id,
@@ -45,6 +44,21 @@ clientLogs = boto3.client('logs',
                         )
 
 def prepare_dataset(**kwargs):
+    """DAG's function to prepare adhoc dataset containing job descriptions & resume content as a csv. The csv
+    is uploaded to the S3 bucket. Dataset is created using the input parameters provided which help fetch 
+    the user's resume content and the job descriptions for the job title selected.
+    -----
+    Input parameters:
+    Dynamic input parameters defined using kwargs. However, for our use-case on every trigger of this DAG, we provide
+    the conf vairable with the key and value pairs. We provide:
+    username : string
+        the username of the user who triggered the DAG run from streamlit UI
+    job_title: string
+        the job title selected by user from the streamlit UI
+    -----
+    Returns:
+    True
+    """
 
     clientLogs.put_log_events(      #logging to AWS CloudWatch logs
             logGroupName = "project-refined-job-postings",

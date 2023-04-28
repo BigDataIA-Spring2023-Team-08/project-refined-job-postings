@@ -29,7 +29,7 @@ s3resource = boto3.resource('s3',
                     aws_secret_access_key = aws_secret_access_key
                     )
 
-#authenticate S3 resource with your user credentials that are stored in your .env config file
+#authenticate S3 client with your user credentials that are stored in your .env config file
 s3client = boto3.client('s3',
                     region_name='us-east-1',
                     aws_access_key_id = aws_access_key_id,
@@ -44,6 +44,19 @@ clientLogs = boto3.client('logs',
                         )
 
 def preprocess_resume_descriptions(**kwargs):
+    """DAG's function to preprocess a user's resume by reading the text and cleaning it and then storing it as a csv
+    of 25 rows in S3. Resume of the user is selected using the input parameters provided which help fetch 
+    the user's resume content.
+    -----
+    Input parameters:
+    Dynamic input parameters defined using kwargs. However, for our use-case on every trigger of this DAG, we provide
+    the conf vairable with the key and value pairs. We provide:
+    username : string
+        the username of the user who triggered the DAG run from streamlit UI
+    -----
+    Returns:
+    True
+    """
 
     clientLogs.put_log_events(      #logging to AWS CloudWatch logs
             logGroupName = "project-refined-job-postings",
@@ -56,12 +69,11 @@ def preprocess_resume_descriptions(**kwargs):
             ]
     )
 
-    #########add username as parameter - use restapi call
-    username = kwargs['dag_run'].conf.get('username')
-
-    resume_df = pd.DataFrame(columns=['ResumeName','ResumeText'])   #will store the contents of each file on the S3 bcket as df
+    username = kwargs['dag_run'].conf.get('username')   #get the username which is provided as an argument in the restapi call
+    resume_df = pd.DataFrame(columns=['ResumeName','ResumeText'])   #df for storing the data: consists of 2 columns
+    
     i=0 #being used to check for first object, could also use a boolean flag
-    for objects in s3resource.Bucket(user_bucket).objects.filter(Prefix='dataset/user-uploads/'):   #traverse through the files found on the S3 bucket batch folder
+    for objects in s3resource.Bucket(user_bucket).objects.filter(Prefix='dataset/user-uploads/'):   #traverse through the files on the S3 bucket consisting user uploads
         if(i==0):
             pass    #since the first object is the root directory object, we do not need this so pass
         else:
@@ -134,10 +146,21 @@ def preprocess_resume_descriptions(**kwargs):
         return new_text
 
     def clean_text(text):
-        text = text.replace("\t", "\n")
-        text = filter_multiple_new_lines(text)
-        text = text.lower()
-        text = text.strip()
+        """
+        This fucntion cleans the given chunks of text by removing extra spaces, converting to lower case, removing email,
+        phone numbers, websites, years, certain special characters & months mentioned in a resume
+        -----
+        Input parameters:
+            text: string of text from resume
+        -----
+        Returns:
+            text: cleaned text
+
+        """
+        text = text.replace("\t", "\n") #replace tab spaces with a line break
+        text = filter_multiple_new_lines(text)  
+        text = text.lower() #convert text to lower case
+        text = text.strip() #strip whitespaces
         text = filter_phone_numbers(text)
         text = filter_emails(text)
         text = filter_websites(text)
@@ -145,12 +168,11 @@ def preprocess_resume_descriptions(**kwargs):
         text = filter_year(text)
         text = filter_text(text)
         text = filter_multiple_new_lines(text)
-        #print(text)
-        return text
+        return text #return cleaned text
 
     resume_df['CleanedText'] = resume_df.ResumeText.apply(clean_text)   #apply the cleaning function to the ResumeText column
-    resume_df = resume_df[['ResumeName','CleanedText']] #trim the df to exclude to old description column
-    resume_df = resume_df.append([resume_df]*24,ignore_index=True)
+    resume_df = resume_df[['ResumeName','CleanedText']] #trim the df to exclude the old description column
+    resume_df = resume_df.append([resume_df]*24,ignore_index=True)  #replicate the row 24 times to get total of 25 rows since there will be 25 job descriptions to compare against each time
     resume_df.to_csv(f'./files/res_{username}.csv', index=False)    #convert df to csv locally
     key = f'dataset/user-uploads/res_{username}.csv'    #define S3 path to upload cleaned csv
     s3resource.Object(user_bucket, key).put(Body=open(f'./files/res_{username}.csv', 'rb')) #upload csv to S3
