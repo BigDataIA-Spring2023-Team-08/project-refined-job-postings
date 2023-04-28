@@ -8,4 +8,5 @@ class User_Table(Base):   #class to create schema for the table of users in db
     name = Column(String)
     username = Column(String)
     password = Column(String)
+    user_type = Column(String)
     resume_file = Column(String)
