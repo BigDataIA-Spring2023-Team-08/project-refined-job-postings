@@ -5,7 +5,7 @@
 ##### Image Source: [Storyset](https://storyset.com/)
 ----- 
 
-> ✅ Active status <br>
+> 💤 Inactive status <br>
 > [🚀 Application link](http://34.74.232.103:8003/) <br>
 > [⏱ Airflow](http://34.74.232.103:8082/) <br>
 > [🧑🏻‍💻 FastAPI](http://34.74.232.103:8002/docs) <br>
